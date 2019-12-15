@@ -9,7 +9,7 @@ num_employees   INTEGER,
 ceo             VARCHAR(40),
 sector          VARCHAR(22),
 industry        VARCHAR(46),
-hq_state        VARCHAR(12),
+hq_state        VARCHAR(21),
 hq_city         VARCHAR(25),
 latitude        FLOAT,
 longitude       INTEGER
@@ -17,7 +17,7 @@ longitude       INTEGER
 
 DROP TABLE IF EXISTS CityInfo;
 CREATE TABLE CityInfo (
-state_name              VARCHAR(12),
+state_name              VARCHAR(21),
 city_name               VARCHAR(25),
 city_population         INTEGER,
 num_murders             INTEGER,
@@ -32,7 +32,7 @@ num_arsons              INTEGER
 
 DROP TABLE IF EXISTS StateInfo;
 CREATE TABLE StateInfo (
-state_name          VARCHAR(12),
+state_name          VARCHAR(21),
 state_code          VARCHAR(2),
 dollar_parity       FLOAT,
 goods_parity        FLOAT,

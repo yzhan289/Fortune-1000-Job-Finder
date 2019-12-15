@@ -1,6 +1,6 @@
 Databases-Project
 
-To set up a table, create a credentials file with the following format:
+To set up the tables, create a credentials file with the following format:
     <username>
     <password>
     <host>
