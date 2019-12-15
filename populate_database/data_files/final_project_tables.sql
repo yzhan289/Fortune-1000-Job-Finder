@@ -38,3 +38,13 @@ dollar_parity       FLOAT,
 goods_parity        FLOAT,
 rent_parity         FLOAT
 );
+
+DROP VIEW IF EXISTS CompactCrimeData;
+CREATE VIEW CompactCrimeData AS
+SELECT
+	state_name,
+	city_name,
+	(num_murders + num_rapes + num_robbery + num_assaults) AS num_violent_crime,
+	(num_burglaries + num_larcenies + num_motor_thefts + num_arsons) AS num_property_crime,
+	(num_murders + num_rapes + num_robbery + num_assaults + num_burglaries + num_larcenies + num_motor_thefts + num_arsons) AS total_crimes
+FROM CityInfo;
