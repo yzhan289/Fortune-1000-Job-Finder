@@ -1,0 +1,1000 @@
+1,Walmart,1,9862.00 ,-27.70,2300000,C. Douglas McMillon,Retailing,General Merchandisers,Bentonville,AR,36.3728538,-94.2088172
+2,Exxon Mobil,4,19710.00 ,151.40,71200,Darren W. Woods,Energy,Petroleum Refining,Irving,TX,32.8140177,-96.9488945
+3,Berkshire Hathaway,2,44940.00 ,86.70,377000,Warren E. Buffett,Financials,Insurance: Property and Casualty (Stock),Omaha,NE,41.2565369,-95.9345034
+4,Apple,3,48351.00 ,5.80,123000,Timothy D. Cook,Technology,"Computers, Office Equipment",Cupertino,CA,37.3229978,-122.0321823
+5,UnitedHealth Group,6,10558.00 ,50.50,260000,David S. Wichmann,Health Care,Health Care: Insurance and Managed Care,Minnetonka,MN,44.9211836,-93.4687489
+6,McKesson,5,5070.00 ,124.50,64500,John H. Hammergren,Wholesalers,Wholesalers: Health Care,SF,CA,37.7749295,-122.4194155
+7,CVS Health,7,6622.00 ,24.50,203000,Larry J. Merlo,Health Care,Health Care: Pharmacy and Other Services,Woonsocket,RI,42.0028761,-71.5147839
+8,Amazon.com,12,3033.00 ,27.90,566000,Jeffrey P. Bezos,Retailing,Internet Services and Retailing,Seattle,WA,47.6062095,-122.3320708
+9,AT&T,9,29450.00 ,127.00,254000,Randall L. Stephenson,Telecommunications,Telecommunications,Dallas,TX,32.7766642,-96.7969879
+10,General Motors,8,3864.00,-141.00,180000,Mary T. Barra,Motor Vehicles &  Parts,Motor Vehicles and Parts,Detroit,MI,42.331427,-83.0457538
+11,Ford Motor,10,7602.00 ,65.40,202000,James P. Hackett,Motor Vehicles &  Parts,Motor Vehicles and Parts,Dearborn,MI,42.3222599,-83.1763145
+12,AmerisourceBergen,11,364.50 ,-74.50,19500,Steven H. Collis,Wholesalers,Wholesalers: Health Care,Chesterbrook,PA,40.0756627,-75.4590816
+13,Chevron,19,9195.00 ,-,51900,Michael K. Wirth,Energy,Petroleum Refining,San Ramon,CA,37.7799273,-121.9780153
+14,Cardinal Health,15,1288.00 ,-9.70,40400,Michael C. Kaufmann,Wholesalers,Wholesalers: Health Care,Dublin,OH,40.0992294,-83.1140771
+15,Costco,16,2679.00 ,14.00,182000,W. Craig Jelinek,Retailing,General Merchandisers,Issaquah,WA,47.5301011,-122.0326191
+16,Verizon,14,30101.00 ,129.30,155400,Lowell C. McAdam,Telecommunications,Telecommunications,New York,NY,40.7127753,-74.0059728
+17,Kroger,18,1907.00 ,-3.40,449000,W. Rodney McMullen,Food &  Drug Stores,Food and Drug Stores,Cincinnati,OH,39.1031182,-84.5120196
+18,General Electric,13,5786.00,-165.50,313000,John L. Flannery Jr.,Industrials,Industrial Machinery,Boston,MA,42.3600825,-71.0588801
+19,Walgreens Boots Alliance,17,4078.00 ,-2.30,290000,Stefano Pessina,Food &  Drug Stores,Food and Drug Stores,Deerfield,IL,42.1711365,-87.8445119
+20,JPMorgan Chase,21,24441.00 ,-1.20,252539,James Dimon,Financials,Commercial Banks,New York,NY,40.7127753,-74.0059728
+21,Fannie Mae,20,2463.00 ,-80.00,7200,Timothy J. Mayopoulos,Financials,Diversified Financials,Leavenworth,WA,47.7510741,-120.7401385
+22,Alphabet,27,12662.00 ,-35.00,80110,Larry Page,Technology,Internet Services and Retailing,Mountain View,CA,37.3860517,-122.0838511
+23,Home Depot,23,8630.00 ,8.50,413000,Craig A. Menear,Retailing,Specialty Retailers: Other,Atlanta,GA,33.7489954,-84.3879824
+24,Bank of America Corp.,26,18232.00 ,1.80,209376,Brian T. Moynihan,Financials,Commercial Banks,Charlotte,NC,35.2270869,-80.8431267
+25,Express Scripts Holding,22,4517.40 ,32.70,26600,Timothy C. Wentworth,Health Care,Health Care: Pharmacy and Other Services,St. Louis,MO,38.6270025,-90.1994042
+26,Wells Fargo,25,22183.00 ,1.10,262700,Timothy J. Sloan,Financials,Commercial Banks,SF,CA,37.7749295,-122.4194155
+27,Boeing,24,8197.00 ,67.50,140800,Dennis A. Muilenburg,Aerospace &  Defense,Aerospace and Defense,Chicago,IL,41.8781136,-87.6297982
+28,Phillips 66,34,5106.00 ,228.40,14600,Greg C. Garland,Energy,Petroleum Refining,Houston,TX,29.7604267,-95.3698028
+29,Anthem,29,3842.80 ,55.60,56000,Gail K. Boudreaux,Health Care,Health Care: Insurance and Managed Care,Indianapolis,IN,39.768403,-86.158068
+30,Microsoft,28,21204.00 ,26.20,124000,Satya Nadella,Technology,Computer Software,Redmond,WA,47.6739881,-122.121512
+31,Valero Energy,37,4065.00 ,77.60,10015,Joseph W. Gorder,Energy,Petroleum Refining,San Antonio,TX,29.4241219,-98.4936282
+32,Citigroup,30,6798.00,-145.60,209000,Michael L. Corbat,Financials,Commercial Banks,New York,NY,40.7127753,-74.0059728
+33,Comcast,31,22714.00 ,161.20,164000,Brian L. Roberts,Telecommunications,Telecommunications,Philadelphia,PA,39.9525839,-75.1652215
+34,IBM,32,5753.00 ,-51.50,397800,Virginia M. Rometty,Technology,Information Technology Services,Armonk,NY,41.1264849,-73.7140195
+35,Dell Technologies,41,3728.00,-,145000,Michael S. Dell,Technology,"Computers, Office Equipment",Round Rock,TX,30.5082551,-97.678896
+36,State Farm Insurance Cos.,33,2206.50 ,529.90,65664,Michael L. Tipsord,Financials,Insurance: Property and Casualty (Mutual),Bloomington,IL,40.4842027,-88.9936873
+37,Johnson & Johnson,35,1300.00 ,-92.10,134000,Alex Gorsky,Health Care,Pharmaceuticals,New Brunswick,NJ,40.4862157,-74.4518188
+38,Freddie Mac,39,5625.00 ,-28.00,6165,Donald H. Layton,Financials,Diversified Financials,McLean,VA,38.9338676,-77.1772604
+39,Target,38,2934.00 ,7.20,345000,Brian C. Cornell,Retailing,General Merchandisers,Minneapolis,MN,44.977753,-93.2650108
+40,Lowes,40,3447.00 ,11.40,255000,Robert A. Niblock,Retailing,Specialty Retailers: Other,Mooresville,NC,35.5848596,-80.8100724
+41,Marathon Petroleum,51,3432.00 ,192.30,43800,Gary R. Heminger,Energy,Petroleum Refining,Findlay,OH,41.04422,-83.6499321
+42,Procter & Gamble,36,15326.00 ,45.90,95000,David S. Taylor,Household Products,Household and Personal Products,Cincinnati,OH,39.1031182,-84.5120196
+43,MetLife,42,4010.00 ,401.30,49000,Steven A. Kandarian,Financials,"Insurance: Life, Health (stock)",New York,NY,40.7127753,-74.0059728
+44,UPS,46,4910.00 ,43.10,346415,David P. Abney,Transportation,"Mail, Package, and Freight Delivery",Atlanta,GA,33.7489954,-84.3879824
+45,PepsiCo,44,4857.00 ,-23.30,263000,Indra K. Nooyi,"Food, Beverages &  Tobacco",Food Consumer Products,Harrison,NY,41.0400135,-73.7144477
+46,Intel,47,9601.00 ,-6.90,102700,Robert H. Swan,Technology,Semiconductors and Other Electronic Components,Santa Clara,CA,37.3541079,-121.9552356
+47,DowDuPont,62,1460.00 ,-66.20,98000,Edward D. Breen,Chemicals,Chemicals,Midland,Michigan,43.623574,-84.232105
+48,Archer Daniels Midland,45,1595.00 ,24.70,31300,Juan R. Luciano,"Food, Beverages &  Tobacco",Food Production,Chicago,IL,41.8781136,-87.6297982
+49,Aetna,43,1904.00 ,-16.20,47950,Mark T. Bertolini,Health Care,Health Care: Insurance and Managed Care,Hartford,CT,41.7658043,-72.6733723
+50,FedEx,58,2997.00 ,64.70,357000,Frederick W. Smith,Transportation,"Mail, Package, and Freight Delivery",Memphis,TN,35.1495343,-90.0489801
+51,United Technologies,50,4552.00 ,-10.00,204700,Gregory J. Hayes,Aerospace &  Defense,Aerospace and Defense,Farmington,CT,41.7360305,-72.795027
+52,Prudential Financial,48,7863.00 ,80.00,49705,John R. Strangfeld,Financials,"Insurance: Life, Health (stock)",Newark,NJ,40.735657,-74.1723667
+53,Albertsons Cos.,49,373.30,-,273000,Robert G. Miller,Food &  Drug Stores,Food and Drug Stores,Boise,ID,43.6150186,-116.2023137
+54,Sysco,57,1142.50 ,20.30,66500,Thomas L. Ben�,Wholesalers,Wholesalers: Food and Grocery,Houston,TX,29.7604267,-95.3698028
+55,Disney,52,8980.00 ,-4.40,199000,Robert A. Iger,Media,Entertainment,Burbank,CA,34.1808392,-118.3089661
+56,Humana,53,2448.00 ,298.70,45900,Bruce D. Broussard,Health Care,Health Care: Insurance and Managed Care,Louisville,KY,38.2526647,-85.7584557
+57,Pfizer,54,21308.00 ,195.30,90200,Ian C. Read,Health Care,Pharmaceuticals,New York,NY,40.7127753,-74.0059728
+58,HP,61,2526.00 ,1.20,49000,Dion J. Weisler,Technology,"Computers, Office Equipment",Palo Alto,CA,37.4418834,-122.1430195
+59,Lockheed Martin,56,2002.00 ,-62.20,100000,Marillyn A. Hewson,Aerospace &  Defense,Aerospace and Defense,Bethesda,MD,38.984652,-77.0947092
+60,AIG,55,6084.00,-,49800,Brian Duperreault,Financials,Insurance: Property and Casualty (Stock),New York,NY,40.7127753,-74.0059728
+61,Centene,66,828.00 ,47.30,33700,Michael F. Neidorff,Health Care,Health Care: Insurance and Managed Care,St. Louis,MO,38.6270025,-90.1994042
+62,Cisco Systems,60,9609.00 ,-10.50,72900,Charles H. Robbins,Technology,Network and Other Communications Equipment,San Jose,CA,37.3382082,-121.8863286
+63,HCA Healthcare,63,2216.00 ,-23.30,221491,R. Milton Johnson,Health Care,Health Care: Medical Facilities,Nashville,TN,36.1626638,-86.7816016
+64,Energy Transfer Equity,79,954.00 ,-4.10,29486,John W. McReynolds,Energy,Pipelines,Dallas,TX,32.7766642,-96.7969879
+65,Caterpillar,74,754.00 ,-,98400,D. James Umpleby III,Industrials,Construction and Farm Machinery,Deerfield,IL,42.1711365,-87.8445119
+66,Nationwide,68,246.50 ,-26.20,33135,Stephen S. Rasmussen,Financials,Insurance: Property and Casualty (Mutual),Columbus,OH,39.9611755,-82.9987942
+67,Morgan Stanley,76,6111.00 ,2.20,57633,James P. Gorman,Financials,Commercial Banks,New York,NY,40.7127753,-74.0059728
+68,Liberty Mutual Insurance Group,75,17.00 ,-98.30,50000,David H. Long,Financials,Insurance: Property and Casualty (Stock),Boston,MA,42.3600825,-71.0588801
+69,New York Life Insurance,65,1866.90 ,71.60,11114,Theodore A. Mathas,Financials,"Insurance: Life, Health (Mutual)",New York,NY,40.7127753,-74.0059728
+70,Goldman Sachs Group,78,4286.00 ,-42.10,36600,Lloyd C. Blankfein,Financials,Commercial Banks,New York,NY,40.7127753,-74.0059728
+71,American Airlines Group,67,1919.00 ,-28.30,126600,W. Douglas Parker,Transportation,Airlines,Fort Worth,TX,32.7554883,-97.3307658
+72,Best Buy,72,1000.00 ,-18.60,125000,Hubert B. Joly,Retailing,Specialty Retailers: Other,Richfield,MN,44.8832982,-93.2830021
+73,Cigna,70,2237.00 ,19.80,46000,David M. Cordani,Health Care,Health Care: Insurance and Managed Care,Bloomfield,CT,41.826488,-72.7300945
+74,Charter Communications,96,9895.00 ,180.90,94800,Thomas M. Rutledge,Telecommunications,Telecommunications,Stamford,CT,41.0534302,-73.5387341
+75,Delta Air Lines,71,3577.00 ,-18.20,86564,Edward H. Bastian,Transportation,Airlines,Atlanta,GA,33.7489954,-84.3879824
+76,Facebook,98,15934.00 ,56.00,25105,Mark Zuckerberg,Technology,Internet Services and Retailing,Menlo Park,CA,37.4529598,-122.1817252
+77,Honeywell International,73,1655.00 ,-65.60,131000,Darius Adamczyk,Industrials,"Electronics, Electrical Equip.",Morris Plains,NJ,40.8395922,-74.4818698
+78,Merck,69,2394.00 ,-38.90,69000,Kenneth C. Frazier,Health Care,Pharmaceuticals,Kenilworth,NJ,40.6764911,-74.2907032
+79,Allstate,84,3189.00 ,69.90,42680,Thomas J. Wilson,Financials,Insurance: Property and Casualty (Stock),Northbrook,IL,42.1275267,-87.8289548
+80,Tyson Foods,82,1774.00 ,0.30,122000,Thomas P. Hayes,"Food, Beverages &  Tobacco",Food Production,Springdale,AR,36.1867442,-94.1288141
+81,United Continental Holdings,83,2131.00 ,-5.80,89800,Oscar Munoz,Transportation,Airlines,Chicago,IL,41.8781136,-87.6297982
+82,Oracle,81,9335.00 ,4.90,138000,Safra A. Catz/Mark V. Hurd,Technology,Computer Software,Redwood City,CA,37.4852152,-122.2363548
+83,Tech Data,107,116.60 ,-40.20,14000,Richard T. Hume,Wholesalers,Wholesalers: Electronics and Office Equipment,Clearwater,FL,27.9658533,-82.8001026
+84,TIAA,80,1049.70 ,-29.70,16829,Roger W. Ferguson Jr.,Financials,"Insurance: Life, Health (Mutual)",New York,NY,40.7127753,-74.0059728
+85,TJX,87,2607.90 ,13.50,249000,Ernie L. Herrman,Retailing,Specialty Retailers: Apparel,Framingham,MA,42.279286,-71.4161565
+86,American Express,86,2736.00 ,-49.40,55000,Stephen J. Squeri,Financials,Diversified Financials,New York,NY,40.7127753,-74.0059728
+87,Coca-Cola,64,1248.00 ,-80.90,61800,James R. Quincey,"Food, Beverages &  Tobacco",Beverages,Atlanta,GA,33.7489954,-84.3879824
+88,Publix Super Markets,85,2291.90 ,13.10,193000,Randall T. Jones Sr.,Food &  Drug Stores,Food and Drug Stores,Lakeland,FL,28.0394654,-81.9498042
+89,Nike,88,4240.00 ,12.80,74400,Mark G. Parker,Apparel,Apparel,Beaverton,OR,45.4887993,-122.8013332
+90,Andeavor,117,1528 ,108.20,14300,Gregory J. Goff,Energy,Petroleum Refining,San Antonio,TX,29.4241219,-98.4936282
+91,World Fuel Services,103,170.20,-234.50,5000,Michael J. Kasbar,Energy,Energy,Miami,FL,25.7616798,-80.1917902
+92,Exelon,89,3770.00 ,232.50,34621,Christopher M. Crane,Energy,Utilities: Gas and Electric,Chicago,IL,41.8781136,-87.6297982
+93,Massachusetts Mutual Life Insurance,77,513.00 ,-59.70,11811,Roger W. Crandall,Financials,"Insurance: Life, Health (Mutual)",Springfield,MA,42.1014831,-72.589811
+94,Rite Aid,91,4.10 ,-97.60,70430,John T. Standley,Food &  Drug Stores,Food and Drug Stores,Camp Hill,PA,40.2398118,-76.9199742
+95,ConocoPhillips,115,855.00,-,11400,Ryan M. Lance,Energy,"Mining, Crude-Oil Production",Houston,TX,29.7604267,-95.3698028
+96,CHS,93,127.90 ,-69.90,11626,Jay D. Debertin,"Food, Beverages &  Tobacco",Food Production,Inver Grove Heights,MN,44.8480218,-93.0427153
+97,3M,94,4858.00 ,-3.80,91536,Inge G. Thulin,Industrials,Miscellaneous,St Paul,MN,44.9537029,-93.0899578
+98,Time Warner,95,5247.00 ,33.60,26000,John Stankey,Media,Entertainment,New York,NY,40.7127753,-74.0059728
+99,General Dynamics,90,2912.00 ,-1.50,98600,Phebe N. Novakovic,Aerospace &  Defense,Aerospace and Defense,Falls Church,VA,38.882334,-77.1710914
+100,USAA,102,2421.90 ,36.10,32705,Stuart Parker,Financials,Insurance: Property and Casualty (Stock),San Antonio,TX,29.4241219,-98.4936282
+101,Capital One Financial,100,1982.00 ,-47.20,49300,Richard D. Fairbank,Financials,Commercial Banks,McLean,VA,38.9338676,-77.1772604
+102,Deere,105,2159.10 ,41.70,60476,Samuel R. Allen,Industrials,Construction and Farm Machinery,Moline,IL,41.5067003,-90.5151342
+103,INTL FCStone,189,6.40 ,-88.30,1607,Sean M. O'Connor,Financials,Diversified Financials,New York,NY,40.7127753,-74.0059728
+104,Northwestern Mutual,97,1017.00 ,24.30,5437,John E. Schlifske,Financials,"Insurance: Life, Health (Mutual)",Milwaukee,WI,43.0389025,-87.9064736
+105,Enterprise Products Partners,122,2799.30 ,11.40,7000,A. James Teague,Energy,Pipelines,Houston,TX,29.7604267,-95.3698028
+106,Travelers Cos.,99,2056.00 ,-31.80,30800,Alan D. Schnitzer,Financials,Insurance: Property and Casualty (Stock),New York,NY,40.7127753,-74.0059728
+107,Hewlett Packard Enterprise,59,344.00 ,-89.10,66000,Antonio Neri,Technology,"Computers, Office Equipment",Palo Alto,CA,37.4418834,-122.1430195
+108,Philip Morris International,104,6035.00 ,-13.40,80600,Andr� Calantzopoulos,"Food, Beverages &  Tobacco",Tobacco,New York,NY,40.7127753,-74.0059728
+109,Twenty-First Century Fox,101,2952.00 ,7.20,21700,James R. Murdoch,Media,Entertainment,New York,NY,40.7127753,-74.0059728
+110,AbbVie,111,5309.00 ,-10.80,29000,Richard A. Gonzalez,Health Care,Pharmaceuticals,North Chicago,IL,42.325578,-87.8411818
+111,Abbott Laboratories,135,477.00 ,-65.90,99000,Miles D. White,Health Care,Medical Products and Equipment,Lake Bluff,IL,42.304505,-87.8960712
+112,Progressive,120,1592.20 ,54.40,33656,Susan Patricia Griffith,Financials,Insurance: Property and Casualty (Stock),Mayfield,OH,41.5519952,-81.4392828
+113,Arrow Electronics,118,402.00 ,-23.10,18800,Michael J. Long,Wholesalers,Wholesalers: Electronics and Office Equipment,Centennial,CO,39.5807452,-104.8771726
+114,Kraft Heinz,106,10999.00 ,202.80,39000,Bernardo Hees,"Food, Beverages &  Tobacco",Food Consumer Products,Pittsburgh,PA,40.4406248,-79.9958864
+115,Plains GP Holdings,141,731.00,-877.70,4850,Greg L. Armstrong,Energy,Pipelines,Houston,TX,29.7604267,-95.3698028
+116,Gilead Sciences,92,4628.00 ,-65.70,10000,John F. Milligan IV,Health Care,Pharmaceuticals,San Mateo,CA,37.5585465,-122.2710788
+117,Mondelez International,109,2922.00 ,76.10,83000,Dirk Van de Put,"Food, Beverages &  Tobacco",Food Consumer Products,Deerfield,IL,42.1711365,-87.8445119
+118,Northrop Grumman,114,2015.00 ,-8.40,70000,Wesley G. Bush,Aerospace &  Defense,Aerospace and Defense,Falls Church,VA,38.882334,-77.1710914
+119,Raytheon,116,2024.00 ,-8.50,64000,Thomas A. Kennedy,Aerospace &  Defense,Aerospace and Defense,Waltham,MA,42.3764852,-71.2356113
+120,Macys,110,1547.00 ,149.90,130000,Jeffrey Gennette,Retailing,General Merchandisers,Cincinnati,OH,39.1031182,-84.5120196
+121,US Foods Holding,124,444.30 ,111.80,25204,Pietro Satriano,Wholesalers,Wholesalers: Food and Grocery,Rosemont,IL,41.9867507,-87.8721602
+122,U.S. Bancorp,125,6218.00 ,5.60,72402,Andrew J. Cecere,Financials,Commercial Banks,Minneapolis,MN,44.977753,-93.2650108
+123,Dollar General,128,1539.00 ,23.00,129000,Todd J. Vasos,Retailing,Specialty Retailers: Other,Goodlettsville,TN,36.3231066,-86.7133302
+124,International Paper,133,2144.00 ,137.20,56000,Mark S. Sutton,Materials,"Packaging, Containers",Memphis,TN,35.1495343,-90.0489801
+125,Duke Energy,121,3059.00 ,42.10,29060,Lynn J. Good,Energy,Utilities: Gas and Electric,Charlotte,NC,35.2270869,-80.8431267
+126,Southern,145,842.00 ,-65.60,31344,Thomas A. Fanning,Energy,Utilities: Gas and Electric,Atlanta,GA,33.7489954,-84.3879824
+127,Marriott International,163,1372.00 ,75.90,177000,Arne M. Sorenson,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Bethesda,MD,38.984652,-77.0947092
+128,Avnet,108,525.30 ,3.70,15700,William J. Amelio,Wholesalers,Wholesalers: Electronics and Office Equipment,Phoenix,AZ,33.4483771,-112.0740373
+129,Eli Lilly,132,204.10,-107.50,40655,David A. Ricks,Health Care,Pharmaceuticals,Indianapolis,IN,39.768403,-86.158068
+130,Amgen,123,1979.00 ,-74.40,20800,Robert A. Bradway,Health Care,Pharmaceuticals,Thousand Oaks,CA,34.1705609,-118.8375937
+131,McDonalds,112,5192.30 ,10.80,235000,Stephen J. Easterbrook,"Hotels, Restaurants &  Leisure",Food Services,Oak Brook,IL,41.8397865,-87.9535534
+132,Starbucks,131,2884.70 ,2.40,277000,Keven R. Johnson,"Hotels, Restaurants &  Leisure",Food Services,Seattle,WA,47.6062095,-122.3320708
+133,Qualcomm,119,2466.00 ,-56.80,33800,Steven M. Mollenkopf,Technology,Semiconductors and Other Electronic Components,San Diego,CA,32.715738,-117.1610838
+134,Dollar Tree,136,1714.30 ,91.30,116200,Gary M. Philbin,Retailing,Specialty Retailers: Other,Chesapeake,VA,36.7682088,-76.2874927
+135,PBF Energy,172,415.50 ,143.30,3165,Thomas J. Nimbley,Energy,Petroleum Refining,Parsippany-Troy Hills,NJ,40.8652865,-74.4173877
+136,Icahn Enterprises,168,2430.00 ,-,89034,Keith Cozza,Financials,Diversified Financials,New York,NY,40.7127753,-74.0059728
+137,Aflac,126,4604.00 ,73.10,11318,Daniel P. Amos,Financials,"Insurance: Life, Health (stock)",Columbus,GA,32.4609764,-84.9877094
+138,AutoNation,129,434.60 ,1.00,26000,Michael J. Jackson,Retailing,"Automotive Retailing, Services",Fort Lauderdale,FL,26.1224386,-80.1373174
+139,Penske Automotive Group,142,613.30 ,78.90,26000,Roger S. Penske,Retailing,"Automotive Retailing, Services",Bloomfield Hills,MI,42.583645,-83.2454883
+140,Whirlpool,137,350.00 ,-60.60,92000,Marc R. Bitzer,Industrials,"Electronics, Electrical Equip.",Benton Harbor,MI,42.1167065,-86.4541894
+141,Union Pacific,143,10712.00 ,153.10,41992,Lance M. Fritz,Transportation,Railroads,Omaha,NE,41.2565369,-95.9345034
+142,Southwest Airlines,138,3488.00 ,55.40,56110,Gary C. Kelly,Transportation,Airlines,Dallas,TX,32.7766642,-96.7969879
+143,ManpowerGroup,146,545.40 ,22.90,29000,Jonas Prising,Business Services,Temporary Help,Milwaukee,WI,43.0389025,-87.9064736
+144,Thermo Fisher Scientific,154,2225.00 ,10.10,66100,Marc N. Casper,Technology,"Scientific,Photographic and  Control Equipment",Waltham,MA,42.3764852,-71.2356113
+145,Bristol-Myers Squibb,147,1007.00 ,-77.40,23700,Giovanni Caforio,Health Care,Pharmaceuticals,New York,NY,40.7127753,-74.0059728
+146,Halliburton,173,463.00,-,55000,Jeffrey A. Miller,Energy,"Oil and Gas Equipment, Services",Houston,TX,29.7604267,-95.3698028
+147,Tenet Healthcare,134,704.00,-,111980,Ronald A. Rittenmeyer,Health Care,Health Care: Medical Facilities,Dallas,TX,32.7766642,-96.7969879
+148,Lear,151,1313.40 ,34.70,165000,Raymond E. Scott,Motor Vehicles &  Parts,Motor Vehicles and Parts,Southfield,MI,42.4733688,-83.2218731
+149,Cummins,159,999.00 ,-28.30,58600,N. Thomas Linebarger,Industrials,Industrial Machinery,Columbus,IN,39.2014404,-85.9213796
+150,Micron Technology,226,5089.00 ,-,34100,Sanjay Mehrotra,Technology,Semiconductors and Other Electronic Components,Boise,ID,43.6150186,-116.2023137
+151,Nucor,169,1318.70 ,65.60,25100,John J. Ferriola,Materials,Metals,Charlotte,NC,35.2270869,-80.8431267
+152,Molina Healthcare,156,512.00,-1084.60,20000,Joseph M. Zubretsky,Health Care,Health Care: Insurance and Managed Care,Long Beach,CA,33.7700504,-118.1937395
+153,Fluor,149,191.40 ,-32.00,56706,David T. Seaton,Engineering &  Construction,"Engineering, Construction",Irving,TX,32.8140177,-96.9488945
+154,Altria Group,148,10222.00 ,-28.20,8300,Howard A. Willard III,"Food, Beverages &  Tobacco",Tobacco,Richmond,VA,37.5407246,-77.4360481
+155,Paccar,164,1675.20 ,221.10,25000,Ronald E. Armstrong,Industrials,Construction and Farm Machinery,Bellevue,WA,47.6101497,-122.2015159
+156,Hartford Financial Services,153,3131.00,-449.40,16400,Christopher J. Swift,Financials,Insurance: Property and Casualty (Stock),Hartford,CT,41.7658043,-72.6733723
+157,Kohls,150,859.00 ,54.50,85000,Michelle D. Gass,Retailing,General Merchandisers,Menomonee Falls,WI,43.1788967,-88.1173132
+158,Western Digital,217,397.00 ,64.00,67629,Stephen D. Milligan,Technology,"Computers, Office Equipment",San Jose,CA,37.3382082,-121.8863286
+159,Jabil,152,129.10 ,-49.20,170000,Mark T. Mondello,Technology,Semiconductors and Other Electronic Components,St. Petersburg,FL,27.7676008,-82.6402915
+160,Community Health Systems,130,2459.00,-,86000,Wayne T. Smith,Health Care,Health Care: Medical Facilities,Franklin,TN,35.9250637,-86.8688899
+161,Visa,187,6699.00 ,11.80,15000,Alfred F. Kelly Jr.,Business Services,Financial Data Services,SF,CA,37.7749295,-122.4194155
+162,Danaher,144,2492.10 ,-2.40,67000,Thomas P. Joyce Jr.,Health Care,Medical Products and Equipment,Leavenworth,WA,47.7510741,-120.7401385
+163,Kimberly-Clark,155,2278.00 ,5.20,42000,Thomas J. Falk,Household Products,Household and Personal Products,Irving,TX,32.8140177,-96.9488945
+164,AECOM,161,339.40 ,253.10,87000,Michael S. Burke,Engineering &  Construction,"Engineering, Construction",Los Angeles,CA,34.0522342,-118.2436849
+165,PNC Financial Services,166,5338.00 ,36.80,51632,William S. Demchak,Financials,Commercial Banks,Pittsburgh,PA,40.4406248,-79.9958864
+166,CenturyLink,160,1389.00 ,121.90,51000,Jeffrey K. Storey,Telecommunications,Telecommunications,Monroe,LA,32.5093109,-92.1193012
+167,NextEra Energy,170,5378.00 ,84.70,14000,James L. Robo,Energy,Utilities: Gas and Electric,North Palm Beach,FL,26.8797819,-80.0533743
+168,PG& E Corp.,157,1646.00 ,18.20,23000,Geisha J. Williams,Energy,Utilities: Gas and Electric,SF,CA,37.7749295,-122.4194155
+169,Synnex,198,301.20 ,28.20,113600,Dennis Polk,Wholesalers,Wholesalers: Electronics and Office Equipment,Fremont,CA,37.5482697,-121.9885719
+170,WellCare Health Plans,195,373.70 ,54.40,8900,Kenneth A. Burdick,Health Care,Health Care: Insurance and Managed Care,Tampa,FL,27.950575,-82.4571776
+171,Performance Food Group,171,96.30 ,41.00,14000,George L. Holm,Wholesalers,Wholesalers: Food and Grocery,Richmond,VA,37.5407246,-77.4360481
+172,Sears Holdings,127,383.00,-,89000,Edward S. Lampert,Retailing,General Merchandisers,Hoffman Estates,IL,42.0629915,-88.1227199
+173,Synchrony Financial,185,1935.00 ,-14.00,16000,Margaret M. Keane,Financials,Diversified Financials,Stamford,CT,41.0534302,-73.5387341
+174,CarMax,174,627.00 ,0.60,24344,William D. Nash,Retailing,"Automotive Retailing, Services",Richmond,VA,37.5407246,-77.4360481
+175,Bank of New York Mellon,177,4090.00 ,15.30,52500,Charles W. Scharf,Financials,Commercial Banks,New York City,NY,40.7127753,-74.0059728
+176,Freeport-McMoRan,175,1817.00 ,-,25200,Richard C. Adkerson,Energy,"Mining, Crude-Oil Production",Phoenix,AZ,33.4483771,-112.0740373
+177,Genuine Parts,180,616.80 ,-10.30,48000,Paul D. Donahue,Wholesalers,Wholesalers: Diversified,Atlanta,GA,33.7489954,-84.3879824
+178,Emerson Electric,139,1518.00 ,-7.20,76500,David N. Farr,Industrials,Industrial Machinery,St. Louis,MO,38.6270025,-90.1994042
+179,DaVita,181,663.60 ,-24.60,74500,Kent J. Thiry,Health Care,Health Care: Medical Facilities,Denver,CO,39.7392358,-104.990251
+180,Supervalu,158,650.00 ,265.20,29000,Mark Gross,Food &  Drug Stores,Food and Drug Stores,Eden Prairie,MN,44.8546856,-93.470786
+181,Gap,178,848.00 ,25.40,135000,Arthur L. Peck,Retailing,Specialty Retailers: Apparel,SF,CA,37.7749295,-122.4194155
+182,General Mills,165,1657.50 ,-2.40,38000,Jeffrey L. Harmening,"Food, Beverages &  Tobacco",Food Consumer Products,Minneapolis,MN,44.977753,-93.2650108
+183,Nordstrom,188,437.00 ,23.40,76000,Blake W. Nordstrom,Retailing,General Merchandisers,Seattle,WA,47.6062095,-122.3320708
+184,Colgate-Palmolive,182,2024.00 ,-17.10,35900,Ian M. Cook,Household Products,Household and Personal Products,New York,NY,40.7127753,-74.0059728
+185,American Electric Power,167,1912.60 ,213.10,17666,Nicholas K. Akins,Energy,Utilities: Gas and Electric,Columbus,OH,39.9611755,-82.9987942
+186,XPO Logistics,191,340.20 ,393.00,95000,Bradley S. Jacobs,Transportation,Transportation and Logistics,Greenwich,CT,41.0262417,-73.6281964
+187,Goodyear Tire & Rubber,184,346.00 ,-72.60,64000,Richard J. Kramer,Motor Vehicles &  Parts,Motor Vehicles and Parts,Akron,OH,41.0814447,-81.5190053
+188,Omnicom Group,179,1088.40 ,-5.20,77300,John D. Wren,Business Services,"Advertising, marketing",New York,NY,40.7127753,-74.0059728
+189,CDW,199,523.00 ,23.20,8726,Thomas E. Richards,Technology,Information Technology Services,Lincolnshire,IL,42.1900249,-87.9084039
+190,Sherwin-Williams,236,1772.30 ,56.50,52695,John G. Morikis,Chemicals,Chemicals,Cleveland,OH,41.49932,-81.6943605
+191,PPG Industries,183,1591.00 ,81.40,47200,Michael H. McGarry,Chemicals,Chemicals,Pittsburgh,PA,40.4406248,-79.9958864
+192,Texas Instruments,206,3682.00 ,2.40,29714,Brian T. Crutcher,Technology,Semiconductors and Other Electronic Components,Dallas,TX,32.7766642,-96.7969879
+193,C.H. Robinson Worldwide,212,504.90 ,-1.70,15074,John P. Wiehoff,Transportation,Transportation and Logistics,Eden Prairie,MN,44.8546856,-93.470786
+194,WestRock,190,708.20 ,-,44800,Steven C. Voorhees,Materials,"Packaging, Containers",Atlanta,GA,33.7489954,-84.3879824
+195,Cognizant Technology Solutions,205,1504.00 ,-3.20,260000,Francisco D'Souza,Technology,Information Technology Services,Teaneck,NJ,40.8932469,-74.0116536
+196,Newell Brands,208,2748.80 ,420.80,49000,Michael B. Polk,Household Products,"Home Equipment, Furnishings",Hoboken,NJ,40.7439905,-74.0323626
+197,CBS,193,357.00 ,-71.70,14715,Leslie Moonves,Media,Entertainment,New York,NY,40.7127753,-74.0059728
+198,Envision Healthcare,538,228.00,-,57750,Christopher A. Holden,Health Care,Health Care: Pharmacy and Other Services,Nashville,TN,36.1626638,-86.7816016
+199,Monsanto,204,2260.00 ,69.20,21900,Hugh Grant,Chemicals,Chemicals,St. Louis,MO,38.6270025,-90.1994042
+200,Aramark,192,373.90 ,29.90,215000,Eric J. Foss,Business Services,Diversified Outsourcing Services,Philadelphia,PA,39.9525839,-75.1652215
+201,Applied Materials,265,3434.00 ,99.50,18400,Gary E. Dickerson,Technology,Semiconductors and Other Electronic Components,Santa Clara,CA,37.3541079,-121.9552356
+202,Waste Management,201,1949.00 ,64.90,42300,James C. Fish Jr.,Business Services,Waste Management,Houston,TX,29.7604267,-95.3698028
+203,DISH Network,186,2098.70 ,44.80,17000,W. Erik Carlson,Telecommunications,Telecommunications,Englewood,CO,39.6477653,-104.9877597
+204,Illinois Tool Works,202,1687.00 ,-17.10,50000,E. Scott Santi,Industrials,Industrial Machinery,Glenview,IL,42.0697509,-87.7878408
+205,Lincoln National,207,2079.00 ,74.40,9047,Dennis R. Glass,Financials,"Insurance: Life, Health (stock)",Wayne,PA,40.0462208,-75.3599105
+206,HollyFrontier,274,805.40 ,-,3522,George J. Damiris,Energy,Petroleum Refining,Dallas,TX,32.7766642,-96.7969879
+207,CBRE Group,214,691.50 ,20.90,80000,Robert E. Sulentic,Financials,Real estate,Los Angeles,CA,34.0522342,-118.2436849
+208,Textron,200,307.00 ,-68.10,37000,Scott C. Donnelly,Aerospace &  Defense,Aerospace and Defense,Providence,RI,41.8239891,-71.4128343
+209,Ross Stores,219,1362.80 ,21.90,82700,Barbara Rentler,Retailing,Specialty Retailers: Apparel,Dublin,CA,37.7021521,-121.9357918
+210,Principal Financial,227,2310.40 ,75.50,15378,Daniel J. Houston,Financials,"Insurance: Life, Health (stock)",Des Moines,IA,41.6005448,-93.6091064
+211,D.R. Horton,232,1038.40 ,17.20,7735,David V. Auld,Engineering &  Construction,Homebuilders,Arlington,TX,32.735687,-97.1080656
+212,Marsh & McLennan,210,1492.00 ,-15.60,64000,Daniel S. Glaser,Financials,Diversified Financials,New York,NY,40.7127753,-74.0059728
+213,Devon Energy,231,898.00 ,-,3414,David A. Hager,Energy,"Mining, Crude-Oil Production",Oklahoma City,OK,35.4675602,-97.5164276
+214,AES,194,1161.00,-,10500,Andr�s R. Gluski,Energy,Utilities: Gas and Electric,Arlington,VA,38.8816208,-77.0909809
+215,Ecolab,211,1508.40 ,22.70,48400,Douglas M. Baker Jr.,Chemicals,Chemicals,St Paul,MN,44.9537029,-93.0899578
+216,Land O'Lakes,209,314.20 ,28.30,10000,Christopher J. Policinski,"Food, Beverages &  Tobacco",Food Consumer Products,Arden Hills,MN,45.0502435,-93.1566112
+217,Loews,213,1164.00 ,78.00,18100,James S. Tisch,Financials,Insurance: Property and Casualty (Stock),New York,NY,40.7127753,-74.0059728
+218,Kinder Morgan,215,183.00 ,-74.20,10897,Steven J. Kean,Energy,Pipelines,Houston,TX,29.7604267,-95.3698028
+219,FirstEnergy,196,1724.00,-,15617,Charles E. Jones,Energy,Utilities: Gas and Electric,Akron,OH,41.0814447,-81.5190053
+220,Occidental Petroleum,278,1311.00 ,-,11000,Vicki A. Hollub,Energy,"Mining, Crude-Oil Production",Houston,TX,29.7604267,-95.3698028
+221,Viacom,224,1874.00 ,30.30,11200,Robert M. Bakish,Media,Entertainment,New York,NY,40.7127753,-74.0059728
+222,PayPal Holdings,264,1795.00 ,28.10,18700,Daniel H. Schulman,Business Services,Financial Data Services,San Jose,CA,37.3382082,-121.8863286
+223,NGL Energy Partners,237,137.00 ,-,2700,H. Michael Krimbill,Energy,Energy,Tulsa,OK,36.1539816,-95.992775
+224,Celgene,254,2940.00 ,47.10,7467,Mark J. Alles,Health Care,Pharmaceuticals,Summit,NJ,40.7146376,-74.3646122
+225,Arconic,228,74.00,-,41500,Charles P. Blankenship,Aerospace &  Defense,Aerospace and Defense,New York,NY,40.7127753,-74.0059728
+226,Kellogg,216,1269.00 ,82.90,32944,Steven A. Cahillane,"Food, Beverages &  Tobacco",Food Consumer Products,Battle Creek,MI,42.3211522,-85.1797142
+227,Las Vegas Sands,249,2806.00 ,68.00,50500,Sheldon G. Adelson,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV,36.1699412,-115.1398296
+228,Stanley Black & Decker,250,1226.00 ,27.00,57765,James M. Loree,Household Products,"Home Equipment, Furnishings",New Britain,CT,41.6612104,-72.7795419
+229,Booking Holdings,268,2340.80 ,9.60,22900,Glenn D. Fogel,Technology,Internet Services and Retailing,Norwalk,CT,41.117744,-73.4081575
+230,Lennar,260,810.50 ,-11.10,9111,Richard Beckwitt,Engineering &  Construction,Homebuilders,Miami,FL,25.7616798,-80.1917902
+231,L Brands,220,983.00 ,-15.10,59200,Leslie H. Wexner,Retailing,Specialty Retailers: Apparel,Columbus,OH,39.9611755,-82.9987942
+232,DTE Energy,272,1134.00 ,30.60,10200,Gerard M. Anderson,Energy,Utilities: Gas and Electric,Detroit,MI,42.331427,-83.0457538
+233,Dominion Energy,238,2999.00 ,41.30,16200,Thomas F. Farrell II,Energy,Utilities: Gas and Electric,Richmond,VA,37.5407246,-77.4360481
+234,Reinsurance Group of America,246,1822.20 ,159.80,2640,Anna Manning,Financials,"Insurance: Life, Health (stock)",Chesterfield,MO,38.6631083,-90.5770675
+235,J.C. Penney,221,116.00,-11700.00,98000,Jeffrey A. Davis/Joseph M. McFarland/Therace M. Risch,Retailing,General Merchandisers,Plano,TX,33.0198431,-96.6988856
+236,Mastercard,267,3915.00 ,-3.50,13400,Ajay Banga,Business Services,Financial Data Services,Harrison,NY,41.0400135,-73.7144477
+237,BlackRock,255,4970.00 ,56.70,13900,Laurence D. Fink,Financials,Securities,New York,NY,40.7127753,-74.0059728
+238,Henry Schein,243,406.30 ,-19.80,22000,Stanley M. Bergman,Wholesalers,Wholesalers: Health Care,Melville,NY,40.7934322,-73.4151214
+239,Guardian Life Ins. Co. of America,218,455.30 ,72.50,9283,Deanna M. Mulligan,Financials,"Insurance: Life, Health (Mutual)",New York,NY,40.7127753,-74.0059728
+240,Stryker,252,1020.00 ,-38.10,33000,Kevin A. Lobo,Health Care,Medical Products and Equipment,Kalamazoo,MI,42.2917069,-85.5872286
+241,Jefferies Financial Group,262,171.70 ,32.10,12700,Richard B. Handler,Financials,Diversified Financials,New York,NY,40.7127753,-74.0059728
+242,VF,230,614.90 ,-42.80,69000,Steven E. Rendle,Apparel,Apparel,Greensboro,NC,36.0726354,-79.7919754
+243,ADP,240,1733.40 ,16.10,58000,Carlos A. Rodriguez,Business Services,Diversified Outsourcing Services,Roseland,NJ,40.8206555,-74.2937594
+244,Edison International,235,565.00 ,-56.90,12521,Pedro J. Pizarro,Energy,Utilities: Gas and Electric,Rosemead,CA,34.0805651,-118.072846
+245,Biogen,248,2539.10 ,-31.40,7300,Michel Vounatsos,Health Care,Pharmaceuticals,Cambridge,MA,42.3736158,-71.1097335
+246,United States Steel,279,387.00 ,-,29200,David B. Burritt,Materials,Metals,Pittsburgh,PA,40.4406248,-79.9958864
+247,Core-Mark Holding,247,33.50 ,-38.20,8413,Thomas B. Perkins,Wholesalers,Wholesalers: Food and Grocery,South San Francisco,CA,37.654656,-122.4077498
+248,Bed Bath & Beyond,233,685.10 ,-18.60,65000,Steven H. Temares,Retailing,Specialty Retailers: Other,Union,NJ,40.6975898,-74.2631635
+249,Oneok,312,387.80 ,10.20,2470,Terry K. Spencer,Energy,Pipelines,Tulsa,OK,36.1539816,-95.992775
+250,BB& T Corp.,245,2394.00 ,-1.30,36484,Kelly S. King,Financials,Commercial Banks,Winston-Salem,NC,36.0998596,-80.244216
+251,Becton Dickinson,225,1100.00 ,12.70,41933,Vincent A. Forlenza,Health Care,Medical Products and Equipment,Franklin Lakes,NJ,41.0167639,-74.2057011
+252,Ameriprise Financial,239,1480.00 ,12.60,13312,James M. Cracchiolo,Financials,Diversified Financials,Minneapolis,MN,44.977753,-93.2650108
+253,Farmers Insurance Exchange,222,65.40,-,13015,Jeffrey J. Dailey,Financials,Insurance: Property and Casualty (Mutual),Los Angeles,CA,34.165357,-118.6089752
+254,First Data,242,1465.00 ,248.80,22000,Frank J. Bisignano,Business Services,Financial Data Services,New York,NY,40.7127753,-74.0059728
+255,Consolidated Edison,234,1525.00 ,22.50,15591,John McAvoy,Energy,Utilities: Gas and Electric,New York,NY,40.7127753,-74.0059728
+256,Parker-Hannifin,251,983.40 ,21.90,56690,Thomas L. Williams,Industrials,Industrial Machinery,Cleveland,OH,41.49932,-81.6943605
+257,Anadarko Petroleum,344,456.00,-,4400,R. A. Walker,Energy,"Mining, Crude-Oil Production",The Woodlands,TX,30.1658207,-95.4612625
+258,Estee Lauder,253,1249.00 ,12.10,46000,Fabrizio Freda,Household Products,Household and Personal Products,New York,NY,40.7127753,-74.0059728
+259,State Street Corp.,271,2177.00 ,1.60,36643,Joseph L. Hooley,Financials,Commercial Banks,Boston,MA,42.3600825,-71.0588801
+260,Tesla,383,1961.40,-,37543,Elon Musk,Motor Vehicles &  Parts,Motor Vehicles and Parts,Palo Alto,CA,37.4418834,-122.1430195
+261,Netflix,314,558.90 ,199.40,5100,Reed Hastings,Technology,Internet Services and Retailing,Los Gatos,CA,37.2358078,-121.9623751
+262,Alcoa,300,217.00 ,-,14600,Roy C. Harvey,Materials,Metals,Pittsburgh,PA,40.4406248,-79.9958864
+263,Discover Financial Services,277,2099.00 ,-12.30,16500,David W. Nelms,Financials,Commercial Banks,Riverwoods,IL,42.1675254,-87.897014
+264,Praxair,275,1247.00 ,-16.90,26461,Stephen F. Angel,Chemicals,Chemicals,Danbury,CT,41.394817,-73.4540111
+265,CSX,257,5471.00 ,219.20,24006,James M. Foote,Transportation,Railroads,Jacksonville,FL,30.3321838,-81.655651
+266,Xcel Energy,256,1148.00 ,2.20,11105,Benjamin G.S. Fowke III,Energy,Utilities: Gas and Electric,Minneapolis,MN,44.977753,-93.2650108
+267,Unum Group,258,994.20 ,6.70,9400,Richard P. McKenney,Financials,"Insurance: Life, Health (stock)",Chattanooga,TN,35.0456297,-85.3096801
+268,Universal Health Services,276,752.30 ,7.10,72300,Alan B. Miller,Health Care,Health Care: Medical Facilities,King of Prussia,PA,40.1012856,-75.3835525
+269,NRG Energy,229,2153.00,-,5940,Mauricio Gutierrez,Energy,Energy,Princeton,NJ,40.3572976,-74.6672226
+270,EOG Resources,356,2582.60 ,-,2664,William R. Thomas,Energy,"Mining, Crude-Oil Production",Houston,TX,29.7604267,-95.3698028
+271,Sempra Energy,280,256.00 ,-81.30,16046,J. Walker Martin,Energy,Utilities: Gas and Electric,San Diego,CA,32.715738,-117.1610838
+272,Toys 'R' Us,244,612.00,-,65000,David A. Brandon,Retailing,Specialty Retailers: Other,Wayne,NJ,40.9253725,-74.2765441
+273,Group 1 Automotive,261,213.40 ,45.10,14108,Earl J. Hesterberg,Retailing,"Automotive Retailing, Services",Houston,TX,29.7604267,-95.3698028
+274,Entergy,263,411.60 ,-,13504,Leo P. Denault,Energy,Utilities: Gas and Electric,New Orleans,LA,29.9510658,-90.0715323
+275,Molson Coors Brewing,522,1414.20 ,-28.40,17200,Mark R. Hunter,"Food, Beverages &  Tobacco",Beverages,Denver,CO,39.7392358,-104.990251
+276,L3 Technologies,273,677.00 ,-4.60,38000,Christopher E. Kubasik,Aerospace &  Defense,Aerospace and Defense,New York,NY,40.7127753,-74.0059728
+277,Ball,306,374.00 ,42.20,18300,John A. Hayes,Materials,"Packaging, Containers",Broomfield,CO,39.9205411,-105.0866504
+278,AutoZone,270,1280.90 ,3.20,70035,William C. Rhodes III,Retailing,Specialty Retailers: Other,Memphis,TN,35.1495343,-90.0489801
+279,Murphy USA,291,245.30 ,10.70,6900,R. Andrew Clyde,Retailing,Specialty Retailers: Other,El Dorado,AR,33.20763,-92.6662674
+280,MGM Resorts International,297,1960.30 ,78.00,68500,James J. Murren,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV,36.1699412,-115.1398296
+281,Office Depot,203,181.00 ,-65.80,45000,Gerry P. Smith,Retailing,Specialty Retailers: Other,Boca Raton,FL,26.3683064,-80.1289321
+282,Huntsman,289,636.00 ,95.10,10000,Peter R. Huntsman,Chemicals,Chemicals,The Woodlands,TX,30.1658207,-95.4612625
+283,Baxter International,281,717.00 ,-85.60,47000,Jos� E. Almeida,Health Care,Medical Products and Equipment,Deerfield,IL,42.1711365,-87.8445119
+284,Norfolk Southern,284,5404.00 ,224.00,27110,James A. Squires,Transportation,Railroads,Norfolk,VA,36.8507689,-76.2858726
+285,salesforce.com,326,127.50 ,-29.00,29000,Marc R. Benioff,Technology,Computer Software,SF,CA,37.7749295,-122.4194155
+286,Laboratory Corp. of America,290,1268.20 ,73.20,60000,David P. King,Health Care,Health Care: Pharmacy and Other Services,Burlington,NC,36.0956918,-79.4377991
+287,W.W. Grainger,282,585.70 ,-3.30,25050,Donald G. MacPherson,Wholesalers,Wholesalers: Diversified,Lake Forest,IL,42.2586342,-87.840625
+288,Qurate Retail,269,2441.00 ,97.70,28255,Gregory B. Maffei,Retailing,Internet Services and Retailing,Englewood,CO,39.6477653,-104.9877597
+289,Autoliv,283,427.10 ,-24.70,67352,Jan Carlson,Motor Vehicles &  Parts,Motor Vehicles and Parts,Auburn Hills,MI,42.6875323,-83.2341028
+290,Live Nation Entertainment,330,6.00,-304.50,15050,Michael Rapino,Media,Entertainment,Beverly Hills,CA,34.0736204,-118.4003563
+291,Xerox,162,195.00 ,-,36100,John Visentin,Technology,"Computers, Office Equipment",Norwalk,CT,41.117744,-73.4081575
+292,Leidos Holdings,381,366.00 ,50.00,31000,Roger A. Krone,Technology,Information Technology Services,Reston,VA,38.9586307,-77.3570028
+293,Corning,298,497.00,-113.50,46200,Wendell P. Weeks,Industrials,"Electronics, Electrical Equip.",Corning,NY,42.1428521,-77.0546903
+294,Lithia Motors,318,245.20 ,24.40,12899,Bryan B. DeBoer,Retailing,"Automotive Retailing, Services",Medford,OR,42.3265152,-122.8755949
+295,Expedia Group,317,378.00 ,34.10,22615,Mark D. Okerstrom,Retailing,Internet Services and Retailing,Bellevue,WA,47.6101497,-122.2015159
+296,Republic Services,299,1278.40 ,108.70,35000,Donald W. Slager,Business Services,Waste Management,Phoenix,AZ,33.4483771,-112.0740373
+297,Jacobs Engineering Group,259,293.70 ,39.60,49750,Steven J. Demetriou,Engineering &  Construction,"Engineering, Construction",Dallas,TX,32.7766642,-96.7969879
+298,Sonic Automotive,287,93.00 ,-0.20,9750,B. Scott Smith,Retailing,"Automotive Retailing, Services",Charlotte,NC,35.2270869,-80.8431267
+299,Ally Financial,286,929.00 ,-12.90,7900,Jeffrey J. Brown,Financials,Diversified Financials,Detroit,MI,42.331427,-83.0457538
+300,LKQ,304,533.70 ,15.00,43000,Dominick P. Zarcone,Wholesalers,Wholesalers: Diversified,Chicago,IL,41.8781136,-87.6297982
+301,BorgWarner,305,439.90 ,271.20,29000,James R. Verrier,Motor Vehicles &  Parts,Motor Vehicles and Parts,Auburn Hills,MI,42.6875323,-83.2341028
+302,Fidelity National Financial,293,771.00 ,18.60,24525,Raymond R. Quirk,Financials,Insurance: Property and Casualty (Stock),Jacksonville,FL,30.3321838,-81.655651
+303,SunTrust Banks,303,2273.00 ,21.00,23785,William H. Rogers Jr.,Financials,Commercial Banks,Atlanta,GA,33.7489954,-84.3879824
+304,IQVIA Holdings,390,1309.00 ,1038.30,55000,Ari Bousbib,Health Care,Health Care: Pharmacy and Other Services,Durham,NC,35.980513,-78.90511
+305,Reliance Steel & Aluminum,320,613.40 ,101.60,14900,Gregg J. Mollins,Materials,Metals,Los Angeles,CA,34.0522342,-118.2436849
+306,Nvidia,387,3047.00 ,82.90,11528,Jen-Hsun Huang,Technology,Semiconductors and Other Electronic Components,Santa Clara,CA,37.3541079,-121.9552356
+307,Voya Financial,266,2992.00,-,6300,Rodney O. Martin Jr.,Financials,Diversified Financials,New York,NY,40.7127753,-74.0059728
+308,CenterPoint Energy,362,1792.00 ,314.80,7977,Scott M. Prochazka,Energy,Utilities: Gas and Electric,Houston,TX,29.7604267,-95.3698028
+309,eBay,310,1016.00,-114.00,14100,Devin N. Wenig,Technology,Internet Services and Retailing,San Jose,CA,37.3382082,-121.8863286
+310,Eastman Chemical,309,1384.00 ,62.10,14000,Mark J. Costa,Chemicals,Chemicals,Kingsport,TN,36.548434,-82.5618186
+311,American Family Insurance Group,315,155.60 ,-52.20,11307,Jack C. Salzwedel,Financials,Insurance: Property and Casualty (Stock),Madison,WI,43.0730517,-89.4012302
+312,Steel Dynamics,347,812.70 ,112.70,7635,Mark D. Millett,Materials,Metals,Fort Wayne,IN,41.079273,-85.1393513
+313,Pacific Life,302,1365.00 ,65.70,3578,James T. Morris,Financials,"Insurance: Life, Health (stock)",Newport Beach,CA,33.6188829,-117.9298493
+314,Chesapeake Energy,343,949.00 ,-,3200,Robert D. Lawler,Energy,"Mining, Crude-Oil Production",Oklahoma City,OK,35.4675602,-97.5164276
+315,Mohawk Industries,311,971.60 ,4.40,38800,Jeffrey S. Lorberbaum,Household Products,"Home Equipment, Furnishings",Calhoun,GA,34.502587,-84.9510542
+316,Quanta Services,355,315.00 ,58.80,32800,Earl C. Austin Jr.,Engineering &  Construction,"Engineering, Construction",Houston,TX,29.7604267,-95.3698028
+317,Advance Auto Parts,292,475.50 ,3.50,55500,Thomas R. Greco,Retailing,Specialty Retailers: Other,Roanoke,VA,37.2709704,-79.9414266
+318,Owens & Minor,288,72.80 ,-33.10,8600,P. Cody Phipps,Wholesalers,Wholesalers: Health Care,Mechanicsville,VA,37.6087561,-77.3733139
+319,United Natural Foods,325,130.20 ,3.50,9700,Steven L. Spinner,Wholesalers,Wholesalers: Food and Grocery,Providence,RI,41.8239891,-71.4128343
+320,Tenneco,322,207.00 ,-41.90,32000,Brian J. Kesseler,Motor Vehicles &  Parts,Motor Vehicles and Parts,Lake Forest,IL,42.2586342,-87.840625
+321,Conagra Brands,197,639.30 ,-,12600,Sean M. Connolly,"Food, Beverages &  Tobacco",Food Consumer Products,Chicago,IL,41.8781136,-87.6297982
+322,GameStop,321,34.70 ,-90.20,39500,Shane S. Kim,Retailing,Specialty Retailers: Other,Grapevine,TX,32.9342919,-97.0780654
+323,Hormel Foods,295,846.70 ,-4.90,20200,James P. Snee,"Food, Beverages &  Tobacco",Food Consumer Products,Austin,MN,43.6666296,-92.9746367
+324,Hilton Worldwide Holdings,241,1259.00 ,261.80,163000,Christopher J. Nassetta,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",McLean,VA,38.9338676,-77.1772604
+325,Frontier Communications,313,1804.00,-,22736,Daniel J. McCarthy,Telecommunications,Telecommunications,Norwalk,CT,41.117744,-73.4081575
+326,Fidelity National Information Services,301,1319.00 ,132.20,53000,Gary A. Norcross,Business Services,Financial Data Services,Jacksonville,FL,30.3321838,-81.655651
+327,Public Service Enterprise Group,306,1574.00 ,77.50,12945,Ralph Izzo,Energy,Utilities: Gas and Electric,Newark,NJ,40.735657,-74.1723667
+328,Boston Scientific,327,104.00 ,-70.00,29000,Michael F. Mahoney,Health Care,Medical Products and Equipment,Marlboro,MA,42.3459271,-71.5522874
+329,OReilly Automotive,323,1133.80 ,9.30,60365,Gregory D. Johnson,Retailing,Specialty Retailers: Other,Springfield,MO,37.2089572,-93.2922989
+330,Charles Schwab,357,2354.00 ,24.60,17600,Walter W. Bettinger II,Financials,Securities,SF,CA,37.7749295,-122.4194155
+331,Global Partners,334,58.80 ,-,2000,Eric Slifka,Wholesalers,Wholesalers: Diversified,Waltham,MA,42.3764852,-71.2356113
+332,PVH,335,537.80 ,-2.00,28050,Emanuel Chirico,Apparel,Apparel,New York,NY,40.7127753,-74.0059728
+333,Avis Budget Group,319,361.00 ,121.50,26300,Larry D. De Shon,Retailing,"Automotive Retailing, Services",Parsippany-Troy Hills,NJ,40.8652865,-74.4173877
+334,Targa Resources,402,54.00 ,-,2130,Joe Bob Perkins,Energy,Pipelines,Houston,TX,29.7604267,-95.3698028
+335,Hertz Global Holdings,296,327.00 ,-,37000,Kathryn V. Marinello,Retailing,"Automotive Retailing, Services",Estero,FL,26.438136,-81.8067523
+336,Calpine,400,339.00,-468.50,2290,John B. Hill III,Energy,Energy,Houston,TX,29.7604267,-95.3698028
+337,Mutual of Omaha Insurance,342,862.60 ,141.90,5896,James T. Blackledge,Financials,"Insurance: Life, Health (stock)",Omaha,NE,41.2565369,-95.9345034
+338,Crown Holdings,333,323.00 ,-34.90,24342,Timothy J. Donahue,Materials,"Packaging, Containers",Philadelphia,PA,39.9525839,-75.1652215
+339,Peter Kiewit Sons,324,371.00 ,-6.30,22000,Bruce E. Grewcock,Engineering &  Construction,"Engineering, Construction",Omaha,NE,41.2565369,-95.9345034
+340,Dicks Sporting Goods,340,323.40 ,12.50,30300,Edward W. Stack,Retailing,Specialty Retailers: Other,Coraopolis,PA,40.5184013,-80.1667247
+341,PulteGroup,353,447.20 ,-25.80,4810,Ryan R. Marshall,Engineering &  Construction,Homebuilders,Atlanta,GA,33.7489954,-84.3879824
+342,Navistar International,337,30.00 ,-,11400,Troy A. Clarke,Industrials,Construction and Farm Machinery,Lisle,IL,41.801141,-88.0747875
+343,Thrivent Financial for Lutherans,316,558.40 ,-5.00,3622,Bradford L. Hewitt,Financials,"Insurance: Life, Health (Mutual)",Minneapolis,MN,44.977753,-93.2650108
+344,DCP Midstream,NULL,229.00 ,-26.60,2650,Wouter T. van Kempen,Energy,Pipelines,Denver,CO,39.7392358,-104.990251
+345,Air Products & Chemicals,294,3000.40 ,375.40,15150,Seifi Ghasemi,Chemicals,Chemicals,Allentown,PA,40.6022939,-75.4714098
+346,Veritiv,331,13.30,-163.30,8900,Mary A. Laschinger,Wholesalers,Wholesalers: Diversified,Atlanta,GA,33.7489954,-84.3879824
+347,AGCO,370,186.40 ,16.40,20462,Martin H. Richenhagen,Industrials,Construction and Farm Machinery,Duluth,GA,34.0028786,-84.1446376
+348,Genworth Financial,329,817.00 ,-,3500,Thomas J. McInerney,Financials,"Insurance: Life, Health (stock)",Richmond,VA,37.5407246,-77.4360481
+349,Univar,338,119.80 ,-,8600,David C. Jukes,Wholesalers,Wholesalers: Diversified,Downers Grove,IL,41.8089191,-88.0111746
+350,News Corp.,332,738.00,-512.30,26000,Robert J. Thomson,Media,"Publishing, Printing",New York,NY,40.7127753,-74.0059728
+351,SpartanNash,350,52.80,-193.00,11950,David M. Staples,Wholesalers,Wholesalers: Food and Grocery,Byron Center,MI,42.8122508,-85.7228061
+352,Westlake Chemical,507,1304.00 ,226.90,8799,Albert Yuan Chao,Chemicals,Chemicals,Houston,TX,29.7604267,-95.3698028
+353,Williams,367,2174.00 ,-,5425,Alan S. Armstrong,Energy,Energy,Tulsa,OK,36.1539816,-95.992775
+354,Lam Research,440,1697.80 ,85.70,9400,Martin B. Anstice,Technology,Semiconductors and Other Electronic Components,Fremont,CA,37.5482697,-121.9885719
+355,Alaska Air Group,438,1034.00 ,27.00,23156,Bradley D. Tilden,Transportation,Airlines,Seattle,WA,47.6062095,-122.3320708
+356,Jones Lang LaSalle,391,254.20 ,-20.10,81900,Christian Ulbrich,Financials,Real estate,Chicago,IL,41.8781136,-87.6297982
+357,Anixter International,359,109.00 ,-9.50,8900,Robert J. Eck,Wholesalers,Wholesalers: Electronics and Office Equipment,Glenview,IL,42.0697509,-87.7878408
+358,Campbell Soup,339,887.00 ,57.50,18000,Denise M. Morrison,"Food, Beverages &  Tobacco",Food Consumer Products,Camden,NJ,39.9259463,-75.1196199
+359,Interpublic Group,345,579.00 ,-4.80,50200,Michael I. Roth,Business Services,"Advertising, marketing",New York,NY,40.7127753,-74.0059728
+360,Dover,392,811.70 ,59.50,29000,Richard J. Tobin,Industrials,Industrial Machinery,Downers Grove,IL,41.8089191,-88.0111746
+361,Zimmer Biomet Holdings,352,1813.80 ,492.90,18200,Bryan C. Hanson,Health Care,Medical Products and Equipment,Warsaw,IN,41.2381,-85.8530469
+362,Dean Foods,351,61.60 ,-48.60,16000,Ralph P. Scozzafava,"Food, Beverages &  Tobacco",Food Consumer Products,Dallas,TX,32.7766642,-96.7969879
+363,Foot Locker,348,284.00 ,-57.20,32175,Richard A. Johnson,Retailing,Specialty Retailers: Apparel,New York,NY,40.7127753,-74.0059728
+364,Eversource Energy,358,988.00 ,4.80,8084,James J. Judge,Energy,Utilities: Gas and Electric,Springfield,MA,42.1014831,-72.589811
+365,Alliance Data Systems,378,788.70 ,52.90,20000,Edward J. Heffernan,Business Services,Financial Data Services,Plano,TX,33.0198431,-96.6988856
+366,Fifth Third Bancorp,389,2194.00 ,40.30,18125,Greg D. Carmichael,Financials,Commercial Banks,Cincinnati,OH,39.1031182,-84.5120196
+367,Quest Diagnostics,366,772.00 ,19.70,45000,Stephen H. Rusckowski,Health Care,Health Care: Pharmacy and Other Services,Secaucus,NJ,40.7895453,-74.0565298
+368,EMCOR Group,360,227.20 ,24.90,32000,Anthony J. Guzzi,Engineering &  Construction,"Engineering, Construction",Norwalk,CT,41.117744,-73.4081575
+369,W.R. Berkley,354,549.10 ,-8.80,7722,W. Robert Berkley Jr.,Financials,Insurance: Property and Casualty (Stock),Greenwich,CT,41.0262417,-73.6281964
+370,WESCO International,373,163.50 ,60.90,9100,John J. Engel,Wholesalers,Wholesalers: Diversified,Pittsburgh,PA,40.4406248,-79.9958864
+371,Coty,558,422.20,-369.10,22000,Camillo Pane,Household Products,Household and Personal Products,New York,NY,40.7127753,-74.0059728
+372,WEC Energy Group,368,1203.70 ,28.20,8129,Gale E. Klappa,Energy,Utilities: Gas and Electric,Milwaukee,WI,43.0389025,-87.9064736
+373,Masco,372,533.00 ,8.60,26000,Keith J. Allman,Household Products,"Home Equipment, Furnishings",Livonia,MI,42.36837,-83.3527097
+374,DXC Technology,NULL,123.00,-149.00,60000,J. Michael Lawrie,Technology,Information Technology Services,Tysons,VA,38.9187222,-77.2310925
+375,Auto-Owners Insurance,398,645.70 ,-8.60,5227,Jeffrey S. Tagsold,Financials,Insurance: Property and Casualty (Mutual),Lansing,MI,42.732535,-84.5555347
+376,Jones Financial (Edward Jones),403,872.00 ,16.90,45000,James D. Weddle,Financials,Securities,Des Peres,MO,38.59722,-90.448126
+377,Liberty Media,491,1354.00 ,99.10,4393,Gregory B. Maffei,Media,Entertainment,Englewood,CO,39.6477653,-104.9877597
+378,Erie Insurance Group,382,857.50 ,15.60,5260,Timothy G. NeCastro,Financials,Insurance: Property and Casualty (Mutual),Erie,PA,42.1292241,-80.085059
+379,Hershey,369,783.00 ,8.70,16135,Michele G. Buck,"Food, Beverages &  Tobacco",Food Consumer Products,Hershey,PA,40.2859239,-76.6502468
+380,PPL,365,1128.00 ,-40.70,12512,William H. Spence,Energy,Utilities: Gas and Electric,Allentown,PA,40.6022939,-75.4714098
+381,Huntington Ingalls Industries,380,479.00 ,-16.40,38000,C. Michael Petters,Aerospace &  Defense,Aerospace and Defense,Newport News,VA,37.0870821,-76.4730122
+382,Mosaic,377,107.20,-136.00,8500,James C. O'Rourke,Chemicals,Chemicals,Plymouth,MN,45.0105194,-93.4555093
+383,J.M. Smucker,346,592.30 ,-14.00,7140,Mark T. Smucker,"Food, Beverages &  Tobacco",Food Consumer Products,Orrville,OH,40.8436663,-81.7640212
+384,Delek US Holdings,480,288.80 ,-,3941,Ezra Uzi Yemin,Energy,Petroleum Refining,Brentwood,TN,36.0331164,-86.7827772
+385,Newmont Mining,328,98.00,-,12569,Gary J. Goldberg,Energy,"Mining, Crude-Oil Production",Greenwood Village,CO,39.6172101,-104.9508141
+386,Constellation Brands,408,1535.10 ,45.50,8700,Robert S. Sands,"Food, Beverages &  Tobacco",Beverages,Victor,NY,42.9825633,-77.4088794
+387,Ryder System,394,790.60 ,201.20,36100,Robert E. Sanchez,Transportation,"Trucking, Truck Leasing",Miami,FL,25.7616798,-80.1917902
+388,National Oilwell Varco,375,237.00,-,31605,Clay C. Williams,Energy,"Oil and Gas Equipment, Services",Houston,TX,29.7604267,-95.3698028
+389,Adobe Systems,443,1694.00 ,44.90,17973,Shantanu Narayen,Technology,Computer Software,San Jose,CA,37.3382082,-121.8863286
+390,LifePoint Health,374,102.40 ,-16.00,42000,William F. Carpenter III,Health Care,Health Care: Medical Facilities,Brentwood,TN,36.0331164,-86.7827772
+391,Tractor Supply,396,422.60 ,-3.30,21000,Gregory A. Sandfort,Retailing,Specialty Retailers: Other,Brentwood,TN,36.0331164,-86.7827772
+392,Thor Industries,540,374.30 ,45.90,17800,Robert W. Martin,Motor Vehicles &  Parts,Motor Vehicles and Parts,Elkhart,IN,41.6819935,-85.9766671
+393,Dana,447,111.00 ,-82.70,30100,James K. Kamsickas,Motor Vehicles &  Parts,Motor Vehicles and Parts,Maumee,OH,41.5628294,-83.6538244
+394,Weyerhaeuser,341,582.00 ,-43.30,9300,Doyle R. Simons,Materials,Forest and Paper Products,Seattle,WA,47.6062095,-122.3320708
+395,J.B. Hunt Transport Services,407,686.30 ,58.80,24681,John N. Roberts III,Transportation,"Trucking, Truck Leasing",Lowell,AR,36.2553543,-94.1307587
+396,Darden Restaurants,385,479.10 ,27.80,178729,Eugene I. Lee Jr.,"Hotels, Restaurants &  Leisure",Food Services,Orlando,FL,28.5383355,-81.3792365
+397,Yum China Holdings,399,403.00 ,-19.70,450000,Joey Wat,"Hotels, Restaurants &  Leisure",Food Services,Plano,TX,33.0198431,-96.6988856
+398,Blackstone Group,503,1470.80 ,41.50,2360,Stephen A. Schwarzman,Financials,Diversified Financials,New York,NY,40.7127753,-74.0059728
+399,Berry Global Group,413,340.00 ,44.10,23000,Thomas E. Salmon,Materials,"Packaging, Containers",Evansville,IN,37.9715592,-87.5710898
+400,Builders FirstSource,421,38.80 ,-73.10,15000,M. Chad Crow,Materials,"Building Materials, Glass",Dallas,TX,32.7766642,-96.7969879
+401,Activision Blizzard,406,273.00 ,-71.70,9800,Robert A. Kotick,Technology,Entertainment,Santa Monica,CA,34.0194543,-118.4911912
+402,JetBlue Airways,403,1147.00 ,51.10,17424,Robin Hayes,Transportation,Airlines,,NY,40.744679,-73.9485424
+403,Amphenol,424,650.50 ,-21.00,70000,R. Adam Norwitt,Technology,Network and Other Communications Equipment,Wallingford,CT,41.4570108,-72.8230736
+404,A-Mark Precious Metals,395,7.10 ,-23.60,126,Gregory N. Roberts,Materials,Miscellaneous,El Segundo,CA,33.9191799,-118.4164652
+405,Spirit AeroSystems Holdings,393,354.90 ,-24.40,15500,Thomas C. Gentile III,Aerospace &  Defense,Aerospace and Defense,Wichita,KS,37.6871761,-97.330053
+406,R.R. Donnelley & Sons,388,34.40,-,42700,Daniel L. Knotts,Media,"Publishing, Printing",Chicago,IL,41.8781136,-87.6297982
+407,Harris,363,553.00 ,70.70,17000,William M. Brown,Aerospace &  Defense,Aerospace and Defense,Melbourne,FL,28.0836269,-80.6081089
+408,Expeditors Intl. of Washington,429,489.30 ,13.60,16500,Jeffrey S. Musser,Transportation,Transportation and Logistics,Seattle,WA,47.6062095,-122.3320708
+409,Discovery,412,337.00,-128.20,7000,David M. Zaslav,Media,Entertainment,Silver Spring,MD,38.9906657,-77.026088
+410,Owens-Illinois,401,180.00 ,-13.90,26500,Andres A. Lopez,Materials,"Packaging, Containers",Perrysburg,OH,41.556996,-83.627157
+411,Sanmina,414,138.80 ,-26.10,41250,Robert K. Eulau,Technology,Semiconductors and Other Electronic Components,San Jose,CA,37.3382082,-121.8863286
+412,KeyCorp,479,1296.00 ,63.80,18415,Beth E. Mooney,Financials,Commercial Banks,Cleveland,OH,41.49932,-81.6943605
+413,American Financial Group,411,475.00 ,-26.80,7600,Carl H. Lindner lll/S. Craig Lindner,Financials,Insurance: Property and Casualty (Stock),Cincinnati,OH,39.1031182,-84.5120196
+414,Oshkosh,425,285.60 ,32.00,14000,Wilson R. Jones,Industrials,Construction and Farm Machinery,Oshkosh,WI,44.0247062,-88.5426136
+415,Rockwell Collins,492,705.00 ,-3.20,29000,Robert K. Ortberg,Aerospace &  Defense,Aerospace and Defense,Cedar Rapids,IA,41.9778795,-91.6656232
+416,Kindred Healthcare,376,698.40,-,64200,Benjamin A. Breier,Health Care,Health Care: Medical Facilities,Louisville,KY,38.2526647,-85.7584557
+417,Insight Enterprises,473,90.70 ,7.10,6697,Kenneth T. Lamneck,Technology,Information Technology Services,Tempe,AZ,33.4255104,-111.9400054
+418,Dr Pepper Snapple Group,416,1076.00 ,27.00,21000,Larry D. Young,"Food, Beverages &  Tobacco",Beverages,Plano,TX,33.0198431,-96.6988856
+419,American Tower,449,1238.90 ,29.50,4752,James D. Taiclet Jr.,Financials,Real estate,Boston,MA,42.3600825,-71.0588801
+420,Fortive,NULL,1044.50 ,-,26000,James A. Lico,Industrials,Industrial Machinery,Everett,WA,47.9789848,-122.2020795
+421,Ralph Lauren,371,99.30,-125.10,18250,Patrice Louvet,Apparel,Apparel,New York,NY,40.7127753,-74.0059728
+422,HRG Group,418,106.00 ,-,17113,Joseph S. Steinberg,Household Products,Household and Personal Products,New York,NY,40.7127753,-74.0059728
+423,Ascena Retail Group,384,1067.30,-,40000,David R. Jaffe,Retailing,Specialty Retailers: Apparel,Mahwah,NJ,41.0886216,-74.1435843
+424,United Rentals,452,1346.00 ,137.80,14800,Michael J. Kneeland,Business Services,Miscellaneous,Stamford,CT,41.0534302,-73.5387341
+425,Caseys General Stores,423,177.50 ,-21.50,25463,Terry W. Handley,Retailing,Specialty Retailers: Other,Ankeny,IA,41.7317884,-93.6001278
+426,Graybar Electric,420,71.60 ,-23.10,8500,Kathleen M. Mazzarella,Wholesalers,Wholesalers: Diversified,St. Louis,MO,38.6270025,-90.1994042
+427,Avery Dennison,430,281.80 ,-12.10,30000,Mitchell R. Butier,Materials,"Packaging, Containers",Glendale,CA,34.1425078,-118.255075
+428,MasTec,502,347.20 ,164.50,17300,Jose R. Mas,Engineering &  Construction,"Engineering, Construction",Coral Gables,FL,25.72149,-80.2683838
+429,CMS Energy,419,460.00 ,-16.50,7887,Patricia K. Poppe,Energy,Utilities: Gas and Electric,Jackson,MI,42.245869,-84.4013462
+430,HD Supply Holdings,364,970.00 ,394.90,11000,Joseph J. DeAngelo,Wholesalers,Wholesalers: Diversified,Atlanta,GA,33.7489954,-84.3879824
+431,Raymond James Financial,469,636.20 ,20.20,12700,Paul C. Reilly,Financials,Securities,St. Petersburg,FL,27.7676008,-82.6402915
+432,NCR,409,232.00 ,-14.10,34000,Michael D. Hayford,Technology,"Computers, Office Equipment",Atlanta,GA,33.7489954,-84.3879824
+433,Hanesbrands,432,61.90 ,-88.50,67200,Gerald W. Evans Jr.,Apparel,Apparel,Winston-Salem,NC,36.0998596,-80.244216
+434,Asbury Automotive Group,410,139.10 ,-16.80,8000,David W. Hult,Retailing,"Automotive Retailing, Services",Duluth,GA,34.0028786,-84.1446376
+435,Citizens Financial Group,451,1652.00 ,58.10,17594,Bruce W. Van Saun,Financials,Commercial Banks,Providence,RI,41.8239891,-71.4128343
+436,Packaging Corp. of America,450,668.60 ,48.70,14600,Mark W. Kowlzan,Materials,"Packaging, Containers",Lake Forest,IL,42.2586342,-87.840625
+437,Alleghany,428,90.10 ,-80.30,4402,Weston M. Hicks,Financials,Insurance: Property and Casualty (Stock),New York,NY,40.7127753,-74.0059728
+438,Apache,488,1304.00 ,-,3356,John J. Christmann IV,Energy,"Mining, Crude-Oil Production",Houston,TX,29.7604267,-95.3698028
+439,Dillards,417,221.30 ,30.80,31400,William T. Dillard II,Retailing,General Merchandisers,Little Rock,AR,34.7464809,-92.2895948
+440,Assurant,361,519.60 ,-8.10,14175,Alan B. Colberg,Financials,Insurance: Property and Casualty (Stock),New York,NY,40.7127753,-74.0059728
+441,Franklin Resources,405,1696.70 ,-1.70,9386,Gregory E. Johnson,Financials,Securities,San Mateo,CA,37.5629917,-122.3255254
+442,Owens Corning,458,289.00 ,-26.50,17000,Michael H. Thaman,Materials,"Building Materials, Glass",Toledo,OH,41.6528052,-83.5378674
+443,Motorola Solutions,433,155.00,-127.70,15000,Gregory Q. Brown,Technology,Network and Other Communications Equipment,Chicago,IL,41.8781136,-87.6297982
+444,NVR,446,537.50 ,26.40,5200,Paul C. Saville,Engineering &  Construction,Homebuilders,Reston,VA,38.9586307,-77.3570028
+445,Rockwell Automation,442,825.70 ,13.20,22000,Blake D. Moret,Industrials,"Electronics, Electrical Equip.",Milwaukee,WI,43.0389025,-87.9064736
+446,TreeHouse Foods,427,286.20,-,13489,Steven Oakland,"Food, Beverages &  Tobacco",Food Consumer Products,Oak Brook,IL,41.8397865,-87.9535534
+447,Wynn Resorts,548,747.20 ,208.80,25200,Matthew O. Maddox,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV,36.1699412,-115.1398296
+448,Olin,467,549.50 ,-,6400,John E. Fischer,Chemicals,Chemicals,Clayton,MO,38.6425518,-90.3237263
+449,American Axle & Manufacturing,593,337.10 ,40.00,25000,David C. Dauch,Motor Vehicles &  Parts,Motor Vehicles and Parts,Detroit,MI,42.331427,-83.0457538
+450,Old Republic International,439,560.50 ,20.00,8700,Aldo C. Zucaro,Financials,Insurance: Property and Casualty (Stock),Chicago,IL,41.8781136,-87.6297982
+451,Chemours,482,746.00 ,10557.10,7000,Mark P. Vergnano,Chemicals,Chemicals,Wilmington,DE,39.7390721,-75.5397878
+452,iHeartMedia,426,704.40,-,18700,Robert W. Pittman,Media,Entertainment,San Antonio,TX,29.4241219,-98.4936282
+453,Ameren,431,523.00 ,-19.90,8615,Warner L. Baxter,Energy,Utilities: Gas and Electric,St. Louis,MO,38.6270025,-90.1994042
+454,Arthur J. Gallagher,462,463.10 ,11.80,26783,J. Patrick Gallagher Jr.,Financials,Diversified Financials,Rolling Meadows,IL,42.0841936,-88.0131275
+455,Celanese,484,843.00 ,-6.30,7592,Mark C. Rohr,Chemicals,Chemicals,Irving,TX,32.8140177,-96.9488945
+456,Sealed Air,397,814.90 ,67.50,15000,Edward L. Doheny II,Materials,"Packaging, Containers",Charlotte,NC,35.2270869,-80.8431267
+457,UGI,457,436.60 ,19.70,13000,John L. Walsh,Energy,Energy,King of Prussia,PA,40.1012856,-75.3835525
+458,Realogy Holdings,448,431.00 ,102.30,11800,Ryan M. Schneider,Financials,Real estate,Madison,NJ,40.7598227,-74.417097
+459,Burlington Stores,463,384.90 ,78.30,40000,Thomas A. Kingsbury,Retailing,Specialty Retailers: Apparel,Burlington,NJ,40.071222,-74.8648873
+460,Regions Financial,436,1263.00 ,8.60,21714,O.B. Grayson Hall Jr.,Financials,Commercial Banks,Birmingham,AL,33.5206608,-86.80249
+461,AK Steel Holding,441,6.20 ,-,9200,Roger K. Newport,Materials,Metals,Beckett Ridge,OH,39.3321262,-84.4172666
+462,Securian Financial Group,532,418.90 ,68.70,5000,Christopher M. Hilger,Financials,"Insurance: Life, Health (stock)",St Paul,MN,44.9537029,-93.0899578
+463,S& P Global,459,1496.00 ,-29.00,20400,Douglas L. Peterson,Business Services,Financial Data Services,New York,NY,40.7127753,-74.0059728
+464,Markel,460,395.30 ,-13.30,15600,Thomas S. Gayner/Richard R. Whitt III,Financials,Insurance: Property and Casualty (Stock),Glen Allen,VA,37.665978,-77.5063739
+465,TravelCenters of America,470,9.30 ,-,19611,Andrew J. Rebholz,Retailing,Specialty Retailers: Other,Westlake,OH,41.4553232,-81.9179173
+466,Conduent,NULL,181.00 ,-,90000,Ashok Vemuri,Business Services,Diversified Outsourcing Services,Florham Park,NJ,40.787878,-74.3882072
+467,M& T Bank Corp.,455,1408.30 ,7.10,16354,Ren� F. Jones,Financials,Commercial Banks,Buffalo,NY,42.8864468,-78.8783689
+468,Clorox,453,701.00 ,8.20,8100,Benno O. Dorer,Household Products,Household and Personal Products,Oakland,CA,37.8043637,-122.2711137
+469,AmTrust Financial Services,475,348.90,-184.90,9300,Barry D. Zyskind,Financials,Insurance: Property and Casualty (Stock),New York,NY,40.7127753,-74.0059728
+470,KKR,656,1018.30 ,229.20,1184,Henry R. Kravis/George R. Roberts,Financials,Securities,New York,NY,40.7127753,-74.0059728
+471,Ulta Beauty,524,555.20 ,35.50,24200,Mary N. Dillon,Retailing,Specialty Retailers: Other,Bolingbrook,IL,41.6986416,-88.0683955
+472,Yum Brands,422,1340.00 ,-17.20,60000,Greg Creed,"Hotels, Restaurants &  Leisure",Food Services,Louisville,KY,38.2526647,-85.7584557
+473,Regeneron Pharmaceuticals,523,1198.50 ,33.80,6200,Leonard S. Schleifer,Health Care,Pharmaceuticals,Tarrytown,NY,41.0762077,-73.8587461
+474,Windstream Holdings,485,2116.60,-,12979,Anthony W. Thomas,Telecommunications,Telecommunications,Little Rock,AR,34.7464809,-92.2895948
+475,Magellan Health,526,110.20 ,41.50,10700,Barry M. Smith,Health Care,Health Care: Insurance and Managed Care,Scottsdale,AZ,33.4941704,-111.9260519
+476,Western & Southern Financial,483,310.40 ,28.70,2226,John F. Barrett,Financials,"Insurance: Life, Health (Mutual)",Cincinnati,OH,39.1031182,-84.5120196
+477,Intercontinental Exchange,437,2514.00 ,76.80,4952,Jeffrey C. Sprecher,Financials,Securities,Atlanta,GA,33.7489954,-84.3879824
+478,Ingredion,456,519.00 ,7.00,11000,James P. Zallie,"Food, Beverages &  Tobacco",Food Production,Westchester,IL,41.8498339,-87.8806738
+479,Wyndham Destinations,461,871.00 ,42.60,39200,Michael D. Brown,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Parsippany-Troy Hills,NJ,40.8652865,-74.4173877
+480,Toll Brothers,497,535.50 ,40.10,4500,Douglas C. Yearley Jr.,Engineering &  Construction,Homebuilders,Horsham,PA,40.1784422,-75.1285061
+481,Seaboard,486,247.00 ,-20.80,11800,Steven J. Bresky,"Food, Beverages &  Tobacco",Food Production,Merriam,KS,39.0236165,-94.6935701
+482,Booz Allen Hamilton,481,252.50 ,-14.10,23300,Horacio D. Rozanski,Technology,Information Technology Services,McLean,VA,38.9338676,-77.1772604
+483,First American Financial,464,423.00 ,23.30,18705,Dennis J. Gilmore,Financials,Insurance: Property and Casualty (Stock),Santa Ana,CA,33.7454725,-117.867653
+484,Cincinnati Financial,476,1045.00 ,76.90,4925,Steven J. Johnston,Financials,Insurance: Property and Casualty (Stock),Fairfield,OH,39.3454673,-84.5603187
+485,Avon Products,444,22.00 ,-,25000,Jan Zijderveld,Household Products,Household and Personal Products,Rye,NY,40.9806535,-73.6837399
+486,Northern Trust,501,1199.00 ,16.10,18100,Michael G. O'Grady,Financials,Commercial Banks,Chicago,IL,41.8781136,-87.6297982
+487,Fiserv,471,1246.00 ,34.00,24000,Jeffery W. Yabuki,Business Services,Financial Data Services,Brookfield,WI,43.0605671,-88.1064787
+488,Harley-Davidson,435,521.80 ,-24.60,5800,Matthew S. Levatich,Transportation,Transportation Equipment,Milwaukee,WI,43.0389025,-87.9064736
+489,Cheniere Energy,NULL,393.00,-,1230,Jack A. Fusco,Energy,Energy,Houston,TX,29.7604267,-95.3698028
+490,Patterson,466,170.90 ,-8.70,7500,Mark S. Walchirk,Wholesalers,Wholesalers: Health Care,St Paul,MN,44.9537029,-93.0899578
+491,Peabody Energy,533,-,-,7100,Glenn L. Kellow,Energy,"Mining, Crude-Oil Production",St. Louis,MO,38.6270025,-90.1994042
+492,ON Semiconductor,598,810.70 ,345.20,34000,Keith D. Jackson,Technology,Semiconductors and Other Electronic Components,Phoenix,AZ,33.4483771,-112.0740373
+493,Simon Property Group,477,1948.00 ,5.90,4150,David E. Simon,Financials,Real estate,Indianapolis,IN,39.768403,-86.158068
+494,Western Union,478,557.10,-320.00,11500,Hikmet Ersek,Business Services,Financial Data Services,Englewood,CO,39.6477653,-104.9877597
+495,NetApp,468,509.00 ,122.30,10100,George Kurian,Technology,"Computers, Office Equipment",Sunnyvale,CA,37.36883,-122.0363496
+496,Polaris Industries,537,172.50 ,-19.00,11000,Scott W. Wine,Transportation,Transportation Equipment,Medina,MN,45.0352411,-93.5824586
+497,Pioneer Natural Resources,606,833.00 ,-,3836,Timothy L. Dove,Energy,"Mining, Crude-Oil Production",Irving,TX,32.8140177,-96.9488945
+498,ABM Industries,500,3.80 ,-93.40,140000,Scott B. Salmirs,Business Services,Diversified Outsourcing Services,New York,NY,40.7127753,-74.0059728
+499,Vistra Energy,499,254.00,-,4150,Curtis A. Morgan,Energy,Energy,Irving,TX,32.8140177,-96.9488945
+500,Cintas,520,480.70 ,-30.70,42000,Scott D. Farmer,Business Services,Diversified Outsourcing Services,Cincinnati,OH,39.1031182,-84.5120196
+501,Hess,525,4074.00,-,2075,John B. Hess,Energy,"Mining, Crude-Oil Production",New York,NY,40.7127753,-74.0059728
+502,Host Hotels & Resorts,472,564.00 ,-26.00,205,James F. Risoleo,Financials,Real estate,Bethesda,MD,38.984652,-77.0947092
+503,Kelly Services,490,71.60 ,-40.70,7800,George S. Corona,Business Services,Temporary Help,Troy,MI,42.6064095,-83.1497751
+504,Genesis Healthcare,454,579.00,-,68700,George V. Hager Jr.,Health Care,Health Care: Medical Facilities,Kennett Square,PA,39.8467767,-75.7116032
+505,Michaels Cos.,496,390.50 ,3.30,30500,Carl S. Rubin,Retailing,Specialty Retailers: Other,Irving,TX,32.8140177,-96.9488945
+506,Advanced Micro Devices,565,43.00 ,-,8900,Lisa T. Su,Technology,Semiconductors and Other Electronic Components,Santa Clara,CA,37.3541079,-121.9552356
+507,Zoetis,521,864.00 ,5.20,9200,Juan Ram�n Alaix,Health Care,Pharmaceuticals,Parsippany-Troy Hills,NJ,40.8652865,-74.4173877
+508,Williams-Sonoma,506,259.50 ,-15.00,19350,Laura J. Alber,Retailing,Specialty Retailers: Other,SF,CA,37.7749295,-122.4194155
+509,Fortune Brands Home & Security,511,472.60 ,14.40,23870,Christopher J. Klein,Household Products,"Home Equipment, Furnishings",Deerfield,IL,42.1711365,-87.8445119
+510,Big Lots,495,189.80 ,24.20,22900,Lisa M. Bachmann,Retailing,Specialty Retailers: Other,Columbus,OH,39.9611755,-82.9987942
+511,Robert Half International,493,290.60 ,-15.40,17200,Harold M. Messmer Jr.,Business Services,Temporary Help,Menlo Park,CA,37.4529598,-122.1817252
+512,Post Holdings,508,48.30 ,-,11410,Robert V. Vitale,"Food, Beverages &  Tobacco",Food Consumer Products,St. Louis,MO,38.6270025,-90.1994042
+513,Hasbro,509,396.60 ,-28.10,5400,Brian D. Goldner,Household Products,"Toys, Sporting Goods",Pawtucket,RI,41.878711,-71.3825558
+514,Hanover Insurance Group,517,186.20 ,20.10,4600,John C. Roche,Financials,Insurance: Property and Casualty (Stock),Worcester,MA,42.2625932,-71.8022934
+515,Navient,514,292.00 ,-57.10,6700,John F. Remondi,Financials,Diversified Financials,Wilmington,DE,39.7390721,-75.5397878
+516,Intuit,527,971.00 ,-0.80,8200,Brad D. Smith,Technology,Computer Software,Mountain View,CA,37.3860517,-122.0838511
+517,Domtar,505,258.00,-301.60,10000,John D. Williams,Materials,Forest and Paper Products,Fort Mill,SC,35.0073697,-80.9450759
+518,Marathon Oil,536,5723.00,-,2300,Lee M. Tillman,Energy,"Mining, Crude-Oil Production",Houston,TX,29.7604267,-95.3698028
+519,Cerner,530,867.00 ,36.20,26000,D. Brent Shafer,Health Care,Health Care: Pharmacy and Other Services,North Kansas City,MO,39.1429081,-94.5729781
+520,Analog Devices,660,727.30 ,-15.60,15300,Vincent T. Roche,Technology,Semiconductors and Other Electronic Components,Norwood,MA,42.1943909,-71.1989695
+521,Telephone & Data Systems,504,153.00 ,255.80,9900,LeRoy T. Carlson Jr.,Telecommunications,Telecommunications,Chicago,IL,41.8781136,-87.6297982
+522,Essendant,487,267.00,-518.10,6400,Richard D. Phillips,Wholesalers,Wholesalers: Electronics and Office Equipment,Deerfield,IL,42.1711365,-87.8445119
+523,Sonoco Products,531,175.30 ,-38.80,21000,Robert C. Tiede,Materials,"Packaging, Containers",Hartsville,SC,34.3740431,-80.0734005
+524,Juniper Networks,510,306.20 ,-48.30,9381,Rami Rahim,Technology,Network and Other Communications Equipment,Sunnyvale,CA,37.36883,-122.0363496
+525,Commercial Metals,535,46.30 ,-15.40,8797,Barbara R. Smith,Materials,Metals,Irving,TX,32.8140177,-96.9488945
+526,CSRA,570,304.00 ,248.80,18500,Lawrence B. Prior III,Technology,Information Technology Services,Falls Church,VA,38.882334,-77.1710914
+527,Under Armour,528,48.30,-118.80,11350,Kevin A. Plank,Apparel,Apparel,Baltimore,MD,39.2903848,-76.6121893
+528,RPM International,529,181.80 ,-48.70,14318,Frank C. Sullivan,Chemicals,Chemicals,Medina,OH,41.143245,-81.8552196
+529,Total System Services,579,586.20 ,83.40,11800,M. Troy Woods,Business Services,Financial Data Services,Columbus,GA,32.4609764,-84.9877094
+530,Levi Strauss,542,281.40 ,-3.30,13800,Charles V. Bergh,Apparel,Apparel,SF,CA,37.7749295,-122.4194155
+531,Brunswick,547,146.40 ,-47.00,15116,Mark D. Schwabero,Transportation,Transportation Equipment,Libertyville,IL,42.2333571,-87.9259058
+532,YRC Worldwide,534,10.80,-150.20,32000,Darren D. Hawkins,Transportation,"Trucking, Truck Leasing",Overland Park,KS,38.9822282,-94.6707917
+533,Mattel,474,1053.80,-431.40,28000,Ynon Kreiz,Household Products,"Toys, Sporting Goods",El Segundo,CA,33.9191799,-118.4164652
+534,FM Global,557,254.10 ,-68.10,5441,Thomas A. Lawson,Financials,Insurance: Property and Casualty (Stock),Johnston,RI,41.8205199,-71.512617
+535,NiSource,545,128.50 ,-61.20,8175,Joseph Hamrock,Energy,Utilities: Gas and Electric,Merrillville,IN,41.4828144,-87.3328139
+536,Caesars Entertainment,541,375.00,-,65000,Mark P. Frissora,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV,36.1699412,-115.1398296
+537,Electronic Arts,556,967.00 ,-16.30,8800,Andrew Wilson,Technology,Entertainment,Redwood City,CA,37.4852152,-122.2363548
+538,Dynegy,561,76.00 ,-,2489,Curtis A. Morgan,Energy,Energy,Houston,TX,29.7604267,-95.3698028
+539,McCormick,553,477.40 ,1.10,11700,Lawrence E. Kurzius,"Food, Beverages &  Tobacco",Food Consumer Products,Sparks Glencoe,MD,39.5309389,-76.6458043
+540,T. Rowe Price,573,1497.80 ,23.30,6881,William J. Stromberg,Financials,Securities,Baltimore,MD,39.2903848,-76.6121893
+541,Orbital ATK,549,310.00 ,5.80,13900,Blake Larson,Aerospace &  Defense,Aerospace and Defense,Sterling,VA,38.9624899,-77.4380485
+542,Tutor Perini,513,148.40 ,54.90,10061,Ronald N. Tutor,Engineering &  Construction,"Engineering, Construction",Los Angeles,CA,34.3058279,-118.4571974
+543,Brookdale Senior Living,512,571.40,-,62550,Lucinda M. Baier,Health Care,Health Care: Medical Facilities,Brentwood,TN,36.0331164,-86.7827772
+544,Huntington Bancshares,610,1186.00 ,66.60,15770,Stephen D. Steinour,Financials,Commercial Banks,Columbus,OH,39.9611755,-82.9987942
+545,Wayfair,666,244.60,-,7751,Niraj S. Shah,Technology,Internet Services and Retailing,Boston,MA,42.3600825,-71.0588801
+546,Rush Enterprises,575,172.10 ,324.20,6825,W. M. Rush,Retailing,"Automotive Retailing, Services",New Braunfels,TX,29.7030024,-98.1244531
+547,Xylem,611,331.00 ,27.30,16200,Patrick K. Decker,Industrials,Industrial Machinery,Rye Brook,NY,41.0192641,-73.6834621
+548,Neiman Marcus Group,515,531.80,-,13700,Geoffroy van Raemdonck,Retailing,Specialty Retailers: Apparel,Dallas,TX,32.7766642,-96.7969879
+549,Hyatt Hotels,552,249.00 ,22.10,45000,Mark S. Hoplamazian,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Chicago,IL,41.8781136,-87.6297982
+550,Sprouts Farmers Market,585,158.40 ,27.50,27000,Amin N. Maredia,Food &  Drug Stores,Food and Drug Stores,Phoenix,AZ,33.4483771,-112.0740373
+551,Diebold Nixdorf,672,233.10,-,23000,Gerrard B. Schmid,Technology,"Computers, Office Equipment",North Canton,OH,40.875891,-81.4023356
+552,Roper Technologies,609,971.80 ,47.50,14236,Brian D. Jellison,Technology,"Scientific,Photographic and  Control Equipment",Sarasota,FL,27.3364347,-82.5306527
+553,Smart & Final Stores,559,138.90,-1172.90,7570,David G. Hirz,Food &  Drug Stores,Food and Drug Stores,Commerce,CA,34.0005691,-118.1597929
+554,CommScope Holding,518,193.80 ,-13.00,20000,Marvin S. Edwards Jr.,Technology,Network and Other Communications Equipment,Newton,NC,35.7344538,-81.3444573
+555,Tapestry,546,591.00 ,28.30,12450,Victor Luis,Apparel,Apparel,New York City,NY,40.7127753,-74.0059728
+556,Diplomat Pharmacy,554,15.50 ,-45.10,2298,Brian Griffin,Health Care,Health Care: Pharmacy and Other Services,Flint,MI,43.0125274,-83.6874562
+557,Chipotle Mexican Grill,599,176.30 ,668.40,68890,Brian R. Niccol,"Hotels, Restaurants &  Leisure",Food Services,Denver,CO,39.7392358,-104.990251
+558,Agilent Technologies,576,684.00 ,48.10,13500,Michael R. McMullen,Technology,"Scientific,Photographic and  Control Equipment",Santa Clara,CA,37.3541079,-121.9552356
+559,Science Applications International,551,179.00 ,25.20,15391,Anthony J. Moraco,Technology,Information Technology Services,Reston,VA,38.9586307,-77.3570028
+560,MDU Resources Group,569,281.20 ,336.40,10140,David L. Goodin,Energy,Energy,Bismarck,ND,46.8083268,-100.7837392
+561,Select Medical Holdings,563,177.20 ,53.50,36050,David S. Chernow,Health Care,Health Care: Medical Facilities,Mechanicsburg,PA,40.2142565,-77.0085876
+562,Boise Cascade,597,83.00 ,116.90,6370,Thomas K. Corrick,Wholesalers,Wholesalers: Diversified,Boise,ID,43.6150186,-116.2023137
+563,National General Holdings,643,105.80 ,-39.80,7570,Barry Karfunkel,Financials,Insurance: Property and Casualty (Stock),New York,NY,40.7127753,-74.0059728
+564,SCANA,572,119.00,-120.00,5228,Jimmy E. Addison,Energy,Utilities: Gas and Electric,Cayce,SC,33.9657091,-81.0739827
+565,Graphic Packaging Holding,562,300.20 ,31.70,13000,Michael P. Doss,Materials,"Packaging, Containers",Atlanta,GA,33.7489954,-84.3879824
+566,Fastenal,591,578.60 ,15.80,20565,Daniel L. Florness,Wholesalers,Wholesalers: Diversified,Winona,MN,44.0553908,-91.6663523
+567,Schneider National,NULL,389.90 ,148.60,19600,Christopher B. Lofgren,Transportation,"Trucking, Truck Leasing",Green Bay,WI,44.5133188,-88.0132958
+568,Laureate Education,571,91.50 ,-75.40,54500,Eilif Serck-Hanssen,Business Services,Education,Baltimore,MD,39.2903848,-76.6121893
+569,Beacon Roofing Supply,582,100.90 ,12.20,5406,Paul M. Isabella,Wholesalers,Wholesalers: Diversified,Herndon,VA,38.9695545,-77.3860976
+570,KB Home,634,180.60 ,71.00,1915,Jeffrey T. Mezger,Engineering &  Construction,Homebuilders,Los Angeles,CA,34.0522342,-118.2436849
+571,Equinix,624,233.00 ,83.70,7273,Peter F. Van Camp,Financials,Real estate,Redwood City,CA,37.4852152,-122.2363548
+572,Terex,445,128.70 ,-,10700,John L. Garrison Jr.,Industrials,Construction and Farm Machinery,Westport,CT,41.1414717,-73.3579049
+573,Crown Castle International,596,444.60 ,24.50,4500,Jay A. Brown,Financials,Real estate,Houston,TX,29.7604267,-95.3698028
+574,CACI International,615,163.70 ,14.60,18600,Kenneth Asbury,Technology,Information Technology Services,Arlington,VA,38.8816208,-77.0909809
+575,Watsco,574,208.20 ,13.90,5200,Albert H. Nahmad,Wholesalers,Wholesalers: Diversified,Miami,FL,25.7616798,-80.1917902
+576,Coca-Cola Bottling,701,96.50 ,92.50,15500,J. Frank Harrison III,"Food, Beverages &  Tobacco",Beverages,Charlotte,NC,35.2270869,-80.8431267
+577,Welltower,564,522.80 ,-51.50,392,Thomas J. DeRosa,Financials,Real estate,Toledo,OH,41.6528052,-83.5378674
+578,ADT,NULL,342.60 ,-,18000,Timothy J. Whall,Business Services,Diversified Outsourcing Services,Boca Raton,FL,26.3683064,-80.1289321
+579,Ametek,604,681.50 ,33.10,16900,David A. Zapico,Technology,"Scientific,Photographic and  Control Equipment",Berwyn,PA,40.045824,-75.4395931
+580,CNO Financial Group,590,175.60 ,-51.00,3300,Gary C. Bhojwani,Financials,"Insurance: Life, Health (stock)",Carmel,IN,39.978371,-86.1180435
+581,Camping World Holdings,648,28.40 ,-85.20,10227,Marcus A. Lemonis,Retailing,"Automotive Retailing, Services",Lincolnshire,IL,42.1900249,-87.9084039
+582,LPL Financial Holdings,584,238.90 ,24.50,3736,Dan H. Arnold,Financials,Securities,Boston,MA,42.3600825,-71.0588801
+583,Noble Energy,653,1118.00,-,2277,David L. Stover,Energy,"Mining, Crude-Oil Production",Houston,TX,29.7604267,-95.3698028
+584,Bloomin Brands,568,100.20 ,140.10,94000,Elizabeth A. Smith,"Hotels, Restaurants &  Leisure",Food Services,Tampa,FL,27.950575,-82.4571776
+585,Moodys,631,1000.60 ,275.30,11896,Raymond W. McDaniel Jr.,Business Services,Financial Data Services,New York,NY,40.7127753,-74.0059728
+586,Symantec,465,106.00,-104.30,13000,Gregory S. Clark,Technology,Computer Software,Mountain View,CA,37.3860517,-122.0838511
+587,Amkor Technology,600,260.70 ,58.80,29300,Stephen D. Kelley,Technology,Semiconductors and Other Electronic Components,Tempe,AZ,33.4255104,-111.9400054
+588,Skechers U.S.A.,638,179.20 ,-26.40,8150,Robert Greenberg,Apparel,Apparel,Manhattan Beach,CA,33.8847361,-118.4109089
+589,KBR,567,434.00 ,-,20000,Stuart Bradie,Engineering &  Construction,"Engineering, Construction",Houston,TX,29.7604267,-95.3698028
+590,Tiffany,588,370.10 ,-17.00,13100,Alessandro Bogliolo,Retailing,Specialty Retailers: Other,New York,NY,40.7127753,-74.0059728
+591,Torchmark,580,1454.50 ,164.60,3102,Gary L. Coleman/Larry M. Hutchison,Financials,"Insurance: Life, Health (stock)",McKinney,TX,33.1972465,-96.6397822
+592,Broadridge Financial Solutions,749,326.80 ,6.30,10000,Richard J. Daly,Business Services,Financial Data Services,Lake Success,NY,40.7706572,-73.7176312
+593,Quad/Graphics,560,107.20 ,138.80,21100,J. Joel Quadracci,Media,"Publishing, Printing",Sussex,WI,43.13418,-88.22294
+594,CF Industries Holdings,622,357.70 ,-,2950,W. Anthony Will,Chemicals,Chemicals,Deerfield,IL,42.1711365,-87.8445119
+595,Carlisle,623,365.50 ,46.10,14800,D. Christian Koch,Materials,"Building Materials, Glass",Scottsdale,AZ,33.4941704,-111.9260519
+596,Silgan Holdings,629,269.70 ,75.80,12515,Anthony J. Allott,Materials,"Packaging, Containers",Stamford,CT,41.0534302,-73.5387341
+597,Bemis,587,94.00 ,-60.20,16582,William F. Austen,Materials,"Packaging, Containers",Neenah,WI,44.1858193,-88.462609
+598,CA,583,775.00 ,-1.00,11800,Michael P. Gregoire,Technology,Computer Software,New York,NY,40.7127753,-74.0059728
+599,Hub Group,640,135.20 ,80.70,4377,David P. Yeager,Transportation,Transportation and Logistics,Oak Brook,IL,41.8397865,-87.9535534
+600,Worldpay,637,130.10 ,-39.00,3560,Charles D. Drucker/Philip E.R. Jansen,Business Services,Financial Data Services,Cincinnati,OH,39.2807348,-84.3173878
+601,Ingles Markets,608,53.90 ,-0.60,17250,James W. Lanning,Food &  Drug Stores,Food and Drug Stores,Black Mountain,NC,35.6178951,-82.3212302
+602,Snap-on,618,557.70 ,2.10,12600,Nicholas T. Pinchuk,Industrials,Industrial Machinery,Kenosha,WI,42.5847425,-87.8211854
+603,Dentsply Sirona,614,1550.00,-460.50,16100,Donald M. Casey Jr.,Health Care,Medical Products and Equipment,York,PA,39.9625984,-76.727745
+604,Calumet Specialty Products,632,103.80,-,1600,Timothy Go,Energy,Petroleum Refining,Indianapolis,IN,39.768403,-86.158068
+605,Global Payments,669,468.40 ,132.20,10000,Jeffrey S. Sloan,Business Services,Financial Data Services,Atlanta,GA,33.7489954,-84.3879824
+606,Encompass Health,619,256.30 ,3.50,30935,Mark J. Tarr,Health Care,Health Care: Medical Facilities,Birmingham,AL,33.5206608,-86.80249
+607,Martin Marietta Materials,607,713.30 ,67.70,8406,C. Howard Nye,Materials,"Building Materials, Glass",Raleigh,NC,35.7795897,-78.6381787
+608,Nasdaq,620,734.00 ,579.60,4734,Adena T. Friedman,Financials,Securities,New York,NY,40.7127753,-74.0059728
+609,Leggett & Platt,613,292.60 ,-24.20,22200,Karl G. Glassman,Household Products,"Home Equipment, Furnishings",Carthage,MO,37.176447,-94.3102228
+610,Universal Forest Products,687,119.50 ,18.10,10000,Matthew J. Missad,Materials,"Building Materials, Glass",Grand Rapids,MI,42.9633599,-85.6680863
+611,Sally Beauty Holdings,592,215.10 ,-3.50,21755,Christian A. Brickman,Retailing,Specialty Retailers: Other,Denton,TX,33.2148412,-97.1330683
+612,Flowers Foods,594,150.10 ,-8.30,9800,Allen L. Shiver,"Food, Beverages &  Tobacco",Food Consumer Products,Thomasville,GA,30.8365815,-83.9787808
+613,Barnes & Noble,555,22.00 ,-,18592,Demos Parneros,Retailing,Specialty Retailers: Other,New York,NY,40.7127753,-74.0059728
+614,American Equity Investment Life,883,174.60 ,109.80,515,John M. Matovina,Financials,"Insurance: Life, Health (stock)",West Des Moines,IA,41.5772115,-93.711332
+615,Vulcan Materials,635,601.20 ,43.30,8287,J. Thomas Hill,Materials,"Building Materials, Glass",Birmingham,AL,33.5206608,-86.80249
+616,Taylor Morrison Home,644,91.20 ,73.40,1800,Sheryl D. Palmer,Engineering &  Construction,Homebuilders,Scottsdale,AZ,33.4941704,-111.9260519
+617,Westinghouse Air Brake,742,262.30 ,-14.00,18000,Raymond T. Betler,Industrials,Industrial Machinery,Wilmerding,PA,40.3909023,-79.8100472
+618,Crestwood Equity Partners,805,191.90,-,954,Robert G Phillips,Energy,Energy,Houston,TX,29.7604267,-95.3698028
+619,Iron Mountain,649,183.80 ,75.40,24000,William L. Meaney,Business Services,Diversified Outsourcing Services,Boston,MA,42.3600825,-71.0588801
+620,Lennox International,627,305.70 ,10.00,11450,Todd M. Bluedorn,Industrials,Industrial Machinery,Richardson,TX,32.9483335,-96.7298519
+621,General Cable,603,56.60,-,8500,Massimo Battaini,Industrials,"Electronics, Electrical Equip.",Highland Heights,KY,39.0331169,-84.4518854
+622,American Eagle Outfitters,630,204.20 ,-3.90,24100,Jay L. Schottenstein,Retailing,Specialty Retailers: Apparel,Pittsburgh,PA,40.4406248,-79.9958864
+623,Church & Dwight,652,743.40 ,62.00,4700,Matthew T. Farrell,Household Products,Household and Personal Products,Ewing Township,NJ,40.2599864,-74.7909125
+624,Platform Specialty Products,636,296.20,-,7850,Rakesh Sachdev,Chemicals,Chemicals,West Palm Beach,FL,26.7153424,-80.0533746
+625,JELD-WEN Holding,NULL,10.80 ,-97.10,21000,Gary S. Michel,Materials,"Building Materials, Glass",Charlotte,NC,35.2270869,-80.8431267
+626,OneMain Holdings,602,183.00 ,-14.90,10100,Jay N. Levine,Financials,Diversified Financials,Evansville,IN,37.9715592,-87.5710898
+627,Colfax,626,151.10 ,17.90,14300,Matthew L. Trerotola,Industrials,Industrial Machinery,Annapolis Junction,MD,39.1202934,-76.7769324
+628,Zebra Technologies,639,17.00 ,-,7000,Anders Gustafsson,Industrials,"Electronics, Electrical Equip.",Lincolnshire,IL,42.1900249,-87.9084039
+629,Andersons,595,42.50 ,266.70,1819,Patrick E. Bowe,"Food, Beverages &  Tobacco",Food Production,Maumee,OH,41.5628294,-83.6538244
+630,TD Ameritrade Holding,674,872.00 ,3.60,10412,Timothy D. Hockey,Financials,Securities,Omaha,NE,41.2565369,-95.9345034
+631,Carlyle Group,869,244.10 ,3714.10,1600,Kewsong Lee/Glenn A. Youngkin,Financials,Securities,Leavenworth,WA,47.7510741,-120.7401385
+632,Hubbell,650,243.10 ,-17.00,17700,David G. Nord,Industrials,"Electronics, Electrical Equip.",Shelton,CT,41.3164856,-73.0931641
+633,Trinity Industries,539,702.50 ,104.50,15605,Timothy R. Wallace,Transportation,Transportation Equipment,Dallas,TX,32.7766642,-96.7969879
+634,Darling Ingredients,665,128.50 ,25.60,9800,Randall C. Stuewe,"Food, Beverages &  Tobacco",Food Production,Irving,TX,32.8140177,-96.9488945
+635,Flowserve,589,2.70 ,-98.00,17000,R. Scott Rowe,Industrials,Industrial Machinery,Irving,TX,32.8140177,-96.9488945
+636,Antero Resources,NULL,615.10 ,-,593,Paul M. Rady,Energy,"Mining, Crude-Oil Production",Denver,CO,39.7392358,-104.990251
+637,Skyworks Solutions,680,1010.20 ,1.50,8400,Liam K. Griffin,Technology,Semiconductors and Other Electronic Components,Woburn,MA,42.4792618,-71.1522765
+638,Landstar System,699,177.10 ,28.90,1273,James B. Gattoni,Transportation,"Trucking, Truck Leasing",Jacksonville,FL,30.3321838,-81.655651
+639,Buckeye Partners,685,478.80 ,-10.60,1870,Clark C. Smith,Energy,Pipelines,Houston,TX,29.7604267,-95.3698028
+640,MRC Global,726,50.00 ,-,3580,Andrew R. Lane,Energy,"Oil and Gas Equipment, Services",Houston,TX,29.7604267,-95.3698028
+641,CME Group,633,4063.40 ,164.90,2830,Terrence A. Duffy,Financials,Securities,Chicago,IL,41.8781136,-87.6297982
+642,Greif,676,118.60 ,58.30,13000,Peter G. Watson,Materials,"Packaging, Containers",Delaware,OH,40.2986724,-83.067965
+643,Nexeo Solutions,NULL,14.40 ,-,2640,David A. Bradley,Wholesalers,Wholesalers: Diversified,The Woodlands,TX,30.1658207,-95.4612625
+644,Cooper-Standard Holdings,655,135.30 ,-2.70,32000,Jeffrey S. Edwards,Motor Vehicles &  Parts,Motor Vehicles and Parts,Novi,MI,42.48059,-83.4754913
+645,Urban Outfitters,645,108.30 ,-50.40,16330,Richard A. Hayne,Retailing,Specialty Retailers: Apparel,Philadelphia,PA,39.9525839,-75.1652215
+646,LSC Communications,625,57.00,-153.80,24000,Thomas J. Quinlan III,Media,"Publishing, Printing",Chicago,IL,41.8781136,-87.6297982
+647,Sabre,668,242.50 ,0.00,9000,Sean E. Menke,Technology,Internet Services and Retailing,Southlake,TX,32.9412363,-97.1341783
+648,Green Plains,662,61.10 ,472.60,1427,Todd A. Becker,Energy,Energy,Omaha,NE,41.2565369,-95.9345034
+649,Hexion,659,234.00,-,4300,Craig A. Rogerson,Chemicals,Chemicals,Columbus,OH,39.9611755,-82.9987942
+650,Stericycle,642,42.40 ,-79.50,23200,Charles A. Alutto,Business Services,Waste Management,Lake Forest,IL,42.2586342,-87.840625
+651,Warner Music Group,686,143.00 ,472.00,4520,Stephen F. Cooper,Media,Entertainment,New York,NY,40.7127753,-74.0059728
+652,Ventas,658,1356.50 ,108.90,493,Debra A. Cafaro,Financials,Real estate,Chicago,IL,41.8781136,-87.6297982
+653,ScanSource,647,69.20 ,8.80,2000,Michael L. Baur,Wholesalers,Wholesalers: Electronics and Office Equipment,Greenville,SC,34.8526176,-82.3940104
+654,Pinnacle West Capital,651,488.50 ,10.50,6292,Donald E. Brandt,Energy,Utilities: Gas and Electric,Phoenix,AZ,33.4483771,-112.0740373
+655,Scripps Networks Interactive,664,623.90 ,-7.40,3600,David M. Zaslav,Media,Entertainment,Knoxville,TN,35.9606384,-83.9207392
+656,Alexion Pharmaceuticals,714,443.30 ,11.00,2525,Ludwig N. Hantson,Health Care,Pharmaceuticals,New Haven,CT,41.308274,-72.9278835
+657,Pitney Bowes,663,261.30 ,181.60,14700,Marc B. Lautenbach,Technology,"Computers, Office Equipment",Stamford,CT,41.0534302,-73.5387341
+658,CIT Group,550,468.20 ,-,4167,Ellen R. Alemany,Financials,Commercial Banks,New York,NY,40.7127753,-74.0059728
+659,Country Financial,657,187.30 ,39.00,3834,Kurt F. Bock,Financials,Insurance: Property and Casualty (Mutual),Bloomington,IL,40.4842027,-88.9936873
+660,CUNA Mutual Group,683,303.20 ,36.20,3300,Robert N. Trunzo,Financials,"Insurance: Life, Health (stock)",Madison,WI,43.0730517,-89.4012302
+661,Triumph Group,601,43.00,-,14309,Daniel J. Crowley,Aerospace &  Defense,Aerospace and Defense,Berwyn,PA,40.045824,-75.4395931
+662,TransDigm Group,698,596.90 ,1.80,9200,Kevin M. Stein,Aerospace &  Defense,Aerospace and Defense,Cleveland,OH,41.49932,-81.6943605
+663,Allegheny Technologies,707,91.90,-,8600,Richard J. Harshman,Materials,Metals,Pittsburgh,PA,40.4406248,-79.9958864
+664,Resolute Forest Products,646,84.00,-,7700,Yves Laflamme,Materials,Forest and Paper Products,Catawba,SC,34.8529233,-80.9111862
+665,Acuity Brands,679,321.70 ,10.60,12500,Vernon J. Nagel,Industrials,"Electronics, Electrical Equip.",Atlanta,GA,33.7489954,-84.3879824
+666,Abercrombie & Fitch,675,7.10 ,79.30,22500,Fran Horowitz-Bonadies,Retailing,Specialty Retailers: Apparel,New Albany,OH,40.0811745,-82.8087864
+667,KLA-Tencor,733,926.10 ,31.50,5990,Richard P. Wallace,Technology,Semiconductors and Other Electronic Components,Milpitas,CA,37.4323341,-121.8995741
+668,Weis Markets,706,98.40 ,12.90,23000,Jonathan H. Weis,Food &  Drug Stores,Food and Drug Stores,Sunbury,PA,40.862585,-76.7944104
+669,Puget Energy,700,175.20 ,-44.00,3140,Kimberly J. Harris,Energy,Utilities: Gas and Electric,Bellevue,WA,47.6101497,-122.2015159
+670,Mednax,697,320.40 ,-1.40,14000,Roger J. Medel,Health Care,Health Care: Pharmacy and Other Services,Fort Lauderdale,FL,26.1669711,-80.256595
+671,Kar Auction Services,702,362.00 ,62.80,15488,James P. Hallett,Wholesalers,Wholesalers: Diversified,Carmel,IN,39.978371,-86.1180435
+672,PolyOne,673,57.70,-134.90,6400,Robert M. Patterson,Chemicals,Chemicals,Avon Lake,OH,41.5053178,-82.0282001
+673,FMC,681,535.80 ,156.20,7000,Pierre R. Brondeau,Chemicals,Chemicals,Philadelphia,PA,39.9525839,-75.1652215
+674,Edwards Lifesciences,734,583.60 ,2.50,12200,Michael A. Mussallem,Health Care,Medical Products and Equipment,Irvine,CA,33.6845673,-117.8265049
+675,Microchip Technology,897,164.60 ,-49.20,12656,Steve Sanghi,Technology,Semiconductors and Other Electronic Components,Chandler,AZ,33.3061605,-111.8412502
+676,Amerco,682,398.40 ,-18.50,20376,Edward J. Shoen,Transportation,"Trucking, Truck Leasing",Reno,NV,39.5296329,-119.8138027
+677,Mercury General,689,144.90 ,98.30,4300,Gabriel Tirador,Financials,Insurance: Property and Casualty (Stock),Los Angeles,CA,34.0522342,-118.2436849
+678,American National Insurance,688,493.70 ,172.70,4621,James E. Pozzi,Financials,"Insurance: Life, Health (stock)",Galveston,TX,29.3013479,-94.7976958
+679,Carters,694,302.80 ,17.30,20900,Michael D. Casey,Apparel,Apparel,Atlanta,GA,33.7489954,-84.3879824
+680,International Flavors & Fragrances,711,295.70 ,-27.00,7300,Andreas Fibig,Chemicals,Chemicals,New York,NY,40.7127753,-74.0059728
+681,Aarons,692,292.50 ,110.00,11900,John W. Robinson III,Retailing,Specialty Retailers: Other,Atlanta,GA,33.7489954,-84.3879824
+682,Alliant Energy,677,457.30 ,23.10,3989,Patricia L. Kampling,Energy,Utilities: Gas and Electric,Madison,WI,43.0730517,-89.4012302
+683,EQT,NULL,1508.50 ,-,2067,David L. Porges,Energy,Energy,Pittsburgh,PA,40.4406248,-79.9958864
+684,Monster Beverage,721,820.70 ,15.20,2589,Rodney C. Sacks,"Food, Beverages &  Tobacco",Beverages,Corona,CA,33.8752935,-117.5664384
+685,BMC Stock Holdings,712,57.40 ,86.00,9100,David L. Keltner,Wholesalers,Wholesalers: Diversified,Atlanta,GA,33.7489954,-84.3879824
+686,Ryerson Holding,753,17.10 ,-8.60,3600,Edward J. Lehner,Materials,Metals,Chicago,IL,41.8781136,-87.6297982
+687,Equifax,703,587.30 ,20.20,10300,Mark W. Begor,Business Services,Financial Data Services,Atlanta,GA,33.7489954,-84.3879824
+688,Regal Beloit,690,213.00 ,4.70,23600,Mark J. Gliebe,Industrials,"Electronics, Electrical Equip.",Beloit,WI,42.5083482,-89.0317765
+689,Old Dominion Freight Line,731,463.80 ,56.80,19183,Greg C. Gantt,Transportation,"Trucking, Truck Leasing",Thomasville,NC,35.8826369,-80.0819879
+690,American Water Works,678,426.00 ,-9.00,6900,Susan N. Story,Energy,Miscellaneous,Voorhees Township,NJ,39.8519447,-74.961517
+691,BGC Partners,771,51.50 ,-49.80,9238,Howard W. Lutnick,Financials,Securities,New York,NY,40.7127753,-74.0059728
+692,Brinks,730,16.70 ,-51.60,62150,Douglas A. Pertz,Business Services,Diversified Outsourcing Services,Richmond,VA,37.5407246,-77.4360481
+692,Meritor,730,16.70 ,-51.60,62150,Douglas A. Pertz,Business Services,Diversified Outsourcing Services,Richmond,VA,37.5407246,-77.4360481
+694,Sentry Insurance Group,720,288.50 ,30.10,4139,Peter G. McPartland,Financials,Insurance: Property and Casualty (Mutual),Stevens Point,WI,44.5235792,-89.574563
+695,Sanderson Farms,758,279.70 ,48.00,14669,Joe F. Sanderson Jr.,"Food, Beverages &  Tobacco",Food Production,Laurel,MS,31.6940509,-89.1306124
+696,KapStone Paper & Packaging,715,243.50 ,182.30,6400,Matthew Kaplan,Materials,"Packaging, Containers",Northbrook,IL,42.1275267,-87.8289548
+697,Gartner,821,3.30 ,-98.30,15131,Eugene A. Hall,Technology,Information Technology Services,Stamford,CT,41.0534302,-73.5387341
+698,IAC/InterActiveCorp,705,304.90 ,-,7000,Joseph Levin,Technology,Internet Services and Retailing,New York City,NY,40.7127753,-74.0059728
+699,Tailored Brands,667,96.70 ,287.50,18200,Douglas S. Ewert,Retailing,Specialty Retailers: Apparel,Houston,TX,29.7604267,-95.3698028
+700,WABCO Holdings,759,406.10 ,82.10,14631,Jacques Esculier,Motor Vehicles &  Parts,Motor Vehicles and Parts,Rochester Hills,MI,42.6583661,-83.1499322
+701,Insperity,739,84.40 ,27.90,2900,Paul J. Sarvadi,Business Services,Diversified Outsourcing Services,Houston,TX,30.0575359,-95.1902986
+702,Comerica,736,743.00 ,55.80,7999,Ralph W. Babb Jr.,Financials,Commercial Banks,Dallas,TX,32.7766642,-96.7969879
+703,TriNet Group,717,178.00 ,189.90,2700,Burton M. Goldfield,Business Services,Diversified Outsourcing Services,San Leandro,CA,37.7249296,-122.1560768
+704,Avaya Holdings,621,-,-,8700,James M. Chirico Jr.,Technology,Information Technology Services,Santa Clara,CA,37.3541079,-121.9552356
+705,Ashland Global Holdings,516,1.00 ,-,6500,William A. Wulfsohn,Chemicals,Chemicals,Covington,KY,39.0836712,-84.5085536
+706,Meritage Homes,725,143.30 ,-4.20,1605,Steven J. Hilton,Engineering &  Construction,Homebuilders,Scottsdale,AZ,33.4941704,-111.9260519
+707,SkyWest,710,428.90 ,-,16300,Russell A. Childs,Transportation,Airlines,St. George,UT,37.0965278,-113.5684164
+708,USG,566,88.00 ,-82.70,6800,Jennifer F. Scanlon,Materials,"Building Materials, Glass",Chicago,IL,41.8781136,-87.6297982
+709,Southwestern Energy,823,1046.00 ,-,1575,William J. Way,Energy,"Mining, Crude-Oil Production",Spring,TX,30.0799405,-95.4171601
+710,Keysight Technologies,745,102.00 ,-69.60,12600,Ronald S. Nersesian,Technology,"Scientific,Photographic and  Control Equipment",Santa Rosa,CA,38.440429,-122.7140548
+711,Regal Entertainment Group,696,112.30 ,-34.10,26047,Nisan Cohen,Media,Entertainment,Knoxville,TN,35.9606384,-83.9207392
+712,Mutual of America Life Insurance,770,26.20 ,56.70,1079,John R. Greed,Financials,"Insurance: Life, Health (Mutual)",New York,NY,40.7127753,-74.0059728
+713,Paychex,737,817.30 ,8.00,13700,Martin Mucci,Business Services,Diversified Outsourcing Services,Rochester,NY,43.1565779,-77.6088465
+714,Brinker International,684,150.80 ,-24.90,57906,Wyman T. Roberts,"Hotels, Restaurants &  Leisure",Food Services,Dallas,TX,32.7766642,-96.7969879
+715,Penn National Gaming,728,473.50 ,333.10,18754,Timothy J. Wilmott,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Wyomissing,PA,40.329537,-75.9652117
+716,Gannett,722,6.90 ,-86.90,19000,Robert J. Dickey,Media,"Publishing, Printing",McLean,VA,38.9338676,-77.1772604
+717,Visteon,693,176.00 ,134.70,10000,Sachin S. Lawande,Motor Vehicles &  Parts,Motor Vehicles and Parts,Van Buren Charter Township,MI,42.2203171,-83.4838244
+718,Pinnacle Foods,708,532.00 ,152.00,4900,Mark A. Clouse,"Food, Beverages &  Tobacco",Food Consumer Products,Parsippany-Troy Hills,NJ,40.8652865,-74.4173877
+719,Intuitive Surgical,773,660.00 ,-10.30,4444,Gary S. Guthart,Health Care,Medical Products and Equipment,Sunnyvale,CA,37.36883,-122.0363496
+720,Continental Resources,945,789.40 ,-,1127,Harold G. Hamm,Energy,"Mining, Crude-Oil Production",Oklahoma City,OK,35.4675602,-97.5164276
+721,Service Corp. International,729,546.70 ,208.80,19468,Thomas L. Ryan,Business Services,Miscellaneous,Houston,TX,29.7604267,-95.3698028
+722,Scientific Games,750,242.30,-,8600,Barry L. Cottle,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV,36.1699412,-115.1398296
+723,Albemarle,654,54.90 ,-91.50,5400,Luther C. Kissam IV,Chemicals,Chemicals,Charlotte,NC,35.2270869,-80.8431267
+724,Atmos Energy,670,396.40 ,13.20,4565,Michael E. Haefner,Energy,Utilities: Gas and Electric,Dallas,TX,32.7766642,-96.7969879
+725,Hologic,755,755.50 ,128.40,6233,Stephen P. MacMillan,Health Care,Medical Products and Equipment,Marlboro,MA,42.3459271,-71.5522874
+726,H& R Block,727,408.90 ,9.30,44900,Jeffrey J. Jones II,Financials,Diversified Financials,KCMO,MO,39.0997265,-94.5785667
+727,Qorvo,787,16.60,-,8600,Robert A. Bruggeworth,Technology,Semiconductors and Other Electronic Components,Greensboro,NC,36.0726354,-79.7919754
+728,Steelcase,718,124.60 ,-26.80,12650,James P. Keane,Household Products,"Home Equipment, Furnishings",Grand Rapids,MI,42.9633599,-85.6680863
+729,Univision Communications,724,654.90 ,199.20,4500,Vincent Sadusky,Media,Entertainment,New York,NY,40.7127753,-74.0059728
+730,Worthington Industries,757,204.50 ,42.30,10000,John P. McConnell,Materials,Metals,Columbus,OH,39.9611755,-82.9987942
+731,Timken,781,203.40 ,33.30,15006,Richard G. Kyle,Industrials,Industrial Machinery,North Canton,OH,40.875891,-81.4023356
+732,A.O. Smith,776,296.50 ,-9.20,16100,Ajita G. Rajendra,Industrials,"Electronics, Electrical Equip.",Milwaukee,WI,43.0389025,-87.9064736
+733,PriceSmart,748,90.70 ,2.30,7903,Jose Luis Laparte,Retailing,General Merchandisers,San Diego,CA,32.715738,-117.1610838
+734,Stifel Financial,785,182.90 ,124.30,7100,Ronald J. Kruszewski,Financials,Securities,St. Louis,MO,38.6270025,-90.1994042
+735,Brown-Forman,713,669.00 ,-37.30,4570,Paul C. Varga,"Food, Beverages &  Tobacco",Beverages,Louisville,KY,38.2526647,-85.7584557
+736,Cinemark Holdings,744,264.20 ,3.60,19915,Mark Zoradi,Media,Entertainment,Plano,TX,33.0198431,-96.6988856
+737,Granite Construction,808,69.10 ,21.00,3600,James H. Roberts,Engineering &  Construction,"Engineering, Construction",Watsonville,CA,36.910231,-121.7568946
+738,Dycom Industries,780,151.30 ,-3.70,14365,Steven E. Nielsen,Engineering &  Construction,"Engineering, Construction",Palm Beach Gardens,FL,26.8233946,-80.1386547
+739,Clean Harbors,764,100.70 ,-,12700,Alan S. McKim,Business Services,Waste Management,Norwell,MA,42.1615157,-70.7927832
+740,First Solar,738,165.60,-,4100,Mark R. Widmar,Energy,Energy,Tempe,AZ,33.4255104,-111.9400054
+741,Scotts Miracle-Gro,740,218.30 ,-30.80,4700,James S. Hagedorn,Chemicals,Chemicals,Marysville,OH,40.2364486,-83.3671432
+742,Cracker Barrel Old Country Store,747,201.90 ,6.70,73000,Sandra B. Cochran,"Hotels, Restaurants &  Leisure",Food Services,Lebanon,TN,36.2081098,-86.2911024
+743,Triple-S Management,732,54.50 ,212.50,3517,Roberto Garcia-Rodriguez,Health Care,Health Care: Insurance and Managed Care,San Juan,Puerto Rico,18.4655394,-66.1057355
+744,First Republic Bank,842,757.70 ,12.50,4025,James H. Herbert II,Financials,Commercial Banks,SF,CA,37.7749295,-122.4194155
+745,ServiceMaster Global Holdings,768,510.00 ,229.00,13000,Nikhil Varty,Business Services,Diversified Outsourcing Services,Memphis,TN,35.1495343,-90.0489801
+746,PC Connection,775,54.90 ,14.00,2505,Timothy J. McGrath,Retailing,Specialty Retailers: Other,Merrimack,NH,42.8678693,-71.4948322
+747,Genesco,751,111.80,-214.80,19350,Robert J. Dennis,Retailing,Specialty Retailers: Apparel,Nashville,TN,36.1626638,-86.7816016
+748,Medical Mutual of Ohio,762,8.10 ,-80.00,2244,Richard A. Chiricosta,Financials,"Insurance: Life, Health (Mutual)",Cleveland,OH,41.49932,-81.6943605
+749,MSC Industrial Direct,752,231.40 ,0.10,6563,Erik Gershwind,Wholesalers,Wholesalers: Diversified,Melville,NY,40.7934322,-73.4151214
+750,Legg Mason,783,227.30 ,-,3338,Joseph A. Sullivan,Financials,Securities,Baltimore,MD,39.2903848,-76.6121893
+751,Hyster-Yale Materials Handling,792,48.60 ,13.60,6800,Alfred M. Rankin Jr.,Industrials,Industrial Machinery,Cleveland,OH,41.49932,-81.6943605
+752,Apollo Global Management,881,629.10 ,56.20,1047,Leon D. Black,Financials,Securities,New York,NY,40.7127753,-74.0059728
+753,Citrix Systems,661,20.70,-103.90,7500,David J. Henshall,Technology,Computer Software,Fort Lauderdale,FL,26.1224386,-80.1373174
+754,Acadia Healthcare,754,199.80 ,3153.10,34050,Joey A. Jacobs,Health Care,Health Care: Medical Facilities,Franklin,TN,35.9250637,-86.8688899
+755,Varian Medical Systems,691,249.60 ,-38.00,6600,Dow R. Wilson,Health Care,Medical Products and Equipment,Palo Alto,CA,37.4418834,-122.1430195
+756,Groupon,704,14.00 ,-,6672,Rich Williams,Technology,Internet Services and Retailing,Chicago,IL,41.8781136,-87.6297982
+757,Aleris,782,210.60,-,5400,Sean M. Stack,Materials,Metals,Cleveland,OH,41.49932,-81.6943605
+758,Sprague Resources,837,29.50 ,190.20,981,David C. Glendon,Wholesalers,Wholesalers: Diversified,Portsmouth,NH,43.0717552,-70.7625532
+759,Cooper Tire & Rubber,743,95.40 ,-61.60,9204,Bradley E. Hughes,Motor Vehicles &  Parts,Motor Vehicles and Parts,Findlay,OH,41.04422,-83.6499321
+760,Hain Celestial Group,NULL,67.40 ,42.20,7825,Irwin D. Simon,"Food, Beverages &  Tobacco",Food Consumer Products,Lake Success,NY,40.7706572,-73.7176312
+761,Penn Mutual Life Insurance,799,594.00 ,181.80,3089,Eileen C. McDonnell,Financials,"Insurance: Life, Health (stock)",Horsham,PA,40.1784422,-75.1285061
+762,Colony NorthStar,NULL,197.90,-568.00,544,Richard B. Saltzman,Financials,Real estate,Los Angeles,CA,34.0522342,-118.2436849
+763,ArcBest,774,59.70 ,220.20,13000,Judy R. McReynolds,Transportation,"Trucking, Truck Leasing",Fort Smith,AR,35.3859242,-94.3985475
+764,Presidio,NULL,4.40 ,-,2700,Robert Cagnazzi,Technology,Information Technology Services,New York,NY,40.7127753,-74.0059728
+765,TRI Pointe Group,831,187.20 ,-4.10,1251,Douglas F. Bauer,Engineering &  Construction,Homebuilders,Irvine,CA,33.6845673,-117.8265049
+766,Annaly Capital Management,853,1569.60 ,9.50,152,Kevin G. Keyes,Financials,Diversified Financials,New York,NY,40.7127753,-74.0059728
+767,G-III Apparel Group,838,62.10 ,19.60,9961,Morris Goldfarb,Apparel,Apparel,New York,NY,40.7127753,-74.0059728
+768,AMC Networks,763,471.30 ,74.20,2039,Joshua W. Sapan,Media,Entertainment,New York,NY,40.7127753,-74.0059728
+769,Enable Midstream Partners,870,436.00 ,39.70,1630,Rodney J. Sailor,Energy,Pipelines,Oklahoma City,OK,35.4675602,-97.5164276
+770,Ciena,788,1262.00 ,1638.60,5737,Gary B. Smith,Technology,Network and Other Communications Equipment,Hanover,MD,39.1955042,-76.7228227
+771,DSW,772,67.30 ,-46.00,12000,Roger L. Rawlins,Retailing,Specialty Retailers: Apparel,Columbus,OH,39.9611755,-82.9987942
+772,Convergys,746,121.40 ,-15.10,115000,Andrea J. Ayers,Business Services,Diversified Outsourcing Services,Cincinnati,OH,39.1031182,-84.5120196
+773,Park Hotels & Resorts,NULL,2625.00 ,-,520,Thomas J. Baltimore Jr.,Financials,Real estate,McLean,VA,38.9338676,-77.1772604
+774,Pool,791,191.60 ,28.70,4000,Manuel J. Perez de la Mesa,Wholesalers,Wholesalers: Diversified,Covington,LA,30.4754702,-90.1009108
+775,Fossil Group,723,478.20,-706.30,12300,Kosta N. Kartsotis,Apparel,Apparel,Richardson,TX,32.9483335,-96.7298519
+776,Dominos Pizza,815,277.90 ,29.50,14200,J. Patrick Doyle,"Hotels, Restaurants &  Leisure",Food Services,Ann Arbor,MI,42.2808256,-83.7430378
+777,Crane,767,171.80 ,39.90,10600,Max H. Mitchell,Industrials,Industrial Machinery,Stamford,CT,41.0534302,-73.5387341
+778,Caleres,790,87.20 ,32.80,12000,Diane M. Sullivan,Retailing,Specialty Retailers: Apparel,St. Louis,MO,38.6270025,-90.1994042
+779,Tempur Sealy International,709,151.40 ,-20.60,7000,Scott L. Thompson,Household Products,"Home Equipment, Furnishings",Lexington,KY,38.0405837,-84.5037164
+780,Tetra Tech,789,117.90 ,40.70,16000,Dan L. Batrack,Engineering &  Construction,"Engineering, Construction",Pasadena,CA,34.1477849,-118.1445155
+781,Illumina,833,726.00 ,56.90,6200,Francis A. deSouza,Technology,"Scientific,Photographic and  Control Equipment",San Diego,CA,32.715738,-117.1610838
+782,Valmont Industries,804,116.20 ,-32.90,10690,Stephen G. Kaniewski,Materials,Metals,Omaha,NE,41.2565369,-95.9345034
+783,Hill-Rom Holdings,784,133.60 ,7.70,10000,John P. Groetelaars,Health Care,Medical Products and Equipment,Chicago,IL,41.8781136,-87.6297982
+784,Unisys,756,65.30,-,20500,Peter A. Altabef,Technology,Information Technology Services,Blue Bell,PA,40.1523309,-75.266289
+785,Zions Bancorp.,816,592.00 ,26.20,10083,Harris H. Simmons,Financials,Commercial Banks,Salt Lake City,UT,40.7607793,-111.8910474
+786,Sinclair Broadcast Group,769,576.00 ,134.80,8900,Christopher S. Ripley,Media,Entertainment,Cockeysville,MD,39.4900013,-76.6585074
+787,Louisiana-Pacific,878,389.80 ,160.20,5000,W. Bradley Southern,Materials,"Building Materials, Glass",Nashville,TN,36.1626638,-86.7816016
+788,Mettler-Toledo International,810,376.00 ,-2.20,14600,Olivier A. Filliol,Technology,"Scientific,Photographic and  Control Equipment",Columbus,OH,39.9611755,-82.9987942
+789,Synopsys,827,136.60 ,-48.80,11686,Aart J. de Geus/Chi-Foon Chan,Technology,Computer Software,Mountain View,CA,37.3860517,-122.0838511
+790,Kemper,803,120.90 ,619.60,5550,Joseph P. Lacher Jr.,Financials,Insurance: Property and Casualty (Stock),Chicago,IL,41.8781136,-87.6297982
+791,Cabot,829,241.00 ,61.70,4500,Sean D. Keohane,Chemicals,Chemicals,Boston,MA,42.3600825,-71.0588801
+792,Great Plains Energy,778,106.20,-136.60,2709,Terry D. Bassham,Energy,Utilities: Gas and Electric,KCMO,MO,39.0997265,-94.5785667
+793,Rent-A-Center,735,6.70 ,-,18300,Mitchell E. Fadel,Retailing,Specialty Retailers: Other,Plano,TX,33.0198431,-96.6988856
+794,Hawaiian Holdings,819,364.00 ,54.60,6660,Peter R. Ingram,Transportation,Airlines,Honolulu,HI,21.3069444,-157.8583333
+795,Revlon,855,183.20,-,7800,Debra G. Perelman,Household Products,Household and Personal Products,New York,NY,40.7127753,-74.0059728
+796,Syneos Health,NULL,138.50,-222.90,21000,Alistair MacDonald,Health Care,Health Care: Pharmacy and Other Services,Raleigh,NC,35.7795897,-78.6381787
+797,Public Storage,794,1442.20 ,-0.80,5600,Ronald L. Havner Jr.,Financials,Real estate,Glendale,CA,34.1425078,-118.255075
+798,TTM Technologies,800,124.20 ,256.30,29000,Thomas T. Edman,Technology,Semiconductors and Other Electronic Components,Costa Mesa,CA,33.6412156,-117.9188221
+799,Vectren,820,216.00 ,2.10,5500,Carl L. Chapman,Energy,Utilities: Gas and Electric,Evansville,IN,37.9715592,-87.5710898
+800,Trimble,844,121.10 ,-8.50,9523,Steven W. Berglund,Technology,"Scientific,Photographic and  Control Equipment",Sunnyvale,CA,37.36883,-122.0363496
+801,NOW,910,52.00,-,4463,Robert R. Workman,Wholesalers,Wholesalers: Diversified,Houston,TX,29.7604267,-95.3698028
+802,Spirit Airlines,860,420.60 ,58.80,6100,Robert L. Fornaro,Transportation,Airlines,Miramar,FL,25.9860762,-80.3035602
+803,ASGN,822,157.70 ,62.20,3800,Peter T. Dameris,Business Services,Temporary Help,Calabasas,CA,34.1367208,-118.6614809
+804,Lincoln Electric Holdings,868,247.50 ,24.80,11000,Christopher L. Mapes,Industrials,Industrial Machinery,Cleveland,OH,41.49932,-81.6943605
+805,Prologis,801,1652.30 ,36.60,1565,Hamid R. Moghadam,Financials,Real estate,SF,CA,37.7749295,-122.4194155
+806,Range Resources,NULL,333.10 ,-,773,Jeffrey L. Ventura,Energy,"Mining, Crude-Oil Production",Fort Worth,TX,32.7554883,-97.3307658
+807,Teledyne Technologies,900,227.20 ,19.00,10340,Robert Mehrabian,Aerospace &  Defense,Aerospace and Defense,Thousand Oaks,CA,34.1705609,-118.8375937
+808,Vishay Intertechnology,858,20.30,-141.70,23000,Gerald Paul,Technology,Semiconductors and Other Electronic Components,Malvern,PA,40.0362184,-75.5138118
+809,Boston Properties,796,462.40 ,-9.80,740,Owen D. Thomas,Financials,Real estate,Boston,MA,42.3600825,-71.0588801
+810,Applied Industrial Technologies,806,133.90 ,352.80,5554,Neil A. Schrimsher,Wholesalers,Wholesalers: Diversified,Cleveland,OH,41.49932,-81.6943605
+811,Graham Holdings,813,302.00 ,79.20,16153,Timothy J. O�Shaughnessy,Business Services,Education,Arlington,VA,38.8816208,-77.0909809
+812,Amica Mutual Insurance,834,96.10 ,-38.90,3693,Robert A. DiMuccio,Financials,Insurance: Property and Casualty (Mutual),Lincoln,RI,41.9110123,-71.4418101
+813,Concho Resources,NULL,956.00 ,-,1203,Timothy A. Leach,Energy,"Mining, Crude-Oil Production",Midland,TX,31.9973456,-102.0779146
+814,ITT,830,113.50 ,-39.00,10000,Denise L. Ramos,Industrials,Industrial Machinery,White Plains,NY,41.0339862,-73.7629097
+815,Kansas City Southern,854,962.00 ,101.20,7130,Patrick J. Ottensmeyer,Transportation,Railroads,KCMO,MO,39.0997265,-94.5785667
+816,MDC Holdings,857,141.80 ,37.40,1491,Larry A. Mizel,Engineering &  Construction,Homebuilders,Denver,CO,39.7392358,-104.990251
+817,Evergy,793,323.90 ,-6.50,2205,Terry D. Bassham,Energy,Utilities: Gas and Electric,Topeka,KS,39.0473451,-95.6751576
+818,Pinnacle Entertainment,840,63.10 ,-,15377,Anthony M. Sanfilippo,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV,36.1699412,-115.1398296
+819,Hawaiian Electric Industries,839,165.30 ,-33.40,3880,Constance H. Lau,Energy,Utilities: Gas and Electric,Honolulu,HI,21.3069444,-157.8583333
+820,TEGNA,671,273.70 ,-37.30,5283,David T. Lougee,Media,Entertainment,McLean,VA,38.9338676,-77.1772604
+821,Southwest Gas Holdings,817,193.80 ,27.50,7771,John P. Hester,Energy,Utilities: Gas and Electric,Las Vegas,NV,36.1699412,-115.1398296
+822,Vista Outdoor,872,274.50,-286.70,6400,Christopher T. Metz,Household Products,Miscellaneous,Farmington,UT,40.9804999,-111.8874392
+823,Bon-Ton Stores,779,90.70,-,23300,William X. Tracy,Retailing,General Merchandisers,York,PA,39.9625984,-76.727745
+824,Super Micro Computer,884,69.30 ,-3.70,2699,Charles Liang,Technology,"Computers, Office Equipment",San Jose,CA,37.3382082,-121.8863286
+825,Plexus,795,112.10 ,46.60,16000,Todd P. Kelsey,Technology,Semiconductors and Other Electronic Components,Neenah,WI,44.1858193,-88.462609
+826,TrueBlue,766,55.50 ,-,5500,Steven C. Cooper,Business Services,Temporary Help,Tacoma,WA,47.2528768,-122.4442906
+827,Magellan Midstream Partners,889,869.50 ,8.30,1802,Michael N. Mears,Energy,Pipelines,Tulsa,OK,36.1539816,-95.992775
+828,Toro,836,267.70 ,15.90,6779,Richard M. Olson,Industrials,Construction and Farm Machinery,Bloomington,MN,44.840798,-93.2982799
+829,Akamai Technologies,851,218.30 ,-30.90,7650,F. Thomson Leighton,Technology,Internet Services and Retailing,Cambridge,MA,42.3736158,-71.1097335
+830,Moog,828,141.30 ,11.50,10675,John R. Scannell,Aerospace &  Defense,Aerospace and Defense,Elma Center,NY,42.8212288,-78.6341996
+831,Vertex Pharmaceuticals,NULL,263.50 ,-,2300,Jeffrey M. Leiden,Health Care,Pharmaceuticals,Boston,MA,42.3600825,-71.0588801
+832,Equity Residential,825,603.50 ,-85.90,2683,David J. Neithercut,Financials,Real estate,Chicago,IL,41.8781136,-87.6297982
+833,Selective Insurance Group,865,168.80 ,6.50,2260,Gregory E. Murphy,Financials,Insurance: Property and Casualty (Stock),Branchville,NJ,41.1464852,-74.7523874
+834,AptarGroup,856,220.00 ,7.00,13200,Stephan B. Tanda,Materials,"Packaging, Containers",Crystal Lake,IL,42.2411344,-88.3161965
+835,Benchmark Electronics,863,32.00,-149.90,10600,Paul J. Tufano,Technology,Semiconductors and Other Electronic Components,Scottsdale,AZ,33.4941704,-111.9260519
+836,Columbia Sportswear,841,105.10 ,-45.20,6188,Timothy P. Boyle,Apparel,Apparel,Portland,OR,45.5122308,-122.6587185
+837,A. Schulman,811,33.00 ,-,4900,Joseph M. Gingo,Chemicals,Chemicals,Fairlawn,OH,41.127833,-81.609844
+838,Verso,786,30.00,-,4200,B. Christopher DiSantis,Materials,Forest and Paper Products,Miamisburg,OH,39.6428362,-84.2866083
+839,Digital Realty Trust,901,248.30 ,-41.70,1429,A. William Stein,Financials,Real estate,SF,CA,37.7749295,-122.4194155
+840,GNC Holdings,797,148.90,-,11500,Kenneth A. Martindale,Food &  Drug Stores,Food and Drug Stores,Pittsburgh,PA,40.4406248,-79.9958864
+841,E*Trade Financial,930,614.00 ,11.20,3607,Karl A. Roessner,Financials,Securities,New York,NY,40.7127753,-74.0059728
+842,Hovnanian Enterprises,765,332.20,-,1905,Ara K. Hovnanian,Engineering &  Construction,Homebuilders,Red Bank,NJ,40.3470543,-74.0643065
+843,Maximus,832,209.40 ,17.40,20400,Bruce L. Caswell,Technology,Information Technology Services,Reston,VA,38.9586307,-77.3570028
+844,Twitter,802,108.10,-,3372,Jack Dorsey,Technology,Internet Services and Retailing,SF,CA,37.7749295,-122.4194155
+845,Par Pacific Holdings,974,72.60 ,-,905,William C. Pate,Energy,Petroleum Refining,Houston,TX,29.7604267,-95.3698028
+846,Parexel International,824,107.30 ,-30.70,18900,Jamie Macdonald,Health Care,Health Care: Pharmacy and Other Services,Waltham,MA,42.3764852,-71.2356113
+847,RH,902,2.20 ,-59.60,4750,Gary G. Friedman,Retailing,Specialty Retailers: Other,Corte Madera,CA,37.9254806,-122.5274755
+848,Nexstar Media Group,NULL,475.00 ,418.90,8737,Perry A. Sook,Media,Entertainment,Irving,TX,32.8140177,-96.9488945
+849,Knight-Swift Transportation Holdings,586,484.30 ,416.00,25300,David A. Jackson,Transportation,"Trucking, Truck Leasing",Phoenix,AZ,33.4483771,-112.0740373
+850,Red Hat,920,253.70 ,27.30,10500,James M. Whitehurst,Technology,Computer Software,Raleigh,NC,35.7795897,-78.6381787
+851,Belden,846,93.20 ,-27.20,8800,John S. Stroup,Industrials,"Electronics, Electrical Equip.",St. Louis,MO,38.6270025,-90.1994042
+852,Boyd Gaming,894,189.20 ,-54.70,19707,Keith E. Smith,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Las Vegas,NV,36.1699412,-115.1398296
+853,Primoris Services,938,72.40 ,170.80,7102,David L. King,Engineering &  Construction,"Engineering, Construction",Dallas,TX,32.7766642,-96.7969879
+854,Gardner Denver,NULL,18.40 ,-,6400,Vicente Reynal,Industrials,Industrial Machinery,Milwaukee,WI,43.0389025,-87.9064736
+855,Donaldson,882,232.80 ,22.00,13200,Tod E. Carpenter,Industrials,Industrial Machinery,Minneapolis,MN,44.977753,-93.2650108
+856,Party City Holdco,866,215.30 ,83.30,14600,James M. Harrison,Retailing,Specialty Retailers: Other,Elmsford,NY,41.0550969,-73.8201337
+857,J.Crew Group,826,125.00,-,8950,James W. Brett,Retailing,Specialty Retailers: Apparel,New York,NY,40.7127753,-74.0059728
+858,EnerSys,861,160.20 ,17.70,9400,David M. Shaffer,Industrials,"Electronics, Electrical Equip.",Reading,PA,40.3356483,-75.9268747
+859,Guess,887,7.90,-134.70,14700,Victor Herrero,Retailing,Specialty Retailers: Apparel,Los Angeles,CA,34.0522342,-118.2436849
+860,Patterson-UTI Energy,NULL,5.90 ,-,8000,William A. Hendricks Jr.,Energy,"Oil and Gas Equipment, Services",Houston,TX,29.7604267,-95.3698028
+861,WGL Holdings,848,192.60 ,14.90,1586,Terry D. McCallister,Energy,Energy,Leavenworth,WA,47.7510741,-120.7401385
+862,Wolverine World Wide,812,0.30 ,-99.70,3700,Blake W. Krueger,Apparel,Apparel,Rockford,MI,43.1200272,-85.5600316
+863,Xilinx,885,622.50 ,13.00,3831,Victor Peng,Technology,Semiconductors and Other Electronic Components,San Jose,CA,37.3382082,-121.8863286
+864,Vornado Realty Trust,809,227.40 ,-74.90,3989,Steven Roth,Financials,Real estate,New York,NY,40.7127753,-74.0059728
+865,Middleby,873,298.10 ,4.90,8493,Selim A. Bassoul,Industrials,Industrial Machinery,Elgin,IL,42.0354084,-88.2825668
+866,MPM Holdings,879,0.00 ,-,5200,John G. Boss,Chemicals,Chemicals,Waterford,NY,42.7925777,-73.6812293
+867,Cleveland-Cliffs,907,367.00 ,110.80,2938,Lourenco C. Goncalves,Energy,"Mining, Crude-Oil Production",Cleveland,OH,41.49932,-81.6943605
+868,GGP,849,657.30 ,-49.00,1700,Sandeep Mathrani,Financials,Real estate,Chicago,IL,41.8781136,-87.6297982
+869,Cypress Semiconductor,959,80.90,-,6099,Hassane El-Khoury,Technology,Semiconductors and Other Electronic Components,San Jose,CA,37.3382082,-121.8863286
+870,Arch Coal,946,238.50 ,-,3790,John W. Eaves,Energy,"Mining, Crude-Oil Production",St. Louis,MO,38.6270025,-90.1994042
+871,GMS,976,48.90 ,289.10,4464,G. Michael Callahan Jr.,Wholesalers,Wholesalers: Diversified,Tucker,GA,33.8545479,-84.2171424
+872,Waters,899,20.30 ,-96.10,7000,Christopher J. O'Connell,Technology,"Scientific,Photographic and  Control Equipment",Milford,MA,42.1398577,-71.5163049
+873,H.B. Fuller,913,58.20 ,-53.10,5965,James J. Owens,Chemicals,Chemicals,St Paul,MN,44.9537029,-93.0899578
+874,Affiliated Managers Group,892,689.50 ,45.80,4400,Nathaniel Dalton,Financials,Securities,West Palm Beach,FL,26.7153424,-80.0533746
+875,PerkinElmer,875,292.60 ,24.90,11000,Robert F. Friel,Technology,"Scientific,Photographic and  Control Equipment",Waltham,MA,42.3764852,-71.2356113
+876,Edgewell Personal Care,845,5.70 ,-96.80,6000,David P. Hatfield,Household Products,Household and Personal Products,Chesterfield,MO,38.6631083,-90.5770675
+877,Maxim Integrated Products,891,571.60 ,151.30,7040,Tun� Doluca,Technology,Semiconductors and Other Electronic Components,San Jose,CA,37.3382082,-121.8863286
+878,Knights of Columbus,880,108.10 ,21.90,926,Carl A. Anderson,Financials,"Insurance: Life, Health (Mutual)",New Haven,CT,41.308274,-72.9278835
+879,IDEX,906,337.30 ,24.40,7167,Andrew K. Silvernail,Industrials,Industrial Machinery,Lake Forest,IL,42.2586342,-87.840625
+880,DST Systems,847,451.50 ,5.70,14200,William C. Stone,Business Services,Financial Data Services,KCMO,MO,39.0997265,-94.5785667
+881,Chicos FAS,814,101.00 ,10.70,12350,Shelley G. Broader,Retailing,Specialty Retailers: Apparel,Fort Myers,FL,26.640628,-81.8723084
+882,Nu Skin Enterprises,888,129.40 ,-9.50,48700,Ritch N. Wood,Household Products,Household and Personal Products,Provo,UT,40.2338438,-111.6585337
+883,Herman Miller,874,123.90 ,-9.40,7478,Brian C. Walker,Household Products,"Home Equipment, Furnishings",Zeeland,MI,42.8125246,-86.018651
+884,NLV Financial,943,259.90 ,66.60,1065,Mehran Assadi,Financials,"Insurance: Life, Health (stock)",Montpelier,VT,44.2600593,-72.5753869
+885,Curtiss-Wright,908,214.90 ,14.70,8600,David C. Adams,Aerospace &  Defense,Aerospace and Defense,Charlotte,NC,35.2270869,-80.8431267
+886,New Jersey Resources,970,132.10 ,0.30,1052,Laurence M. Downes,Energy,Energy,Wall Township,NJ,40.1606666,-74.0679753
+887,REV Group,957,31.40 ,3.90,7800,Timothy W. Sullivan,Motor Vehicles &  Parts,Motor Vehicles and Parts,Milwaukee,WI,43.0389025,-87.9064736
+888,Mueller Industries,919,85.60 ,-14.20,4125,Gregory L. Christopher,Industrials,Industrial Machinery,Memphis,TN,35.1495343,-90.0489801
+889,GEO Group,895,146.20 ,-1.70,18512,George C. Zoley,Business Services,Miscellaneous,Boca Raton,FL,26.3683064,-80.1289321
+890,Allison Transmission Holdings,984,504.00 ,134.50,2700,David S. Graziosi,Motor Vehicles &  Parts,Motor Vehicles and Parts,Indianapolis,IN,39.768403,-86.158068
+891,OGE Energy,876,619.00 ,83.00,2413,Sean R. Trauschke,Energy,Utilities: Gas and Electric,Oklahoma City,OK,35.4675602,-97.5164276
+892,Cheesecake Factory,867,157.40 ,12.80,39100,David M. Overton,"Hotels, Restaurants &  Leisure",Food Services,Calabasas,CA,34.1372953,-118.6541895
+893,PRA Health Sciences,NULL,86.90 ,27.50,15800,Colin Shannon,Technology,"Scientific,Photographic and  Control Equipment",Raleigh,NC,35.7795897,-78.6381787
+894,Tupperware Brands,886,265.40,-218.70,12000,Patricia A. Stitzel,Household Products,Household and Personal Products,Orlando,FL,28.5383355,-81.3792365
+895,Euronet Worldwide,950,156.80 ,-10.10,6600,Michael J. Brown,Business Services,Financial Data Services,Leawood,KS,38.966673,-94.6169012
+896,FLEETCOR Technologies,988,740.20 ,63.60,7890,Ronald F. Clarke,Business Services,Financial Data Services,Norcross,GA,33.969864,-84.2212938
+897,Nationstar Mortgage Holdings,852,30.00 ,57.90,7600,Jay Bray,Financials,Diversified Financials,Coppell,TX,32.9545687,-97.0150078
+898,GoDaddy,980,136.40 ,-,5990,Scott W. Wagner,Technology,Internet Services and Retailing,Scottsdale,AZ,33.4941704,-111.9260519
+899,Blackhawk Network Holdings,966,155.80,-3444.10,3190,Talbott Roche,Business Services,Financial Data Services,Pleasanton,CA,37.6624312,-121.8746789
+900,Cboe Global Markets,NULL,401.70 ,115.00,889,Edward T. Tilly,Financials,Securities,Chicago,IL,41.8781136,-87.6297982
+901,Snyders-Lance,862,148.50 ,897.60,5900,Carlos Abrams-Rivera,"Food, Beverages &  Tobacco",Food Consumer Products,Charlotte,NC,35.2270869,-80.8431267
+902,Murphy Oil,972,311.80,-,1128,Roger W. Jenkins,Energy,"Mining, Crude-Oil Production",El Dorado,AR,33.20763,-92.6662674
+903,CDK Global,905,295.60 ,23.50,8900,Brian P. MacDonald,Technology,Computer Software,Hoffman Estates,IL,42.0629915,-88.1227199
+904,Texas Roadhouse,942,131.50 ,13.80,29524,W. Kent Taylor,"Hotels, Restaurants &  Leisure",Food Services,Louisville,KY,38.2526647,-85.7584557
+905,Kirby,NULL,313.20 ,121.50,5775,David W. Grzebinski,Transportation,Shipping,Houston,TX,29.7604267,-95.3698028
+906,Square,NULL,62.80,-,2338,Jack Dorsey,Business Services,Financial Data Services,SF,CA,37.7749295,-122.4194155
+907,Genesee & Wyoming,937,549.10 ,289.00,8000,John C. Hellmann,Transportation,Railroads,Darien,CT,41.0771914,-73.4686858
+908,Zayo Group Holdings,NULL,85.70 ,-,3794,Daniel P. Caruso,Telecommunications,Telecommunications,Boulder,CO,40.0149856,-105.2705456
+909,NewMarket,921,190.50 ,-21.70,2223,Thomas E. Gottwald,Chemicals,Chemicals,Richmond,VA,37.5407246,-77.4360481
+910,99 Cents Only Stores,929,90.30,-,17200,Jack L. Sinclair,Retailing,Specialty Retailers: Other,Commerce,CA,34.0005691,-118.1597929
+911,PCM,877,3.10 ,-82.40,4118,Frank F. Khulusi,Wholesalers,Wholesalers: Electronics and Office Equipment,El Segundo,CA,33.9191799,-118.4164652
+912,Federated Mutual Insurance,918,217.60 ,-4.90,2388,Jeffrey E. Fetters,Financials,Insurance: Property and Casualty (Mutual),Owatonna,MN,44.0855572,-93.2259349
+913,HNI,890,89.80 ,4.90,9350,Stanley A. Askren,Household Products,"Home Equipment, Furnishings",Muscatine,IA,41.424473,-91.0432051
+914,Hospitality Properties Trust,922,215.10 ,-3.60,450,John G. Murray,Financials,Real estate,Newton,MA,42.3370413,-71.2092214
+915,Greenbrier Cos.,777,116.10 ,-36.60,11917,William A. Furman,Transportation,Transportation Equipment,Lake Oswego,OR,45.4156817,-122.7159726
+916,Bio-Rad Laboratories,917,122.20 ,370.20,8150,Norman A. Schwartz,Health Care,"Scientific,Photographic and  Control Equipment",Hercules,CA,38.0171441,-122.2885808
+917,AvalonBay Communities,923,876.90 ,-15.20,3123,Timothy J. Naughton,Financials,Real estate,Arlington,VA,38.8816208,-77.0909809
+918,Renewable Energy Group,924,79.10,-278.40,853,Randolph L. Howard,Energy,Energy,Ames,IA,42.0307812,-93.6319131
+919,Atlas Air Worldwide Holdings,985,223.50 ,438.30,2870,William J. Flynn,Transportation,Transportation and Logistics,Harrison,NY,41.0400135,-73.7144477
+920,Teradata,859,67.00,-153.60,10615,Victor L. Lund,Technology,Information Technology Services,Dayton,OH,39.7589478,-84.1916069
+921,LCI Industries,NULL,132.90 ,2.50,9852,Jason D. Lippert,Motor Vehicles &  Parts,Motor Vehicles and Parts,Elkhart,IN,41.6819935,-85.9766671
+922,Teleflex,973,152.50 ,-35.70,14400,Liam J. Kelly,Health Care,Medical Products and Equipment,Wayne,PA,40.0415996,-75.3698895
+923,Verisk Analytics,909,555.10 ,-6.10,7192,Scott G. Stephenson,Business Services,Financial Data Services,Jersey City,NJ,40.7281575,-74.0776417
+924,Popular,955,107.70 ,-50.30,7784,Ignacio Alvarez,Financials,Commercial Banks,Hato Rey,Puerto Rico,18.4225782,-66.0509549
+925,Workday,NULL,321.20,-,8200,Aneel Bhusri,Technology,Computer Software,Pleasanton,CA,37.6624312,-121.8746789
+926,Cooper Cos.,948,372.90 ,36.10,11800,Albert G. White III,Health Care,Medical Products and Equipment,Pleasanton,CA,37.6624312,-121.8746789
+927,Express,893,19.40 ,-66.30,9576,David G. Kornberg,Retailing,Specialty Retailers: Apparel,Columbus,OH,39.9611755,-82.9987942
+928,Teradyne,NULL,257.70 ,-,4500,Mark E. Jagiela,Technology,Semiconductors and Other Electronic Components,North Reading,MA,42.5750939,-71.0786653
+929,Werner Enterprises,934,202.90 ,156.40,12154,Derek J. Leathers,Transportation,"Trucking, Truck Leasing",Omaha,NE,41.2565369,-95.9345034
+930,Oaktree Capital Group,NULL,231.50 ,18.90,930,Jay S. Wintrob,Financials,Securities,Los Angeles,CA,34.0522342,-118.2436849
+931,Woodward,931,200.50 ,10.90,6829,Thomas A. Gendron,Aerospace &  Defense,Aerospace and Defense,Fort Collins,CO,40.5852602,-105.084423
+932,F5 Networks,940,420.80 ,15.00,4366,Fran�ois Locoh-Donou,Technology,Network and Other Communications Equipment,Seattle,WA,47.6062095,-122.3320708
+933,Valvoline,NULL,304.00 ,11.40,5600,Samuel J. Mitchell Jr.,Chemicals,Chemicals,Lexington,KY,38.0405837,-84.5037164
+934,Roadrunner Transportation Systems,947,106.70,-,4645,Curtis W. Stoelting,Transportation,"Trucking, Truck Leasing",Downers Grove,IL,41.8089191,-88.0111746
+935,SemGroup,NULL,17.20,-918.60,1220,Carlin G. Conner,Energy,Pipelines,Tulsa,OK,36.1539816,-95.992775
+936,Catalent,979,109.80 ,-1.50,10800,John R. Chiminski,Health Care,Pharmaceuticals,Franklin Township,NJ,40.497604,-74.4884868
+937,Quorum Health,NULL,114.20,-,11250,Robert H. Fish,Health Care,Health Care: Medical Facilities,Brentwood,TN,36.0331164,-86.7827772
+938,Universal,904,106.30 ,-2.50,24000,George C. Freeman III,"Food, Beverages &  Tobacco",Tobacco,Richmond,VA,37.5407246,-77.4360481
+939,Nordson,996,295.80 ,8.80,7532,Michael F. Hilton,Industrials,Industrial Machinery,Westlake,OH,41.4553232,-81.9179173
+940,ResMed,986,342.30 ,-2.90,6080,Michael J. Farrell,Health Care,Medical Products and Equipment,San Diego,CA,32.715738,-117.1610838
+941,Tower International,927,47.60 ,23.40,7600,James C. Gouin,Motor Vehicles &  Parts,Motor Vehicles and Parts,Livonia,MI,42.36837,-83.3527097
+942,Freds,903,140.30,-,7324,Joseph M. Anto,Food &  Drug Stores,Food and Drug Stores,Memphis,TN,35.1495343,-90.0489801
+943,Foundation Building Materials,NULL,82.50 ,-,3782,Ruben D. Mendoza,Wholesalers,Wholesalers: Diversified,Tustin,CA,33.7420005,-117.8236391
+944,Kennametal,912,49.10 ,-,10744,Christopher Rossi,Industrials,Industrial Machinery,Pittsburgh,PA,40.4406248,-79.9958864
+945,Autodesk,928,566.90,-,8800,Andrew Anagnost,Technology,Computer Software,San Rafael,CA,37.9735346,-122.5310874
+946,Ply Gem Holdings,961,68.30 ,-9.50,9471,Gary E. Robinette,Materials,"Building Materials, Glass",Cary,NC,35.79154,-78.7811169
+947,Central Garden & Pet,989,78.80 ,77.10,4050,George C. Roeth,Household Products,Household and Personal Products,Walnut Creek,CA,37.9100783,-122.0651819
+948,Matson,954,232.00 ,188.20,1947,Matthew J. Cox,Transportation,Shipping,Honolulu,HI,21.3069444,-157.8583333
+949,EchoStar,719,392.60 ,118.20,2100,Michael T. Dugan,Technology,Network and Other Communications Equipment,Englewood,CO,39.6477653,-104.9877597
+950,Genesis Energy,NULL,82.60 ,-27.00,2100,Grant E. Sims,Energy,Pipelines,Houston,TX,29.7604267,-95.3698028
+951,SVB Financial Group,NULL,490.50 ,28.20,2438,Gregory W. Becker,Financials,Commercial Banks,Santa Clara,CA,37.3541079,-121.9552356
+952,Itron,933,57.30 ,80.40,7150,Philip C. Mezey,Industrials,"Electronics, Electrical Equip.",Liberty Lake,WA,47.6743428,-117.1124241
+953,Portland General Electric,960,187.00 ,-3.10,2906,Maria M. Pope,Energy,Utilities: Gas and Electric,Portland,OR,45.5122308,-122.6587185
+954,California Resources,NULL,266.00,-195.30,1450,Todd A. Stevens,Energy,"Mining, Crude-Oil Production",Los Angeles,CA,34.0522342,-118.2436849
+955,Esterline Technologies,932,111.60 ,13.90,13255,Curtis C. Reusser,Aerospace &  Defense,Aerospace and Defense,Bellevue,WA,47.6101497,-122.2015159
+956,Delta Tucker Holdings,987,30.60 ,-,8800,George Krivo,Aerospace &  Defense,Aerospace and Defense,McLean,VA,38.9338676,-77.1772604
+957,AMN Healthcare Services,964,132.60 ,25.20,2980,Susan R. Salka,Health Care,Health Care: Pharmacy and Other Services,San Diego,CA,32.715738,-117.1610838
+958,Griffon,951,14.90 ,-50.30,4700,Ronald J. Kramer,Materials,"Building Materials, Glass",New York,NY,40.7127753,-74.0059728
+959,Valhi,NULL,207.50 ,-,2790,Robert D. Graham,Chemicals,Chemicals,Dallas,TX,32.7766642,-96.7969879
+960,Hexcel,936,284.00 ,13.70,6259,Nick L. Stanage,Aerospace &  Defense,Aerospace and Defense,Stamford,CT,41.0534302,-73.5387341
+961,IDEXX Laboratories,NULL,263.10 ,18.50,7600,Jonathan W. Ayers,Health Care,Medical Products and Equipment,Westbrook,ME,43.6770252,-70.3711617
+962,Deluxe,978,230.20 ,0.30,5886,Lee J. Schram,Media,"Publishing, Printing",Shoreview,MN,45.0791325,-93.1471667
+963,M/I Homes,-,72.10 ,27.30,1238,Robert H. Schottenstein,Engineering &  Construction,Homebuilders,Columbus,OH,39.9611755,-82.9987942
+964,Kraton,NULL,97.50 ,-9.10,1931,Kevin M. Fogarty,Chemicals,Chemicals,Houston,TX,29.7604267,-95.3698028
+965,Stewart Information Services,935,48.70 ,-12.30,5960,Matthew W. Morris,Financials,Insurance: Property and Casualty (Stock),Houston,TX,29.7604267,-95.3698028
+966,Marriott Vacations Worldwide,994,226.80 ,65.10,11000,Stephen P. Weisz,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Orlando,FL,28.5383355,-81.3792365
+967,SPX FLOW,939,46.40 ,-,7000,Marcus G. Michael,Industrials,Industrial Machinery,Charlotte,NC,35.2270869,-80.8431267
+968,ACCO Brands,NULL,131.70 ,37.90,6620,Boris Y. Elisman,Household Products,"Home Equipment, Furnishings",Lake Zurich,IL,42.1969689,-88.0934108
+969,Echo Global Logistics,NULL,12.60 ,694.10,2453,Douglas R. Waggoner,Transportation,Transportation and Logistics,Chicago,IL,41.8781136,-87.6297982
+970,Cadence Design Systems,992,204.10 ,0.50,7214,Lip-Bu Tan,Technology,Computer Software,San Jose,CA,37.3382082,-121.8863286
+971,Nuance Communications,953,151.00,-,11600,Mark D. Benjamin,Technology,Computer Software,Burlington,MA,42.5047161,-71.1956205
+972,Finish Line,968,18.20,-183.20,8200,Samuel M. Sato,Retailing,Specialty Retailers: Apparel,Indianapolis,IN,39.768403,-86.158068
+973,TransUnion,NULL,441.20 ,265.80,5100,James M. Peck,Business Services,Financial Data Services,Chicago,IL,41.8781136,-87.6297982
+974,ServiceNow,NULL,149.10,-,6222,John J. Donahoe,Technology,Computer Software,Santa Clara,CA,37.3541079,-121.9552356
+975,Summit Materials,NULL,121.80 ,231.20,6000,Thomas W. Hill,Materials,"Building Materials, Glass",Denver,CO,39.7392358,-104.990251
+976,Engility Holdings,915,35.20,-,8700,Lynn A. Dugle,Aerospace &  Defense,Aerospace and Defense,Chantilly,VA,38.8942786,-77.4310992
+977,Ferrellgas Partners,926,54.20,-,3891,James E. Ferrell,Energy,Energy,Overland Park,KS,38.9822282,-94.6707917
+978,Interactive Brokers Group,NULL,76.00 ,-9.50,1228,Thomas P. Peterffy,Financials,Securities,Greenwich,CT,41.0262417,-73.6281964
+979,Stepan,NULL,91.60 ,6.30,2096,F. Quinn Stepan Jr.,Chemicals,Chemicals,Northfield,IL,42.09975,-87.7808967
+980,Oceaneering International,871,166.40 ,576.80,8200,Roderick A. Larson,Energy,"Oil and Gas Equipment, Services",Houston,TX,29.7604267,-95.3698028
+981,Cimarex Energy,NULL,494.30 ,-,910,Thomas E. Jorden,Energy,"Mining, Crude-Oil Production",Denver,CO,39.7392358,-104.990251
+982,Rexnord,958,74.10 ,9.10,8000,Todd A. Adams,Industrials,Industrial Machinery,Milwaukee,WI,43.0389025,-87.9064736
+983,Beazer Homes USA,990,31.80 ,577.90,1100,Allan P. Merrill,Engineering &  Construction,Homebuilders,Atlanta,GA,33.7489954,-84.3879824
+984,MKS Instruments,NULL,339.10 ,223.60,4923,Gerald G. Colella,Technology,Semiconductors and Other Electronic Components,Andover,MA,42.6583356,-71.1367953
+985,Vail Resorts,NULL,210.60 ,40.60,20150,Robert A. Katz,"Hotels, Restaurants &  Leisure","Hotels, Casinos, Resorts",Broomfield,CO,39.9205411,-105.0866504
+986,Ohio National Mutual,NULL,25.90 ,-91.10,1300,Gary T. Huffman,Financials,"Insurance: Life, Health (stock)",Cincinnati,OH,39.1031182,-84.5120196
+987,TopBuild,NULL,158.10 ,117.80,8400,Gerald Volas,Engineering &  Construction,"Engineering, Construction",Daytona Beach,FL,29.2108147,-81.0228331
+988,Brown & Brown,NULL,399.60 ,55.20,8491,J. Powell Brown,Financials,Insurance: Property and Casualty (Stock),Daytona Beach,FL,29.2108147,-81.0228331
+989,Aerojet Rocketdyne Holdings,NULL,9.20,-151.10,5157,Eileen P. Drake,Aerospace &  Defense,Aerospace and Defense,El Segundo,CA,33.9191799,-118.4164652
+990,Barnes & Noble Education,NULL,5.40 ,-,13375,Michael P. Huseby,Retailing,Specialty Retailers: Other,Bernards,NJ,40.7066174,-74.5493284
+991,Superior Energy Services,NULL,205.90,-,6400,David D. Dunlap,Energy,"Oil and Gas Equipment, Services",Houston,TX,29.7604267,-95.3698028
+992,VeriFone Systems,941,173.80,-,5600,Paul S. Galant,Technology,Financial Data Services,San Jose,CA,37.3382082,-121.8863286
+993,Childrens Place,NULL,84.70 ,-17.20,9800,Jane T. Elfers,Retailing,Specialty Retailers: Apparel,Secaucus,NJ,40.7895453,-74.0565298
+994,Tribune Media,896,194.10 ,1262.60,6000,Peter M. Kern,Media,Entertainment,Chicago,IL,41.8781136,-87.6297982
+995,Healthcare Services Group,NULL,88.20 ,14.00,55000,Theodore Wahl,Health Care,Health Care: Pharmacy and Other Services,Bensalem,PA,40.0994425,-74.9325683
+996,SiteOne Landscape Supply,NULL,54.60 ,78.40,3664,Doug Black,Wholesalers,Wholesalers: Diversified,Roswell,GA,34.0232431,-84.3615555
+997,Charles River Laboratories Intl,NULL,123.40 ,-20.30,11800,James C. Foster,Health Care,Health Care: Pharmacy and Other Services,Wilmington,MA,42.5481714,-71.1724467
+998,CoreLogic,952,152.20 ,42.80,5900,Frank D. Martell,Business Services,Financial Data Services,Irvine,CA,33.6845673,-117.8265049
+999,Ensign Group,NULL,40.50 ,-19.00,21301,Christopher R. Christensen,Health Care,Health Care: Medical Facilities,Mission Viejo,CA,33.5968913,-117.6581562
+1000,HCP,798,414.20 ,-34.00,190,Thomas M. Herzog,Financials,Real estate,Irvine,CA,33.6845673,-117.8265049
