@@ -15,14 +15,6 @@
     <nav class="blue" role="navigation">
         <div class="nav-wrapper">
             <a href="#" class="brand-logo center">Employment</a>
-            <ul id="nav-mobile" class="left hide-on-med-and-down">
-                <li><a href="home.html">Home</a></li>
-                <li><a>About Us</a></li>
-                <li><a href="csearch.html">Search Engine</a></li>
-            </ul>
-            <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li><a>Login/Register</a></li>
-            </ul>
         </div>
     </nav>
 
@@ -42,28 +34,36 @@
         } else {
             echo "<table border=\"1px solid black\">";
             echo "<tr>";
-            echo "<th> School Name </th>";
-            echo "<th> URL </th>";
-            echo "<th> City </th>";
-            echo "<th> State </th>";
-            echo "<th> Admission Rate </th>";
+            echo "<th> Company Name </th>";
+            echo "<th> Fortune 1000 Rank </th>";
+            echo "<th> Change in Rank </th>";
+            echo "<th> Profit (Million) </th>";
+            echo "<th> Profit Change </th>";
+            echo "<th> Number of Employees </th>";
+            echo "<th> CEO </th>";
+            echo "<th> Sector </th>";
+            echo "<th> Industry </th>";
+            echo "<th> HQ State </th>";
+            echo "<th> HQ City </th>";
+            echo "<th> Latitude </th>";
+            echo "<th> Longitude </th>";
             echo "</tr>";
-
-            echo "<tr>";
-            echo "<td>".$row['SchName']."</td>";
-            echo "<td>".$row['URL']."</td>";
-            echo "<td>".$row['City']."</td>";
-            echo "<td>".$row['State']."</td>";
-            echo "<td>".$row['Adm_rate']."</td>";
-            echo "</tr>";           // Print every row of the result.
 
             while ($row = $res->fetch_assoc()) {
                 echo "<tr>";
-                echo "<td>".$row['SchName']."</td>";
-                echo "<td>".$row['URL']."</td>";
-                echo "<td>".$row['City']."</td>";
-                echo "<td>".$row['State']."</td>";
-                echo "<td>".$row['Adm_rate']."</td>";
+                echo "<td>".$row['name']."</td>";
+                echo "<td>".$row['rank']."</td>";
+                echo "<td>".$row['change_in_rank']."</td>";
+                echo "<td>".$row['profit_mil']."</td>";
+                echo "<td>".$row['profit_change']."</td>";
+                echo "<td>".$row['num_employees']."</td>";
+                echo "<td>".$row['ceo']."</td>";
+                echo "<td>".$row['sector']."</td>";
+                echo "<td>".$row['industry']."</td>";
+                echo "<td>".$row['hq_state']."</td>";
+                echo "<td>".$row['hq_city']."</td>";
+                echo "<td>".$row['latitude']."</td>";
+                echo "<td>".$row['longitude']."</td>";
                 echo "</tr>";     		// Print every row of the result.
 
             }

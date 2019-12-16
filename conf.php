@@ -1,7 +1,6 @@
 <?php
 $dbhost = 'dbase.cs.jhu.edu'; // database host
-$dbuser = 'xchen100'; // database user
-$dbpass = 'bddegrihlu'; // database password
-$dbname = 'cs41517_xchen100_db'; // database name
+$dbuser = '19_yzhan289'; // database user
+$dbpass = 'oygqhcipxp'; // database password
+$dbname = 'cs415_fall_19_yzhan289'; // database name
 ?>
-
