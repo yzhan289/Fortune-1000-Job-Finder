@@ -21,10 +21,10 @@
 
     <?php
     include 'open.php';
-    $sat = $_POST["state"];
+    $state = $_POST["state"];
 
     // this does the query, calls some function called MatchSchool, not sure what though?
-    $mysqli->multi_query("CALL Search();");
+    $mysqli->multi_query("CALL Search($state);");
 
     $res = $mysqli->store_result();
     if ($res) {
@@ -45,8 +45,6 @@
             echo "<th> Industry </th>";
             echo "<th> HQ State </th>";
             echo "<th> HQ City </th>";
-            echo "<th> Latitude </th>";
-            echo "<th> Longitude </th>";
             echo "</tr>";
 
             while ($row = $res->fetch_assoc()) {
@@ -62,8 +60,6 @@
                 echo "<td>".$row['industry']."</td>";
                 echo "<td>".$row['hq_state']."</td>";
                 echo "<td>".$row['hq_city']."</td>";
-                echo "<td>".$row['latitude']."</td>";
-                echo "<td>".$row['longitude']."</td>";
                 echo "</tr>";     		// Print every row of the result.
 
             }
