@@ -8,7 +8,7 @@ FROM Company
 WHERE StateName = Company.hq_city
 ;
       
-END;
+END
 //
-delimeter ;
+delimiter ;
 
