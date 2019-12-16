@@ -1,44 +1,44 @@
 DROP TABLE IF EXISTS Company;
-CREATE TABLE Company (
-rank            INTEGER,
-name            VARCHAR(40) NOT NULL,
-change_in_rank  INTEGER,
-profit_mil      FLOAT,
-profit_change   FLOAT,
-num_employees   INTEGER,
-ceo             VARCHAR(40),
-sector          VARCHAR(22),
-industry        VARCHAR(46),
-hq_state        VARCHAR(21),
-hq_city         VARCHAR(25),
-latitude        FLOAT,
-longitude       INTEGER,
+CREATE TABLE Company (                  -- Sample data
+rank            INTEGER,                -- 1
+name            VARCHAR(40) NOT NULL,   -- Walmart
+previous_rank   INTEGER,                -- 1
+profit_mil      FLOAT,                  -- 9862
+profit_change   FLOAT,                  -- -27.7
+num_employees   INTEGER,                -- 2300000
+ceo             VARCHAR(40),            -- C. Douglas McMillon
+sector          VARCHAR(22),            -- Retailing
+industry        VARCHAR(46),            -- General Merchandisers
+hq_city         VARCHAR(50),            -- Bentonville
+hq_state_code   VARCHAR(2),             -- AR
+latitude        FLOAT,                  -- 36.3729
+longitude       FLOAT,                  -- -94.2088
 PRIMARY KEY (name)
 );
 
 DROP TABLE IF EXISTS CityInfo;
-CREATE TABLE CityInfo (
-state_name              VARCHAR(21) NOT NULL,
-city_name               VARCHAR(50) NOT NULL,
-city_population         INTEGER,
-num_murders             INTEGER,
-num_rapes               INTEGER,
-num_robbery             INTEGER,
-num_assaults            INTEGER,
-num_burglaries          INTEGER,
-num_larcenies           INTEGER,
-num_motor_thefts        INTEGER,
-num_arsons              INTEGER,
+CREATE TABLE CityInfo (                     -- Sample data
+state_name          VARCHAR(21) NOT NULL,   -- Alabama
+city_name           VARCHAR(50) NOT NULL,   -- Abbeville
+city_population     INTEGER,                -- 2551
+num_murders         INTEGER,                -- 0
+num_rapes           INTEGER,                -- 2
+num_robbery         INTEGER,                -- 0
+num_assaults        INTEGER,                -- 16
+num_burglaries      INTEGER,                -- 14
+num_larcenies       INTEGER,                -- 33
+num_motor_thefts    INTEGER,                -- 2
+num_arsons          INTEGER,                -- 0
 PRIMARY KEY (state_name, city_name)
 );
 
 DROP TABLE IF EXISTS StateInfo;
-CREATE TABLE StateInfo (
-state_name          VARCHAR(21) NOT NULL,
-state_code          VARCHAR(2) NOT NULL,
-dollar_parity       FLOAT,
-goods_parity        FLOAT,
-rent_parity         FLOAT,
+CREATE TABLE StateInfo (                -- Sample data
+state_name      VARCHAR(21) NOT NULL,   -- Alabama
+state_code      VARCHAR(2) NOT NULL,    -- AL
+dollar_parity   FLOAT,                  -- 91.6
+goods_parity    FLOAT,                  -- 96.5
+rent_parity     FLOAT,                  -- 63.1
 PRIMARY KEY (state_name)
 );
 
