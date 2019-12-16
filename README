@@ -5,6 +5,6 @@ To set up the tables, create a credentials file with the following format:
     <password>
     <host>
     <database>
-and call create_tables.py in the populate_database directory with the file path
-as the argument.
+and call create_tables.py from the populate_database directory with the file
+path as the argument.
     python create_tables.py <filepath> 
