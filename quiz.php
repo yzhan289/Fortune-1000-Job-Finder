@@ -24,7 +24,7 @@
     $sat = $_POST["state"];
 
     // this does the query, calls some function called MatchSchool, not sure what though?
-    $mysqli->multi_query("CALL MatchSchool($sat, $act, NULL, $eth, $ret, $fee);");
+    $mysqli->multi_query("CALL Search();");
 
     $res = $mysqli->store_result();
     if ($res) {
