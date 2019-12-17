@@ -6,7 +6,7 @@ BEGIN
 
 SELECT * 
 FROM Company 
-WHERE StateName = Company.hq_city;
+WHERE StateName = Company.hq_state_code;
 
 END//
 delimiter ;

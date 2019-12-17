@@ -12,9 +12,9 @@
 </head>
 
 <body>
-    <nav class="blue" role="navigation">
+    <nav class="white" role="navigation">
         <div class="nav-wrapper">
-            <a href="#" class="brand-logo center">Employment</a>
+            <a href="#" class="brand-logo center">Company Finder</a>
         </div>
     </nav>
 
@@ -41,13 +41,9 @@
             echo "<tr>";
             echo "<th> Company Name </th>";
             echo "<th> Fortune 1000 Rank </th>";
-            echo "<th> Change in Rank </th>";
             echo "<th> Profit (Million) </th>";
-            echo "<th> Profit Change </th>";
             echo "<th> Number of Employees </th>";
-            echo "<th> CEO </th>";
             echo "<th> Sector </th>";
-            echo "<th> Industry </th>";
             echo "<th> HQ State </th>";
             echo "<th> HQ City </th>";
             echo "</tr>";
@@ -56,14 +52,10 @@
                 echo "<tr>";
                 echo "<td>".$row['name']."</td>";
                 echo "<td>".$row['rank']."</td>";
-                echo "<td>".$row['change_in_rank']."</td>";
                 echo "<td>".$row['profit_mil']."</td>";
-                echo "<td>".$row['profit_change']."</td>";
                 echo "<td>".$row['num_employees']."</td>";
-                echo "<td>".$row['ceo']."</td>";
                 echo "<td>".$row['sector']."</td>";
-                echo "<td>".$row['industry']."</td>";
-                echo "<td>".$row['hq_state']."</td>";
+                echo "<td>".$row['hq_state_code']."</td>";
                 echo "<td>".$row['hq_city']."</td>";
                 echo "</tr>";     		// Print every row of the result.
 
