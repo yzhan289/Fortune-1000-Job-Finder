@@ -23,6 +23,11 @@
     include 'open.php';
     $state = $_POST["state"];
 
+    if ($state) {
+        $state = "'$state'";
+    } else {
+        $state = "NULL";
+    }
 
     $mysqli->multi_query("CALL Search($state);");
 
