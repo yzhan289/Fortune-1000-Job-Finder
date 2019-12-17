@@ -23,9 +23,6 @@
     include 'open.php';
     $state = $_POST["state"];
 
-    
-    $state = "'$state'";
-
 
     $mysqli->multi_query("CALL Search($state);");
 
