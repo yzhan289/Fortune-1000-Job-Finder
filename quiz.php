@@ -23,13 +23,10 @@
     include 'open.php';
     $state = $_POST["state"];
 
-    if ($state) {
-        $state = "'$state'";
-    } else {
-        $state = "NULL";
-    }
+    
+    $state = "'$state'";
 
-    // this does the query, calls some function called MatchSchool, not sure what though?
+
     $mysqli->multi_query("CALL Search($state);");
 
     $res = $mysqli->store_result();
