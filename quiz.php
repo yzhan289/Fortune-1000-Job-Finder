@@ -15,6 +15,9 @@
     <nav class="white" role="navigation">
         <div class="nav-wrapper">
             <a href="#" class="brand-logo center">Company Finder</a>
+            <ul id="nav-mobile" class="left hide-on-med-and-down">
+                <li><a href="home.html">Home</a></li>
+            </ul>
         </div>
     </nav>
 
