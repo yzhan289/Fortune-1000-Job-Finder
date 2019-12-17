@@ -29,7 +29,7 @@
         $state = "NULL";
     }
 
-    $mysqli->multi_query("CALL Search(MD);");
+    $mysqli->multi_query("CALL Search($state);");
 
     $res = $mysqli->store_result();
     if ($res) {
