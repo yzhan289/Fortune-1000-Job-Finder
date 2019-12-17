@@ -1,7 +1,7 @@
 delimiter //
 DROP PROCEDURE IF EXISTS Search//
 
-CREATE PROCEDURE Search(IN StateName VARCHAR(2), StateName1 VARCHAR(2))
+CREATE PROCEDURE Search(IN StateName VARCHAR(2))
 BEGIN
 
 SELECT * 
