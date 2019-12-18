@@ -29,7 +29,7 @@
 
     # state name
     if ($state) {
-      $state_condition = "AND Company.hq_state_code = '$state' ";
+      $state_condition = fprintf("AND Company.hq_state_code = '%s' ", $state);
       $query .= $state_condition;
     }
 
