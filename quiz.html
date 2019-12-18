@@ -25,7 +25,9 @@
 
   <nav class="white" role="navigation">
     <div class="nav-wrapper">
-      <a href="#" class="brand-logo center">Company Finder</a>
+      <a href="#" class="brand-logo center">
+        Fortune 1000 Company Finder
+      </a>
       <ul id="nav-mobile" class="left hide-on-med-and-down">
         <li><a href="home.html">Home</a></li>
       </ul>
@@ -45,6 +47,19 @@
     <div class="row" style="position:relative; left:10%; font-size: 20px">
       <div class="input-field col s3">City: <input type="text" name="city"></div>
     </div>
+
+    <!-- Get the violent crime safety of the company -->
+    <div class="row" style="position:relative; left:10%; font-size: 20px">On a scale from 1 (least) to 4 (most), how important is the rate of violent crimes in the city you want to live in?</div>
+    <div class="row" style="position:relative; left:10%; font-size: 20px">
+      <div class="input-field col s3">Rate (1 to 4): <input type="text" name="violent_crime_rate"></div>
+    </div>
+
+    <!-- Get the property crime safety of the company -->
+    <div class="row" style="position:relative; left:10%; font-size: 20px">On a scale from 1 (least) to 4 (most), how important is the rate of property crimes in the city you want to live in?</div>
+    <div class="row" style="position:relative; left:10%; font-size: 20px">
+      <div class="input-field col s3">Rate (1 to 4): <input type="text" name="property_crime_rate"></div>
+    </div>
+
     <!-- Get the sector of the company -->
     <div class="row" style="position:relative; left:10%; font-size: 20px">What sector do you want to work in?</div>
     <div class="row" style="position:relative; left:10%; font-size: 20px">
@@ -85,6 +100,7 @@
       </select>
     </div>
 
+    <!--  -->
     <div class="row" style="position:relative; left:10%; font-size: 20px">
       <input name="submit" type="submit" value="Submit"> </br>
     </div>

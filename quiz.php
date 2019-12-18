@@ -33,7 +33,9 @@
     $city = $_POST["city"];
     $sector = $_POST["sector"];
     $companysize = $_POST["companysize"];
-
+    $violent_crime_rate = $_POST["violent_crime_rate"];
+    $property_crime_rate = $_POST["property_crime_rate"];
+    
     # state code
     if ($state) {
       $state_condition = "AND Company.hq_state_code = '" . $state . "'";
@@ -45,7 +47,36 @@
       $state_condition = "AND Company.hq_city = '" . $city . "'";
       $query .= $state_condition;
     }
-    
+
+    # violent_crime_rate
+    if ($violent_crime_rate) {
+      if (strcmp($violent_crime_rate,"4") == 0) {
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 200";
+      }
+      if (strcmp($violent_crime_rate,"3") == 0) {
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 1000";
+      }
+      if (strcmp($violent_crime_rate,"2") == 0) {
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 2000";
+      }
+      $query .= $state_condition;
+    }
+
+    # property_crime_rate
+    if ($property_crime_rate) {
+      if (strcmp($property_crime_rate,"4") == 0) {
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 200";
+      }
+      if (strcmp($property_crime_rate,"3") == 0) {
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 1000";
+      }
+      if (strcmp($property_crime_rate,"2") == 0) {
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 2000";
+      }
+      $query .= $state_condition;
+    }
+
+
     # sector
     if ($sector) {
       $state_condition = "AND Company.sector = '" . $sector . "'";
