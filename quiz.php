@@ -24,11 +24,10 @@
 
     <?php
     include 'open.php';
-    $query = "SELECT * FROM Company \n"; # Base query with some true condition
+    $query = "SELECT * FROM Company WHERE 1 = 1\n"; # Base query with some true condition
 
-    $state = $_POST["state"];
     if ($state) {
-      $state_condition = "AND Company.state = '%state'\n", $state;
+      $state_condition = "AND Company.state = '$state'\n";
       $query .= $state_condition;
     }
 
