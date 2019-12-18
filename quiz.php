@@ -25,7 +25,7 @@
     <?php
     include 'open.php'; # connect to the database
     $query = "SELECT * FROM Company;"; # Base query with some true condition
-    $state = $_POST["state"];
+    // $state = $_POST["state"];
     // if ($state) {
     //   $state_condition = "AND Company.state = '$state'\n";
     //   $query .= $state_condition;
@@ -36,7 +36,7 @@
     # Attach ending semicolon
     #$query .= ";\n";
 
-    $mysqli->multi_query(query);
+    $mysqli->multi_query($query);
 
     //
     // if ($state) {
