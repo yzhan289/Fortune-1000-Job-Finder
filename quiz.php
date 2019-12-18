@@ -24,15 +24,28 @@
 
     <?php
     include 'open.php';
-    $state = $_POST["state"];
-
+    $query = "SELECT * FROM Company WHERE 1 = 1\n"; # Base query with some true condition
+    
     if ($state) {
-        $state = "'$state'";
-    } else {
-        $state = "NULL";
+      $state_condition = sprintf("AND Company.state = '%s'\n", $state);
+      $query .= $state_condition;
     }
 
-    $mysqli->multi_query("CALL Search($state);");
+    # More conditions would go here
+
+    # Attach ending semicolon
+    $query .= ";\n";
+
+    $mysqli->multi_query(query);
+    // $state = $_POST["state"];
+    //
+    // if ($state) {
+    //     $state = "'$state'";
+    // } else {
+    //     $state = "NULL";
+    // }
+    //
+    // $mysqli->multi_query("CALL Search($state);");
 
     $res = $mysqli->store_result();
     if ($res) {
