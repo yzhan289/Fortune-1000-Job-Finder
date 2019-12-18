@@ -24,29 +24,23 @@
 
     <?php
     include 'open.php'; # connect to the database
-    $query = "SELECT * FROM Company;"; # Base query with some true condition
-    // $state = $_POST["state"];
-    // if ($state) {
-    //   $state_condition = "AND Company.state = '$state'\n";
-    //   $query .= $state_condition;
-    // }
+    $query = "SELECT * FROM Company\n"; # Base query with some true condition
+    $state = $_POST["state"];
+
+    # state name
+    if ($state) {
+      $state_condition = "AND Company.state = '$state'\n";
+      $query .= $state_condition;
+    }
 
     # More conditions would go here
 
     # Attach ending semicolon
-    #$query .= ";\n";
+    $query .= ";\n";
 
     $mysqli->multi_query($query);
 
-    //
-    // if ($state) {
-    //     $state = "'$state'";
-    // } else {
-    //     $state = "NULL";
-    // }
-    //
-    // $mysqli->multi_query("CALL Search($state);");
-
+    # get the SQL results
     $res = $mysqli->store_result();
     if ($res) {
         $row = $res->fetch_assoc();
