@@ -35,7 +35,7 @@
     $companysize = $_POST["companysize"];
     $violent_crime_rate = $_POST["violent_crime_rate"];
     $property_crime_rate = $_POST["property_crime_rate"];
-    
+
     # state code
     if ($state) {
       $state_condition = "AND Company.hq_state_code = '" . $state . "'";
@@ -51,13 +51,13 @@
     # violent_crime_rate
     if ($violent_crime_rate) {
       if (strcmp($violent_crime_rate,"4") == 0) {
-        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 200";
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 50\n";
       }
       if (strcmp($violent_crime_rate,"3") == 0) {
-        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 1000";
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 100\n";
       }
       if (strcmp($violent_crime_rate,"2") == 0) {
-        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 2000";
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 500\n";
       }
       $query .= $state_condition;
     }
@@ -65,13 +65,13 @@
     # property_crime_rate
     if ($property_crime_rate) {
       if (strcmp($property_crime_rate,"4") == 0) {
-        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 200";
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 50\n";
       }
       if (strcmp($property_crime_rate,"3") == 0) {
-        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 1000";
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 100\n";
       }
       if (strcmp($property_crime_rate,"2") == 0) {
-        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 2000";
+        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 500\n";
       }
       $query .= $state_condition;
     }
@@ -79,20 +79,20 @@
 
     # sector
     if ($sector) {
-      $state_condition = "AND Company.sector = '" . $sector . "'";
+      $state_condition = "AND Company.sector = '" . $sector . "' ";
       $query .= $state_condition;
     }
 
     # company size
     if ($companysize) {
       if (strcmp($companysize,"small") == 0) {
-        $state_condition = "AND Company.num_employees < 10000";
+        $state_condition = "AND Company.num_employees < 10000 ";
       }
       if (strcmp($companysize,"med") == 0) {
-        $state_condition = "AND Company.num_employees > 10000 AND Company.num_employees < 100000";
+        $state_condition = "AND Company.num_employees > 10000 AND Company.num_employees < 100000 ";
       }
       if (strcmp($companysize,"big") == 0) {
-        $state_condition = "AND Company.num_employees > 100000";
+        $state_condition = "AND Company.num_employees > 100000 ";
       }
       $query .= $state_condition;
     }
