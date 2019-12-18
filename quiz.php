@@ -24,12 +24,12 @@
 
     <?php
     include 'open.php'; # connect to the database
-    $query = "SELECT * FROM Company\n"; # Base query with some true condition
+    $query = "SELECT * FROM Company WHERE 1 = 1\n"; # Base query with some true condition
     $state = $_POST["state"];
 
     # state name
     if ($state) {
-      $state_condition = "AND Company.state = '$state' \n";
+      $state_condition = "AND Company.hq_state_code = '$state' ";
       $query .= $state_condition;
     }
 
