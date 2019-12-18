@@ -29,7 +29,7 @@
 
     # state name
     if ($state) {
-      $state_condition = "AND Company.state = '$state''\n";
+      $state_condition = "AND Company.state = '$state' \n";
       $query .= $state_condition;
     }
 
