@@ -30,6 +30,7 @@
     "INNER JOIN CompactCrimeData on StateInfo.state_name = CompactCrimeData.state_name AND Company.hq_city = CompactCrimeData.city_name ";
     $query .= "WHERE 1 = 1\n";
     $state = $_POST["state"];
+    $sector = $_POST["sector"];
 
     # state code
     if ($state) {
@@ -37,12 +38,17 @@
       $query .= $state_condition;
     }
 
+    # sector
+    if ($sector) {
+      $state_condition = "AND Company.sector = '" . $sector . "'";
+      $query .= $state_condition;
+    }
 
     # Attach ending semicolon
     $query .= ";\n";
 
     $mysqli->multi_query($query);
-
+    echo 'Here are your results: <br/>';
     # get the SQL results
     $res = $mysqli->store_result();
     if ($res) {
