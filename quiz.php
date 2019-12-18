@@ -24,19 +24,20 @@
 
     <?php
     include 'open.php'; # connect to the database
-    $query = "SELECT * FROM Company WHERE 1 = 1\n"; # Base query with some true condition
+    $query = "SELECT * FROM Company, StateInfo, CityInfo, CompactCrimeData "; # Base query with some true condition
+    $query .= "WHERE Company.hq_state_code = StateInfo.state_code\n" .
+   "AND StateInfo.state_name = CityInfo.state_name\n" .
+   "AND Company.hq_city = CityInfo.city_name\n" .
+   "AND StateInfo.state_name = CompactCrimeData.state_name\n" .
+   "AND Company.hq_city = CompactCrimeData.city_name\n"
     $state = $_POST["state"];
 
-    # state name
+    # state code
     if ($state) {
       $state_condition = "AND Company.hq_state_code = '" . $state . "'";
-      echo 'State is $state </br>';
       $query .= $state_condition;
-    } else {
-
     }
 
-    # More conditions would go here
 
     # Attach ending semicolon
     $query .= ";\n";
