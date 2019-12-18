@@ -30,7 +30,9 @@
     "INNER JOIN CompactCrimeData on StateInfo.state_name = CompactCrimeData.state_name AND Company.hq_city = CompactCrimeData.city_name ";
     $query .= "WHERE 1 = 1\n";
     $state = $_POST["state"];
+    $city = $_POST["city"];
     $sector = $_POST["sector"];
+    $companysize = $_POST["companysize"];
 
     # state code
     if ($state) {
@@ -38,9 +40,29 @@
       $query .= $state_condition;
     }
 
+    # city
+    if ($city) {
+      $state_condition = "AND Company.hq_city = '" . $city . "'";
+      $query .= $state_condition;
+    }
+    
     # sector
     if ($sector) {
       $state_condition = "AND Company.sector = '" . $sector . "'";
+      $query .= $state_condition;
+    }
+
+    # company size
+    if ($companysize) {
+      if (strcmp($companysize,"small") == 0) {
+        $state_condition = "AND Company.num_employees < 10000";
+      }
+      if (strcmp($companysize,"med") == 0) {
+        $state_condition = "AND Company.num_employees > 10000 AND Company.num_employees < 100000";
+      }
+      if (strcmp($companysize,"big") == 0) {
+        $state_condition = "AND Company.num_employees > 100000";
+      }
       $query .= $state_condition;
     }
 
