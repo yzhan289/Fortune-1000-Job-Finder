@@ -1,0 +1,60 @@
+<html>
+
+<head>
+  <meta http-equiv="Content-Type"
+  content="text/html; charset=utf-8"/>
+  <!--Import Google Icon Font-->
+  <link rel="stylesheet" href="css/material_icons.woff">
+  <!--Import materialize.css-->
+  <link rel="stylesheet" href="css/materialize.min.css">
+  <!-- libraries -->
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <!--Let browser know website is optimized for mobile-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+
+<body>
+  <!--Import jQuery before materialize.js-->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <!--Import angularJS-->
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.5/angular.min.js"></script>
+  <!--Import materializec,js-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/js/materialize.min.js"></script>
+  <!--import main.js-->
+  <script type="text/javascript" src="js/main.js"></script>
+
+  <nav class="white" role="navigation">
+    <div class="nav-wrapper">
+      <a href="#" class="brand-logo center">
+        Fortune 1000 Company Finder
+      </a>
+      <ul id="nav-mobile" class="left hide-on-med-and-down">
+        <li><a href="home.html">Home</a></li>
+      </ul>
+
+    </div>
+  </nav>
+  <p style="position:relative; left:2%; font-size: 20px">Have a company in mind already and want to get something similar?</p>
+  <form action="quiz.php" method="post">
+
+    <!-- Get the state -->
+    <div class="row" style="position:relative; left:10%; font-size: 20px">Input the company name to get the qualities:</div>
+    <div class="row" style="position:relative; left:10%; font-size: 20px">
+      <div class="input-field col s3">Company: <input type="text" name="company"></div>
+    </div>
+
+
+    <div class="row" style="position:relative; left:10%; font-size: 20px">
+      <input name="submit" type="submit" value="Submit">
+    </div>
+  </form>
+  <div class="parallax-container">
+    <div class="parallax"><img src="images/stars.jpg"></div>
+  </div>
+  <div class="section white">
+    <div class="row container">
+      <p class="grey-text text-darken-3 lighten-3"></p>
+    </div>
+  </div>
+</body>
+</html>
