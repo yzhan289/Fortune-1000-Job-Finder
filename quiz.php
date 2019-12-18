@@ -65,13 +65,13 @@
     # property_crime_rate
     if ($property_crime_rate) {
       if (strcmp($property_crime_rate,"4") == 0) {
-        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 50\n";
+        $state_condition = "AND CompactCrimeData.property_crime_per_100000 < 50\n";
       }
       if (strcmp($property_crime_rate,"3") == 0) {
-        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 100\n";
+        $state_condition = "AND CompactCrimeData.property_crime_per_100000 < 100\n";
       }
       if (strcmp($property_crime_rate,"2") == 0) {
-        $state_condition = "AND CompactCrimeData.violent_crimes_per_100000 < 500\n";
+        $state_condition = "AND CompactCrimeData.property_crime_per_100000 < 500\n";
       }
       $query .= $state_condition;
     }
@@ -79,7 +79,9 @@
 
     # sector
     if ($sector) {
-      $state_condition = "AND Company.sector = '" . $sector . "' ";
+      if (strcmp($sector,"any") != 0) {
+        $state_condition = "AND Company.sector = '" . $sector . "' ";
+      }
       $query .= $state_condition;
     }
 
