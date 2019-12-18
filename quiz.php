@@ -54,10 +54,10 @@
       $state_condition = "AND dollar_parity < 99\n";
     }
     if (strcmp($col,"med") == 0) {
-      $state_condition = "AND dollar_parity > 99 AND dollar_parity < 107\n";
+      $state_condition = "AND dollar_parity > 99 AND dollar_parity < 108\n";
     }
     if (strcmp($col,"high") == 0) {
-      $state_condition = "AND dollar_parity > 107\n";
+      $state_condition = "AND dollar_parity > 108\n";
     }
     $query .= $state_condition;
   }
