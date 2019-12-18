@@ -56,13 +56,13 @@
   # violent_crime_rate
   if ($violent_crime_rate) {
     if (strcmp($violent_crime_rate,"4") == 0) {
-      $state_condition = "AND violent_crimes_per_100000 < 200\n";
+      $state_condition = "AND violent_crimes_per_100000 < 60\n";
     }
     if (strcmp($violent_crime_rate,"3") == 0) {
-      $state_condition = "AND violent_crimes_per_100000 < 500\n";
+      $state_condition = "AND violent_crimes_per_100000 < 200\n";
     }
     if (strcmp($violent_crime_rate,"2") == 0) {
-      $state_condition = "AND violent_crimes_per_100000 < 1000\n";
+      $state_condition = "AND violent_crimes_per_100000 < 400\n";
     }
     $query .= $state_condition;
   }
@@ -70,13 +70,13 @@
   # property_crime_rate
   if ($property_crime_rate) {
     if (strcmp($property_crime_rate,"4") == 0) {
-      $state_condition = "AND property_crime_per_100000 < 200\n";
-    }
-    if (strcmp($property_crime_rate,"3") == 0) {
       $state_condition = "AND property_crime_per_100000 < 500\n";
     }
-    if (strcmp($property_crime_rate,"2") == 0) {
+    if (strcmp($property_crime_rate,"3") == 0) {
       $state_condition = "AND property_crime_per_100000 < 1000\n";
+    }
+    if (strcmp($property_crime_rate,"2") == 0) {
+      $state_condition = "AND property_crime_per_100000 < 2000\n";
     }
     $query .= $state_condition;
   }
