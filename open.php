@@ -6,6 +6,6 @@
         printf("Connect failed: %s\n", mysqli_connect_error());
         die ('Error connecting to mysql. :-( <br/>');
     } else {
-        //echo 'Yes, we have connected to MySQL! :-) <br/>';
+        // echo 'Yes, we have connected to MySQL! :-) <br/>';
     }
 ?>
