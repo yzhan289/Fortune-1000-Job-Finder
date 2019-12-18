@@ -35,15 +35,18 @@
     </div>
   </nav>
   <p style="position:relative; left:2%; font-size: 20px">Have a company in mind already and want to get something similar?</p>
-  <form action="quiz.php" method="post">
+  <form action="reverse.php" method="post">
 
-    <!-- Get the state -->
+    <!-- Get the company -->
     <div class="row" style="position:relative; left:10%; font-size: 20px">Input the company name to get the qualities:</div>
     <div class="row" style="position:relative; left:10%; font-size: 20px">
       <div class="input-field col s3">Company: <input type="text" name="company"></div>
     </div>
 
-
+    <!-- 1. Call the query to find the company -->
+    <!-- 2. Get the data from the database and save them -->
+    <!-- 3. After showing the current information on a company, let user choose "less" and "more" options -->
+    <!-- 4. After user is done selecting less and more, execute the query again -->
     <div class="row" style="position:relative; left:10%; font-size: 20px">
       <input name="submit" type="submit" value="Submit">
     </div>
