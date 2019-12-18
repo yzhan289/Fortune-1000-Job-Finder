@@ -24,7 +24,7 @@
 
     <?php
     include 'open.php'; # connect to the database
-    $query = "SELECT * FROM Company\n"; # Base query with some true condition
+    $query = "SELECT * FROM Company;"; # Base query with some true condition
     $state = $_POST["state"];
     // if ($state) {
     //   $state_condition = "AND Company.state = '$state'\n";
