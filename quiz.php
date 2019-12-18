@@ -24,11 +24,16 @@
 
     <?php
     include 'open.php'; # connect to the database
-    $query = "SELECT * FROM Company\n"; # Base query with some true condition
-    $query .= "INNER JOIN StateInfo on Company.hq_state_code = StateInfo.state_code " .
-    "INNER JOIN CityInfo on StateInfo.state_name = CityInfo.state_name AND Company.hq_city = CityInfo.city_name ";
-    "INNER JOIN CompactCrimeData on StateInfo.state_name = CompactCrimeData.state_name AND Company.hq_city = CompactCrimeData.city_name ";
-    $query .= "WHERE 1 = 1\n";
+    $query = "SELECT * FROM Company, StateInfo, CityInfo, CompactCrimeData\n"; # Base query with some true condition
+
+    # Join conditions
+    $query .= "WHERE Company.hq_state_code = StateInfo.state_code\n" .
+    "AND StateInfo.state_name = CityInfo.state_name\n" .
+    "AND Company.hq_city = CityInfo.city_name\n" .
+    "AND StateInfo.state_name = CompactCrimeData.state_name\n" .
+    "AND Company.hq_city = CompactCrimeData.city_name\n";
+
+
     $state = $_POST["state"];
     $city = $_POST["city"];
     $sector = $_POST["sector"];
