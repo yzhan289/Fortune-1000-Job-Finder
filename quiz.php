@@ -27,10 +27,10 @@
     $query = "SELECT * FROM Company, StateInfo, CityInfo, CompactCrimeData "; # Base query with some true condition
     $query .= "WHERE Company.hq_state_code = StateInfo.state_code " .
     "AND StateInfo.state_name = CityInfo.state_name " .
-    "AND Company.hq_city = CityInfo.city_name " .
-    "AND StateInfo.state_name = CompactCrimeData.state_name " .
-    "AND Company.hq_city = CompactCrimeData.city_name ";
-    
+    "AND Company.hq_city = CityInfo.city_name ";
+    // "AND StateInfo.state_name = CompactCrimeData.state_name " .
+    // "AND Company.hq_city = CompactCrimeData.city_name ";
+
     $state = $_POST["state"];
 
     # state code
