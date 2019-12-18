@@ -35,6 +35,7 @@
 
 
   $state = $_POST["state"];
+  $col = $_POST["col"];
   $city = $_POST["city"];
   $sector = $_POST["sector"];
   $companysize = $_POST["companysize"];
@@ -44,6 +45,20 @@
   # state code
   if ($state) {
     $state_condition = "AND Company.hq_state_code = '" . $state . "'";
+    $query .= $state_condition;
+  }
+
+  # cost of living
+  if ($col) {
+    if (strcmp($col,"low") == 0) {
+      $state_condition = "AND dollar_parity < 99\n";
+    }
+    if (strcmp($col,"med") == 0) {
+      $state_condition = "AND dollar_parity > 99 AND dollar_parity < 107\n";
+    }
+    if (strcmp($col,"high") == 0) {
+      $state_condition = "AND dollar_parity > 107\n";
+    }
     $query .= $state_condition;
   }
 
@@ -70,7 +85,7 @@
   # property_crime_rate
   if ($property_crime_rate) {
     if (strcmp($property_crime_rate,"4") == 0) {
-      $state_condition = "AND property_crime_per_100000 < 650\n";
+      $state_condition = "AND property_crime_per_100000 < 700\n";
     }
     if (strcmp($property_crime_rate,"3") == 0) {
       $state_condition = "AND property_crime_per_100000 < 1000\n";

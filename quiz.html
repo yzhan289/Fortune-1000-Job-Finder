@@ -36,10 +36,22 @@
   </nav>
   <p style="position:relative; left:2%; font-size: 20px">Insert the desired traits for your dream company!</p>
   <form action="quiz.php" method="post">
+
     <!-- Get the state -->
     <div class="row" style="position:relative; left:10%; font-size: 20px">What state do you want to live in?</div>
     <div class="row" style="position:relative; left:10%; font-size: 20px">
       <div class="input-field col s3">State: <input type="text" name="state"></div>
+    </div>
+
+    <!-- Get the cost of living for the state -->
+    <div class="row" style="position:relative; left:10%; font-size: 20px">What cost of living do you want?</div>
+    <div class="row" style="position:relative; left:10%; font-size: 20px">
+      <select id="col" name="col">
+        <option value="any">Any</option>
+        <option value="low">Low</option>
+        <option value="med">Medium</option>
+        <option value="high">High</option>
+      </select>
     </div>
 
     <!-- Get the city -->
