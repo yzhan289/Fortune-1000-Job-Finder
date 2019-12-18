@@ -24,12 +24,12 @@
 
     <?php
     include 'open.php';
-    $query = "SELECT * FROM Company WHERE 1 = 1\n"; # Base query with some true condition
+    $query = "SELECT * FROM Company WHERE 1 = 1\n AND Company.state = 'MD'\n"; # Base query with some true condition
 
-    if ($state) {
-      $state_condition = "AND Company.state = '$state'\n";
-      $query .= $state_condition;
-    }
+    // if ($state) {
+    //   $state_condition = "AND Company.state = '$state'\n";
+    //   $query .= $state_condition;
+    // }
 
     # More conditions would go here
 
