@@ -23,17 +23,17 @@
 
   <?php
   include 'open.php'; # connect to the database
-  $query = "SELECT * FROM Company, StateInfo, CityInfo, CompactCrimeData\n"; # Base query with some true condition
+  $query = "SELECT * FROM Company"; # Base query with some true condition
 
   # Join conditions
-  $query .= "WHERE Company.hq_state_code = StateInfo.state_code\n" .
-  "AND StateInfo.state_name = CityInfo.state_name\n" .
-  "AND Company.hq_city = CityInfo.city_name\n" .
-  "AND StateInfo.state_name = CompactCrimeData.state_name\n" .
-  "AND Company.hq_city = CompactCrimeData.city_name\n";
+  // $query .= "WHERE Company.hq_state_code = StateInfo.state_code\n" .
+  // "AND StateInfo.state_name = CityInfo.state_name\n" .
+  // "AND Company.hq_city = CityInfo.city_name\n" .
+  // "AND StateInfo.state_name = CompactCrimeData.state_name\n" .
+  // "AND Company.hq_city = CompactCrimeData.city_name\n";
 
   $cname = $_POST["company"];
-  $query .= "AND Company.name = '" . $cname . "'";
+  $query .= "WHERE Company.name = '" . $cname . "'";
 
 
   # Attach ending semicolon
