@@ -34,9 +34,6 @@
   $query .= " WHERE Company.name = \"$cname\";";
 
 
-  # Attach ending semicolon
-  // $query .= ";\n";
-  // echo "<td>".$query."</td>";
   echo 'Looks like you would be a great fit at these companies: <br/>';
 
   $mysqli->multi_query($query);
@@ -44,6 +41,7 @@
   $cost; // get current company's cost of living
   $companysize; // get current company's size
   $citypop; // get current company's city population
+
   # get the SQL results
   if ($res) {
     $row = $res->fetch_assoc();
@@ -55,9 +53,9 @@
       $companysize = $row['num_employees'];
       $citypop = $row['city_population'];
     }
-    $res->free();                                              				// Clean-up.
+    $res->free();           
   } else {
-    printf("<br>Error: %s\n", $mysqli->error);                 		// The procedure failed to execute.
+    printf("<br>Error: %s\n", $mysqli->error);
   }
 
   // Make a new query with the updated values
@@ -116,8 +114,6 @@
   # Attach ending semicolon
   $query .= ";\n";
 
-
-  echo $query;
   $mysqli->multi_query($query);
   # get the SQL results
   $res = $mysqli->store_result();
@@ -158,9 +154,9 @@
       }
       echo "</table>";
     }
-    $res->free();                                              				// Clean-up.
+    $res->free();
   } else {
-    printf("<br>Error: %s\n", $mysqli->error);                 		// The procedure failed to execute.
+    printf("<br>Error: %s\n", $mysqli->error);
   }
   $mysqli->close();
   ?>
