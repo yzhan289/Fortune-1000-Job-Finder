@@ -73,7 +73,7 @@
   $col = $_POST["col"]; // get either larger or smaller
   $csize = $_POST["csize"]; // get either larger or smaller
   $cpop = $_POST["cpop"]; // get either larger or smaller
-
+  $sector = $_POST["sector"];
   // if COL was changed
   if ($col) {
     if (strcmp($col,"low") == 0) {
@@ -107,7 +107,12 @@
     $query .= $state_condition;
   }
 
-
+  if ($sector) {
+    if (strcmp($sector,"any") != 0) {
+      $state_condition = "AND Company.sector = '" . $sector . "' ";
+    }
+    $query .= $state_condition;
+  }
   # Attach ending semicolon
   $query .= ";\n";
 
