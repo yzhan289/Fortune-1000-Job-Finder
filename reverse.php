@@ -46,6 +46,7 @@
 
   $mysqli->multi_query($query);
   echo 'Here are your results: <br/>';
+  $res = $mysqli->store_result();
   # get the SQL results
   if ($res) {
     $row = $res->fetch_assoc();
