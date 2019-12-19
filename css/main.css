@@ -1,20 +1,31 @@
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #454;
 }
 
+select {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
 input[type=text] {
-    width: 50px;
-    -webkit-transition: width 0.4s ease-in-out;
-    transition: width 0.4s ease-in-out;
+  width: 50px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
 }
 
 input[type=text]:focus {
-    width: 100%;
+  width: 100%;
 }
 
 span {
-    margin-left: 20px;
+  margin-left: 20px;
 }
 
 p {
@@ -27,48 +38,24 @@ p {
 }
 
 .parallax-container {
-  min-height: 380px;
+  min-height: 500px;
   line-height: 0;
   height: auto;
-  color: rgba(255,255,255,.9);
-}
-  .parallax-container .section {
-    width: 100%;
-  }
-
-@media only screen and (max-width : 992px) {
-  .parallax-container .section {
-    position: absolute;
-    top: 40%;
-  }
-  #index-banner .section {
-    top: 10%;
-  }
-}
-
-@media only screen and (max-width : 600px) {
-  #index-banner .section {
-    top: 0;
-  }
+  color: rgba(255,255,255,1);
 }
 
 .icon-block {
   padding: 0 15px;
 }
+
+.parallax-container .section {
+  width: 100%;
+}
+
 .icon-block .material-icons {
   font-size: inherit;
 }
 
 footer.page-footer {
   margin: 0;
-}
-
-select {
-  width: 50%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
 }

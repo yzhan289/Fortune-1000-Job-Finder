@@ -1,13 +1,9 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-  <!--Import Google Icon Font-->
-  <link rel="stylesheet" href="css/material_icons.woff">
-  <!--Import materialize.css-->
   <link rel="stylesheet" href="css/materialize.min.css">
-  <!-- libraries -->
+  <link rel="stylesheet" href="css/material_icons.woff">
   <link rel="stylesheet" type="text/css" href="css/main.css">
-  <!--Let browser know website is optimized for mobile-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 </head>
 
@@ -53,7 +49,7 @@
       $companysize = $row['num_employees'];
       $citypop = $row['city_population'];
     }
-    $res->free();           
+    $res->free();
   } else {
     printf("<br>Error: %s\n", $mysqli->error);
   }
@@ -72,6 +68,8 @@
   $csize = $_POST["csize"]; // get either larger or smaller
   $cpop = $_POST["cpop"]; // get either larger or smaller
   $sector = $_POST["sector"];
+
+
   // if COL was changed
   if ($col) {
     if (strcmp($col,"low") == 0) {
@@ -115,6 +113,7 @@
   $query .= ";\n";
 
   $mysqli->multi_query($query);
+
   # get the SQL results
   $res = $mysqli->store_result();
   if ($res) {
@@ -160,15 +159,10 @@
   }
   $mysqli->close();
   ?>
-
-  <!--Import jQuery before materialize.js-->
-  <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-  <!--Import angularJS-->
-  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.5/angular.min.js"></script>
-  <!--Import materializec,js-->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/js/materialize.min.js"></script>
-  <!--import main.js-->
   <script type="text/javascript" src="js/main.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.5/angular.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.1/js/materialize.min.js"></script>
 
 </body>
 </html>
