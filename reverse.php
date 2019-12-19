@@ -33,11 +33,11 @@
   // "AND Company.hq_city = CompactCrimeData.city_name\n";
 
   $cname = $_POST["company"];
-  $query .= "WHERE Company.name = \"$cname\"";
+  $query .= " WHERE Company.name = \"$cname\";";
 
 
   # Attach ending semicolon
-  $query .= ";\n";
+  // $query .= ";\n";
 
   $mysqli->multi_query($query);
   echo 'Here are your results: <br/>';
