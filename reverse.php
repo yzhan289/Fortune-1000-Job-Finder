@@ -33,7 +33,7 @@
   // "AND Company.hq_city = CompactCrimeData.city_name\n";
 
   $cname = $_POST["company"];
-  $query .= "WHERE Company.name = \"$cname\";
+  $query .= "WHERE Company.name = \"$cname\"";
 
 
   # Attach ending semicolon
