@@ -21,7 +21,6 @@
     </div>
   </nav>
 
-
   <?php
   include 'open.php'; # connect to the database
   $query = "SELECT * FROM Company, StateInfo, CityInfo, CompactCrimeData\n"; # Base query with some true condition
@@ -33,7 +32,8 @@
   "AND StateInfo.state_name = CompactCrimeData.state_name\n" .
   "AND Company.hq_city = CompactCrimeData.city_name\n";
 
-
+  $cname = $_POST["company"];
+  $query .= "AND Company.name = '" . $cname . "'";
 
 
   # Attach ending semicolon
@@ -58,7 +58,7 @@
       echo "<th> HQ State </th>";
       echo "<th> HQ City </th>";
       echo "</tr>";
-      
+
       while ($row = $res->fetch_assoc()) {
         echo "<tr>";
         echo "<td>".$row['name']."</td>";
