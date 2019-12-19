@@ -62,12 +62,14 @@
   $mysqli->close();                                               				// Clean-up.
 
   // Make a new query with the updated values
-  $query = "SELECT * FROM Company "; # Base query with some true condition
+  $query = "SELECT * FROM Company, StateInfo, CityInfo, CompactCrimeData\n"; # Base query with some true condition
 
   # Join conditions
-  $query .= "INNER JOIN StateInfo on Company.hq_state_code = StateInfo.state_code\n" .
-  " LEFT JOIN CityInfo on Company.hq_city = CityInfo.city_name\n" .
-  " LEFT JOIN CompactCrimeData on Company.hq_city = CompactCrimeData.city_name WHERE 1 = 1\n";
+  $query .= " WHERE Company.hq_state_code = StateInfo.state_code\n" .
+  " AND StateInfo.state_name = CityInfo.state_name\n" .
+  " AND Company.hq_city = CityInfo.city_name\n" .
+  " AND StateInfo.state_name = CompactCrimeData.state_name\n" .
+  " AND Company.hq_city = CompactCrimeData.city_name\n";
 
   // if COL was changed
   if ($col) {
@@ -82,6 +84,8 @@
 
   # Attach ending semicolon
   $query .= ";\n";
+
+  
   echo $query;
   $mysqli->multi_query($query);
   # get the SQL results
