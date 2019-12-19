@@ -41,9 +41,9 @@
 
   $mysqli->multi_query($query);
   $res = $mysqli->store_result();
-  $cost;
-  $companysize;
-  $citypop;
+  $cost; // get current company's cost of living
+  $companysize; // get current company's size
+  $citypop; // get current company's city population
   # get the SQL results
   if ($res) {
     $row = $res->fetch_assoc();
@@ -70,13 +70,12 @@
   " AND StateInfo.state_name = CompactCrimeData.state_name\n" .
   " AND Company.hq_city = CompactCrimeData.city_name\n";
 
-  $col = $_POST["col"];
-  $csize = $_POST["csize"];
-  $cpop = $_POST["cpop"];
+  $col = $_POST["col"]; // get either larger or smaller
+  $csize = $_POST["csize"]; // get either larger or smaller
+  $cpop = $_POST["cpop"]; // get either larger or smaller
 
   // if COL was changed
   if ($col) {
-    echo 'COL changed <br/>';
     if (strcmp($col,"low") == 0) {
       $state_condition = "AND dollar_parity < $cost\n";
     }
@@ -85,6 +84,29 @@
     }
     $query .= $state_condition;
   }
+
+  // if compay size was changed
+  if ($csize) {
+    if (strcmp($csize,"low") == 0) {
+      $state_condition = "AND num_employees < $companysize\n";
+    }
+    if (strcmp($csize,"high") == 0) {
+      $state_condition = "AND num_employees > $companysize\n";
+    }
+    $query .= $state_condition;
+  }
+
+  // if city size was changed
+  if ($cpop) {
+    if (strcmp($cpop,"low") == 0) {
+      $state_condition = "AND city_population < $citypop\n";
+    }
+    if (strcmp($cpop,"high") == 0) {
+      $state_condition = "AND city_population > $citypop\n";
+    }
+    $query .= $state_condition;
+  }
+
 
   # Attach ending semicolon
   $query .= ";\n";
