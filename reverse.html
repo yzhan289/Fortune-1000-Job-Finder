@@ -38,15 +38,82 @@
   <form action="reverse.php" method="post">
 
     <!-- Get the company -->
-    <div class="row" style="position:relative; left:10%; font-size: 20px">Input the company name to get the qualities:</div>
+    <div class="row" style="position:relative; left:10%; font-size: 30px">Input the company name to get the qualities:</div>
     <div class="row" style="position:relative; left:10%; font-size: 20px">
       <div class="input-field col s3">Company: <input type="text" name="company"></div>
     </div>
 
-    <!-- 1. Call the query to find the company -->
-    <!-- 2. Get the data from the database and save them -->
-    <!-- 3. After showing the current information on a company, let user choose "less" and "more" options -->
-    <!-- 4. After user is done selecting less and more, execute the query again -->
+    <div class="row" style="position:relative; left:10%; font-size: 30px">What do you want to change about your current company?:</div>
+
+    <div class="row" style="position:relative; left:10%; font-size: 20px">I want a ___ cost of living</div>
+    <div class="row" style="position:relative; left:10%; font-size: 20px">
+      <select id="col" name="col">
+        <option value="any"></option>
+        <option value="low">lower</option>
+        <option value="high">higher</option>
+      </select>
+    </div>
+
+    <div class="row" style="position:relative; left:10%; font-size: 20px">I want a ___ company</div>
+    <div class="row" style="position:relative; left:10%; font-size: 20px">
+      <select id="col" name="col">
+        <option value="any"></option>
+        <option value="low">smaller</option>
+        <option value="high">larger</option>
+      </select>
+    </div>
+
+    <div class="row" style="position:relative; left:10%; font-size: 20px">I want a ___ city population</div>
+    <div class="row" style="position:relative; left:10%; font-size: 20px">
+      <select id="col" name="col">
+        <option value="any"></option>
+        <option value="low">smaller</option>
+        <option value="high">larger</option>
+      </select>
+    </div>
+
+    <div class="row" style="position:relative; left:10%; font-size: 20px">I want ___ crime</div>
+    <div class="row" style="position:relative; left:10%; font-size: 20px">
+      <select id="col" name="col">
+        <option value="any"></option>
+        <option value="low">lower</option>
+        <option value="high">higher</option>
+      </select>
+    </div>
+
+    <!-- Get the sector of the company -->
+    <div class="row" style="position:relative; left:10%; font-size: 20px">I want to change to a different industry:</div>
+    <div class="row" style="position:relative; left:10%; font-size: 20px">
+      <select id="sector" name="sector">
+        <option value="any"></option>
+        <option value="Aerospace &  Defense">Aerospace & Defense</option>
+        <option value="Apparel">Apparel</option>
+        <option value="Business Services">Business Services</option>
+        <option value="Chemicals">Chemicals</option>
+        <option value="Energy">Energy</option>
+        <option value="Engineering &  Constru">Engineering & Construction</option>
+        <option value="Financials">Financials</option>
+        <option value="Food &  Drug Stores">Food & Drug Stores</option>
+        <option value="Food, Beverages &  Tob">Food, Beverages & Tobacco</option>
+        <option value="Health Care">Health Care</option>
+        <option value="Hotels, Restaurants">Hotels and Restaurants</option>
+        <option value="Household Products">Household Products</option>
+        <option value="Health Care">Health Care</option>
+        <option value="Industrials">Industrials</option>
+        <option value="Materials">Materials</option>
+        <option value="Media">Media</option>
+        <option value="Motor Vehicles &  Part">Motor Vehicles & Parts</option>
+        <option value="Retailing">Retailing</option>
+        <option value="Technology">Technology</option>
+        <option value="Telecommunications">Telecommunications</option>
+        <option value="Transportation">Transportation</option>
+        <option value="Wholesalers">Wholesalers</option>
+
+      </select>
+    </div>
+
+    <!-- 4. After user is done selecting less and more, execute the 2 queries (1 to get the company's current info, and 1 to get the new info) -->
+
     <div class="row" style="position:relative; left:10%; font-size: 20px">
       <input name="submit" type="submit" value="Submit">
     </div>
