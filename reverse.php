@@ -38,7 +38,7 @@
 
   # Attach ending semicolon
   // $query .= ";\n";
-
+  echo "<td>".$query."</td>";
   $mysqli->multi_query($query);
   echo 'Here are your results: <br/>';
   # get the SQL results
