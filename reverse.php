@@ -58,15 +58,19 @@
       echo "<th> HQ State </th>";
       echo "<th> HQ City </th>";
       echo "</tr>";
-      echo "<tr>";
-      echo "<td>".$row['name']."</td>";
-      echo "<td>".$row['rank']."</td>";
-      echo "<td>".$row['profit_mil']."</td>";
-      echo "<td>".$row['num_employees']."</td>";
-      echo "<td>".$row['sector']."</td>";
-      echo "<td>".$row['hq_state_code']."</td>";
-      echo "<td>".$row['hq_city']."</td>";
-      echo "</tr>";
+      
+      while ($row = $res->fetch_assoc()) {
+        echo "<tr>";
+        echo "<td>".$row['name']."</td>";
+        echo "<td>".$row['rank']."</td>";
+        echo "<td>".$row['profit_mil']."</td>";
+        echo "<td>".$row['num_employees']."</td>";
+        echo "<td>".$row['sector']."</td>";
+        echo "<td>".$row['hq_state_code']."</td>";
+        echo "<td>".$row['hq_city']."</td>";
+        echo "</tr>";     		// Print every row of the result.
+
+      }
 
       echo "</table>";
     }
