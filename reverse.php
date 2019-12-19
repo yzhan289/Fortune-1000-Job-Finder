@@ -47,19 +47,42 @@
   $mysqli->multi_query($query);
   echo 'Here are your results: <br/>';
   # get the SQL results
-  $res = $mysqli->store_result();
   if ($res) {
     $row = $res->fetch_assoc();
     if (array_key_exists('Result', $row)) {
       die($row['Result']);
     } else {
-      $row['name'];
-      $row['rank'];
-      $row['profit_mil'];
-      $row['num_employees'];
-      $row['sector'];
-      $row['hq_state_code'];
-      $row['hq_city'];
+      echo "<table border=\"1px solid black\">";
+      echo "<tr>";
+      echo "<th> Company Name </th>";
+      echo "<th> Fortune 1000 Rank </th>";
+      echo "<th> Profit (Million) </th>";
+      echo "<th> Number of Employees </th>";
+      echo "<th> Sector </th>";
+      echo "<th> HQ State </th>";
+      echo "<th> HQ City </th>";
+      echo "</tr>";
+      echo "<td>".$row['name']."</td>";
+      echo "<td>".$row['rank']."</td>";
+      echo "<td>".$row['profit_mil']."</td>";
+      echo "<td>".$row['num_employees']."</td>";
+      echo "<td>".$row['sector']."</td>";
+      echo "<td>".$row['hq_state_code']."</td>";
+      echo "<td>".$row['hq_city']."</td>";
+      echo "</tr>";
+      while ($row = $res->fetch_assoc()) {
+        echo "<tr>";
+        echo "<td>".$row['name']."</td>";
+        echo "<td>".$row['rank']."</td>";
+        echo "<td>".$row['profit_mil']."</td>";
+        echo "<td>".$row['num_employees']."</td>";
+        echo "<td>".$row['sector']."</td>";
+        echo "<td>".$row['hq_state_code']."</td>";
+        echo "<td>".$row['hq_city']."</td>";
+        echo "</tr>";     		// Print every row of the result.
+
+      }
+      echo "</table>";
     }
     $res->free();                                              				// Clean-up.
   } else {
