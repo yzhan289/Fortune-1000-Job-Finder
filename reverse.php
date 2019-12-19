@@ -23,7 +23,7 @@
 
   <?php
   include 'open.php'; # connect to the database
-  $query = "SELECT * FROM Company"; # Base query with some true condition
+  $query = "SELECT * FROM Company "; # Base query with some true condition
 
   # Join conditions
   $query .= "INNER JOIN StateInfo on Company.hq_state_code = StateInfo.state_code\n" .
