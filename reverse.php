@@ -72,6 +72,7 @@
 
   // if COL was changed
   if ($col) {
+    echo 'COL changed <br/>';
     if (strcmp($col,"low") == 0) {
       $state_condition = "AND dollar_parity < $col\n";
     }
