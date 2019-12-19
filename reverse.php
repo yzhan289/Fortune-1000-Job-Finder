@@ -41,7 +41,7 @@
 
   $mysqli->multi_query($query);
   $res = $mysqli->store_result();
-  $col;
+  $cost;
   $companysize;
   $citypop;
   # get the SQL results
@@ -51,7 +51,7 @@
       die($row['Result']);
     } else {
       // get cost of living, company size, population of city
-      $col = $row['dollar_parity'];
+      $cost = $row['dollar_parity'];
       $companysize = $row['num_employees'];
       $citypop = $row['city_population'];
     }
@@ -70,14 +70,18 @@
   " AND StateInfo.state_name = CompactCrimeData.state_name\n" .
   " AND Company.hq_city = CompactCrimeData.city_name\n";
 
+  $col = $_POST["col"];
+  $csize = $_POST["csize"];
+  $cpop = $_POST["cpop"];
+
   // if COL was changed
   if ($col) {
     echo 'COL changed <br/>';
     if (strcmp($col,"low") == 0) {
-      $state_condition = "AND dollar_parity < $col\n";
+      $state_condition = "AND dollar_parity < $cost\n";
     }
     if (strcmp($col,"high") == 0) {
-      $state_condition = "AND dollar_parity > $col\n";
+      $state_condition = "AND dollar_parity > $cost\n";
     }
     $query .= $state_condition;
   }
