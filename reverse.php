@@ -30,12 +30,6 @@
   " LEFT JOIN CityInfo on Company.hq_city = CityInfo.city_name\n";
   " LEFT JOIN CompactCrimeData on Company.hq_city = CompactCrimeData.city_name\n";
 
-  // $query .= "WHERE Company.hq_state_code = StateInfo.state_code\n" .
-  // "AND StateInfo.state_name = CityInfo.state_name\n" .
-  // "AND Company.hq_city = CityInfo.city_name\n" .
-  // "AND StateInfo.state_name = CompactCrimeData.state_name\n" .
-  // "AND Company.hq_city = CompactCrimeData.city_name\n";
-
   $cname = $_POST["company"];
   $query .= " WHERE Company.name = \"$cname\";";
 
@@ -43,53 +37,47 @@
   # Attach ending semicolon
   // $query .= ";\n";
   // echo "<td>".$query."</td>";
+  echo 'Looks like you would be a great fit at these companies: <br/>';
 
   $mysqli->multi_query($query);
-  echo 'Here are your results: <br/>';
   $res = $mysqli->store_result();
+  $col;
+  $companysize;
+  $citypop;
   # get the SQL results
   if ($res) {
     $row = $res->fetch_assoc();
     if (array_key_exists('Result', $row)) {
       die($row['Result']);
     } else {
-      echo "<table border=\"1px solid black\">";
-      echo "<tr>";
-      echo "<th> Company Name </th>";
-      echo "<th> Fortune 1000 Rank </th>";
-      echo "<th> Profit (Million) </th>";
-      echo "<th> Number of Employees </th>";
-      echo "<th> Sector </th>";
-      echo "<th> HQ State </th>";
-      echo "<th> HQ City </th>";
-      echo "</tr>";
-      echo "<td>".$row['name']."</td>";
-      echo "<td>".$row['rank']."</td>";
-      echo "<td>".$row['profit_mil']."</td>";
-      echo "<td>".$row['num_employees']."</td>";
-      echo "<td>".$row['sector']."</td>";
-      echo "<td>".$row['hq_state_code']."</td>";
-      echo "<td>".$row['hq_city']."</td>";
-      echo "</tr>";
-      while ($row = $res->fetch_assoc()) {
-        echo "<tr>";
-        echo "<td>".$row['name']."</td>";
-        echo "<td>".$row['rank']."</td>";
-        echo "<td>".$row['profit_mil']."</td>";
-        echo "<td>".$row['num_employees']."</td>";
-        echo "<td>".$row['sector']."</td>";
-        echo "<td>".$row['hq_state_code']."</td>";
-        echo "<td>".$row['hq_city']."</td>";
-        echo "</tr>";     		// Print every row of the result.
-
-      }
-      echo "</table>";
+      // get cost of living, company size, population of city
+      $col = $row['dollar_parity'];
+      $companysize = $row['num_employees'];
+      $citypop = $row['city_population'];
     }
     $res->free();                                              				// Clean-up.
   } else {
     printf("<br>Error: %s\n", $mysqli->error);                 		// The procedure failed to execute.
   }
   $mysqli->close();                                               				// Clean-up.
+// Make a new query with the updated values
+  $query2 = "SELECT * FROM Company "; # Base query with some true condition
+
+  # Join conditions
+  $query2 .= "INNER JOIN StateInfo on Company.hq_state_code = StateInfo.state_code\n" .
+  " LEFT JOIN CityInfo on Company.hq_city = CityInfo.city_name\n";
+  " LEFT JOIN CompactCrimeData on Company.hq_city = CompactCrimeData.city_name WHERE 1 = 1\n";
+
+  // if COL was changed
+  if ($col) {
+    if (strcmp($col,"low") == 0) {
+      $state_condition = "AND dollar_parity < $col\n";
+    }
+    if (strcmp($col,"high") == 0) {
+      $state_condition = "AND dollar_parity > $col\n";
+    }
+    $query .= $state_condition;
+  }
   ?>
 
   <!--Import jQuery before materialize.js-->
