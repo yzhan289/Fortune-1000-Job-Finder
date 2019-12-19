@@ -59,7 +59,6 @@
   } else {
     printf("<br>Error: %s\n", $mysqli->error);                 		// The procedure failed to execute.
   }
-  $mysqli->close();                                               				// Clean-up.
 
   // Make a new query with the updated values
   $query = "SELECT * FROM Company, StateInfo, CityInfo, CompactCrimeData\n"; # Base query with some true condition
@@ -85,7 +84,7 @@
   # Attach ending semicolon
   $query .= ";\n";
 
-  
+
   echo $query;
   $mysqli->multi_query($query);
   # get the SQL results
