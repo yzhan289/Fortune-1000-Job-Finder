@@ -60,74 +60,73 @@
     printf("<br>Error: %s\n", $mysqli->error);                 		// The procedure failed to execute.
   }
   $mysqli->close();                                               				// Clean-up.
-  echo 'cost of living'.$col;
-  // // Make a new query with the updated values
-  // $query = "SELECT * FROM Company "; # Base query with some true condition
-  //
-  // # Join conditions
-  // $query .= "INNER JOIN StateInfo on Company.hq_state_code = StateInfo.state_code\n" .
-  // " LEFT JOIN CityInfo on Company.hq_city = CityInfo.city_name\n";
-  // " LEFT JOIN CompactCrimeData on Company.hq_city = CompactCrimeData.city_name WHERE 1 = 1\n";
-  //
-  // // if COL was changed
-  // if ($col) {
-  //   if (strcmp($col,"low") == 0) {
-  //     $state_condition = "AND dollar_parity < $col\n";
-  //   }
-  //   if (strcmp($col,"high") == 0) {
-  //     $state_condition = "AND dollar_parity > $col\n";
-  //   }
-  //   $query .= $state_condition;
-  // }
-  //
-  // # Attach ending semicolon
-  // $query .= ";\n";
-  //
-  // $mysqli->multi_query($query);
-  // # get the SQL results
-  // $res = $mysqli->store_result();
-  // if ($res) {
-  //   $row = $res->fetch_assoc();
-  //   if (array_key_exists('Result', $row)) {
-  //     die($row['Result']);
-  //   } else {
-  //     echo "<table border=\"1px solid black\">";
-  //     echo "<tr>";
-  //     echo "<th> Company Name </th>";
-  //     echo "<th> Fortune 1000 Rank </th>";
-  //     echo "<th> Profit (Million) </th>";
-  //     echo "<th> Number of Employees </th>";
-  //     echo "<th> Sector </th>";
-  //     echo "<th> HQ State </th>";
-  //     echo "<th> HQ City </th>";
-  //     echo "</tr>";
-  //     echo "<td>".$row['name']."</td>";
-  //     echo "<td>".$row['rank']."</td>";
-  //     echo "<td>".$row['profit_mil']."</td>";
-  //     echo "<td>".$row['num_employees']."</td>";
-  //     echo "<td>".$row['sector']."</td>";
-  //     echo "<td>".$row['hq_state_code']."</td>";
-  //     echo "<td>".$row['hq_city']."</td>";
-  //     echo "</tr>";
-  //     while ($row = $res->fetch_assoc()) {
-  //       echo "<tr>";
-  //       echo "<td>".$row['name']."</td>";
-  //       echo "<td>".$row['rank']."</td>";
-  //       echo "<td>".$row['profit_mil']."</td>";
-  //       echo "<td>".$row['num_employees']."</td>";
-  //       echo "<td>".$row['sector']."</td>";
-  //       echo "<td>".$row['hq_state_code']."</td>";
-  //       echo "<td>".$row['hq_city']."</td>";
-  //       echo "</tr>";     		// Print every row of the result.
-  //
-  //     }
-  //     echo "</table>";
-  //   }
-  //   $res->free();                                              				// Clean-up.
-  // } else {
-  //   printf("<br>Error: %s\n", $mysqli->error);                 		// The procedure failed to execute.
-  // }
-  // $mysqli->close();
+  // Make a new query with the updated values
+  $query = "SELECT * FROM Company "; # Base query with some true condition
+
+  # Join conditions
+  $query .= "INNER JOIN StateInfo on Company.hq_state_code = StateInfo.state_code\n" .
+  " LEFT JOIN CityInfo on Company.hq_city = CityInfo.city_name\n";
+  " LEFT JOIN CompactCrimeData on Company.hq_city = CompactCrimeData.city_name WHERE 1 = 1\n";
+
+  // if COL was changed
+  if ($col) {
+    if (strcmp($col,"low") == 0) {
+      $state_condition = "AND dollar_parity < $col\n";
+    }
+    if (strcmp($col,"high") == 0) {
+      $state_condition = "AND dollar_parity > $col\n";
+    }
+    $query .= $state_condition;
+  }
+
+  # Attach ending semicolon
+  $query .= ";\n";
+  echo $query;
+  $mysqli->multi_query($query);
+  # get the SQL results
+  $res = $mysqli->store_result();
+  if ($res) {
+    $row = $res->fetch_assoc();
+    if (array_key_exists('Result', $row)) {
+      die($row['Result']);
+    } else {
+      echo "<table border=\"1px solid black\">";
+      echo "<tr>";
+      echo "<th> Company Name </th>";
+      echo "<th> Fortune 1000 Rank </th>";
+      echo "<th> Profit (Million) </th>";
+      echo "<th> Number of Employees </th>";
+      echo "<th> Sector </th>";
+      echo "<th> HQ State </th>";
+      echo "<th> HQ City </th>";
+      echo "</tr>";
+      echo "<td>".$row['name']."</td>";
+      echo "<td>".$row['rank']."</td>";
+      echo "<td>".$row['profit_mil']."</td>";
+      echo "<td>".$row['num_employees']."</td>";
+      echo "<td>".$row['sector']."</td>";
+      echo "<td>".$row['hq_state_code']."</td>";
+      echo "<td>".$row['hq_city']."</td>";
+      echo "</tr>";
+      while ($row = $res->fetch_assoc()) {
+        echo "<tr>";
+        echo "<td>".$row['name']."</td>";
+        echo "<td>".$row['rank']."</td>";
+        echo "<td>".$row['profit_mil']."</td>";
+        echo "<td>".$row['num_employees']."</td>";
+        echo "<td>".$row['sector']."</td>";
+        echo "<td>".$row['hq_state_code']."</td>";
+        echo "<td>".$row['hq_city']."</td>";
+        echo "</tr>";     		// Print every row of the result.
+
+      }
+      echo "</table>";
+    }
+    $res->free();                                              				// Clean-up.
+  } else {
+    printf("<br>Error: %s\n", $mysqli->error);                 		// The procedure failed to execute.
+  }
+  $mysqli->close();
   ?>
 
   <!--Import jQuery before materialize.js-->
