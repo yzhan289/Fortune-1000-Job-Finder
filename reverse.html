@@ -34,49 +34,53 @@
 
     </div>
   </nav>
-  <p style="position:relative; left:2%; font-size: 20px">Insert the desired traits for your dream company!</p>
-  <form action="quiz.php" method="post">
+  <p style="position:relative; left:2%; font-size: 20px">Have a company in mind already and want to get something similar?</p>
+  <form action="reverse.php" method="post">
 
-    <!-- Get the state -->
-    <div class="row" style="position:relative; left:10%; font-size: 20px">What state do you want to live in?</div>
+    <!-- Get the company -->
+    <div class="row" style="position:relative; left:10%; font-size: 30px">Input the company name to get the qualities:</div>
     <div class="row" style="position:relative; left:10%; font-size: 20px">
-      <div class="input-field col s3">State: <input type="text" name="state"></div>
+      <div class="input-field col s3">Company: <input type="text" name="company"></div>
     </div>
 
-    <!-- Get the cost of living for the state -->
-    <div class="row" style="position:relative; left:10%; font-size: 20px">What cost of living do you want?</div>
+    <div class="row" style="position:relative; left:10%; font-size: 30px">What do you want to change about your current company?:</div>
+
+    <!-- Get cost of living -->
+    <div class="row" style="position:relative; left:10%; font-size: 20px">I want a ___ cost of living</div>
     <div class="row" style="position:relative; left:10%; font-size: 20px">
       <select id="col" name="col">
-        <option value="any">Any</option>
-        <option value="low">Low</option>
-        <option value="med">Medium</option>
-        <option value="high">High</option>
+        <option value="any"></option>
+        <option value="low">lower</option>
+        <option value="high">higher</option>
       </select>
     </div>
 
-    <!-- Get the city -->
-    <div class="row" style="position:relative; left:10%; font-size: 20px">What city do you want to live in?</div>
+    <!-- Get company population size -->
+    <div class="row" style="position:relative; left:10%; font-size: 20px">I want a ___ company</div>
     <div class="row" style="position:relative; left:10%; font-size: 20px">
-      <div class="input-field col s3">City: <input type="text" name="city"></div>
+      <select id="col" name="csize">
+        <option value="any"></option>
+        <option value="low">smaller</option>
+        <option value="high">larger</option>
+      </select>
     </div>
 
-    <!-- Get the violent crime safety of the company -->
-    <div class="row" style="position:relative; left:10%; font-size: 20px">On a scale from 1 (least) to 4 (most), how important is the rate of violent crimes in the city you want to live in?</div>
+    <!-- Get city population size -->
+    <div class="row" style="position:relative; left:10%; font-size: 20px">I want a ___ city population</div>
     <div class="row" style="position:relative; left:10%; font-size: 20px">
-      <div class="input-field col s3">Rate (1 to 4): <input type="text" name="violent_crime_rate"></div>
+      <select id="col" name="cpop">
+        <option value="any"></option>
+        <option value="low">smaller</option>
+        <option value="high">larger</option>
+      </select>
     </div>
 
-    <!-- Get the property crime safety of the company -->
-    <div class="row" style="position:relative; left:10%; font-size: 20px">On a scale from 1 (least) to 4 (most), how important is the rate of property crimes in the city you want to live in?</div>
-    <div class="row" style="position:relative; left:10%; font-size: 20px">
-      <div class="input-field col s3">Rate (1 to 4): <input type="text" name="property_crime_rate"></div>
-    </div>
 
     <!-- Get the sector of the company -->
-    <div class="row" style="position:relative; left:10%; font-size: 20px">What sector do you want to work in?</div>
+    <div class="row" style="position:relative; left:10%; font-size: 20px">I want to change to a different industry:</div>
     <div class="row" style="position:relative; left:10%; font-size: 20px">
       <select id="sector" name="sector">
-        <option value="any">Any</option>
+        <option value="any"></option>
         <option value="Aerospace &  Defense">Aerospace & Defense</option>
         <option value="Apparel">Apparel</option>
         <option value="Business Services">Business Services</option>
@@ -103,20 +107,10 @@
       </select>
     </div>
 
-    <!-- Get the size of the size of company -->
-    <div class="row" style="position:relative; left:10%; font-size: 20px">How big do you want the company to be?</div>
-    <div class="row" style="position:relative; left:10%; font-size: 20px">
-      <select id="companysize" name="companysize">
-        <option value="any">Any</option>
-        <option value="small">Small (<10,000 employees)</option>
-        <option value="med">Medium (>10,000 employees and <100,000 employees)</option>
-        <option value="big">Large (>100,000 employees)</option>
-      </select>
-    </div>
+    <!-- 4. After user is done selecting less and more, execute the 2 queries (1 to get the company's current info, and 1 to get the new info) -->
 
-    <!--  -->
     <div class="row" style="position:relative; left:10%; font-size: 20px">
-      <br><input name="submit" type="submit" value="Submit"> </br>
+      <input name="submit" type="submit" value="Submit">
     </div>
   </form>
   <div class="parallax-container">
