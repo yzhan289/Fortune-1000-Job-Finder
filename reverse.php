@@ -60,12 +60,13 @@
     printf("<br>Error: %s\n", $mysqli->error);                 		// The procedure failed to execute.
   }
   $mysqli->close();                                               				// Clean-up.
+
   // Make a new query with the updated values
   $query = "SELECT * FROM Company "; # Base query with some true condition
 
   # Join conditions
   $query .= "INNER JOIN StateInfo on Company.hq_state_code = StateInfo.state_code\n" .
-  " LEFT JOIN CityInfo on Company.hq_city = CityInfo.city_name\n";
+  " LEFT JOIN CityInfo on Company.hq_city = CityInfo.city_name\n" .
   " LEFT JOIN CompactCrimeData on Company.hq_city = CompactCrimeData.city_name WHERE 1 = 1\n";
 
   // if COL was changed
